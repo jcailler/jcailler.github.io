@@ -1,0 +1,60 @@
+---
+layout: page
+# The Publications
+---
+
+{% assign df_strftime_m = site.data.locales[site.lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[site.lang].df.archives.dayjs | default: '/ MM' %}
+
+{% assign HEAD_PREFIX = "h_" %}
+{% assign LIST_PREFIX = "l_" %}
+{% assign CHRONOLOGY_PREFIX = "c_" %}
+
+{% assign group_index = 0 %}
+
+{% assign sort_categories = site.categories | sort %}
+
+{% for category in sort_categories %}
+{% assign category_name = category | first %}
+{% assign posts_of_category = category | last %}
+
+
+<div>
+
+  <!-- Nom de la catégorie -->
+  <div id="{{ HEAD_PREFIX }}{{ group_index }}">
+    {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+    <a id="publication_title" href="{{ _category_url | relative_url }}">{{ category_name | capitalize }}</a>
+
+    <!-- La chronologie -->
+    <div id="publications" class="pl-xl-3">
+      
+        <!-- Pour tous les postes de cette catégorie -->
+        {% for post in posts_of_category %}
+        {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+        {% if cur_year != last_year %}
+        {% unless forloop.first %}
+      </ul>{% endunless %}
+      <div class="year lead">{{ cur_year }}</div>
+      <ul class="list-unstyled">
+        {% assign last_year = cur_year %}
+        {% endif %}
+
+        <li>
+          {% assign ts = post.date | date: '%s' %}
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+
+        {% if forloop.last %}
+      </ul>{% endif %}
+      {% endfor %}
+      
+    </div> <!-- .chronologie -->
+
+  </div>
+</div> <!-- .categorie -->
+<br/>
+{% assign group_index = group_index | plus: 1 %}
+
+{% endfor %}

@@ -5,6 +5,7 @@ date: 2000-08-08
 categories: [conference]
 math: true
 mermaid: true
+pdf: ijcar2022.pdf
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.

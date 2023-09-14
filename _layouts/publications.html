@@ -43,7 +43,7 @@ layout: page
 
         <li>
           {% assign ts = post.date | date: '%s' %}
-          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.pdf }}", target="_blank">{{ post.title }}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.pdf }}" target="_blank">{{ post.title }}</a>
         </li>
 
         {% if forloop.last %}

@@ -17,8 +17,8 @@ layout: page
 {% for category in sort_categories %}
 {% assign category_name = category | first %}
 {% assign posts_of_category = category | last %}
-
-
+{% assign cur_year = 0 %}
+{% assign last_year = 0 %}
 <div>
 
   <!-- Nom de la catégorie -->
@@ -43,11 +43,17 @@ layout: page
 
         <li>
           {% assign ts = post.date | date: '%s' %}
-          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.pdf }}" target="_blank">{{ post.title }}</a>
+          <!-- {% if category_name == "software" %}
+          <a href="{{ post.pdf }}" target="_blank">{{ post.title }}</a>
+          {% else %} -->
+          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.pdf }}" target="_blank">
+            {{ post.title }} ({{ post.subtitle }})</a>
+          <!-- {% endif %} -->
         </li>
 
         {% if forloop.last %}
-      </ul>{% endif %}
+      </ul>
+      {% endif %}
       {% endfor %}
 
     </div> <!-- .chronologie -->

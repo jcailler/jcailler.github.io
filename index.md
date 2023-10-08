@@ -6,11 +6,11 @@ order: 0
 
 > {: .prompt-tip }
 
-Hi and welcome to my personal page! 
+Hi and welcome to my personal site! 
 
 I am Julie and currently I am a postdoctoral researcher within the [Chair of Theoretical Computer Sciences](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/startseite/index.html) at [University of Regensburg](https://www.uni-regensburg.de/en).
 
-My work focuses in automated deduction, more especially in theorem proving and the parallelization of the method of analytics tableaux. 
+My work focuses in automated deduction, more especially in theorem proving and the parallelization of the method of analytic tableaux. 
 I made my PhD at [University of Montpellier](https://www.umontpellier.fr/), during which I developed the [Goéland](https://github.com/GoelandProver/Goeland) theorem prover. 
 
 I am also very involved into sciences promotion (and the endless quest to find [who killed Agatha](https://www.tptp.org/cgi-bin/SeeTPTP?Category=Problems&Domain=PUZ&File=PUZ001+1.p)).

@@ -1,6 +1,5 @@
 ---
 layout: page
-# The Publications
 ---
 
 {% assign df_strftime_m = site.data.locales[site.lang].df.archives.strftime | default: '/ %m' %}
@@ -14,53 +13,148 @@ layout: page
 
 {% assign sort_categories = site.categories | sort %}
 
+<!-- Conf -->
+
 {% for category in sort_categories %}
 {% assign category_name = category | first %}
 {% assign posts_of_category = category | last %}
 {% assign cur_year = 0 %}
 {% assign last_year = 0 %}
-<div>
+{% if category_name == "conferences" %}
+<!-- Nom de la catégorie -->
+<div id="{{ HEAD_PREFIX }}{{ group_index }}">
+  {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+  <p id="publication_title">{{ category_name | capitalize }}</p>
 
-  <!-- Nom de la catégorie -->
-  <div id="{{ HEAD_PREFIX }}{{ group_index }}">
-    {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
-    <p id="publication_title">{{ category_name | capitalize }}</p>
+  <!-- La chronologie -->
+  <div id="publications" class="pl-xl-3">
 
-    <!-- La chronologie -->
-    <div id="publications" class="pl-xl-3">
+    <!-- Pour tous les postes de cette catégorie -->
+    {% for post in posts_of_category %}
+    {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 
-      <!-- Pour tous les postes de cette catégorie -->
-      {% for post in posts_of_category %}
-      {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-
-      {% if cur_year != last_year %}
-      {% unless forloop.first %}
-      </ul>{% endunless %}
-      <div class="year lead">{{ cur_year }}</div>
-      <ul class="list-unstyled">
-        {% assign last_year = cur_year %}
-        {% endif %}
-
-        <li>
-          {% assign ts = post.date | date: '%s' %}
-          <!-- {% if category_name == "software" %}
-          <a href="{{ post.pdf }}" target="_blank">{{ post.title }}</a>
-          {% else %} -->
-          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.pdf }}" target="_blank">
-            {{ post.title }} ({{ post.subtitle }})</a>
-          <!-- {% endif %} -->
-        </li>
-
-        {% if forloop.last %}
-      </ul>
+    {% if cur_year != last_year %}
+    {% unless forloop.first %}
+    </ul>{% endunless %}
+    <div class="year lead">{{ cur_year }}</div>
+    <ul class="list-unstyled">
+      {% assign last_year = cur_year %}
       {% endif %}
-      {% endfor %}
 
-    </div> <!-- .chronologie -->
+      <li class="li-extended">
+        <p>
+          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
+          &nbsp {{ post.author }}.<br/>
+          &nbsp  In: <i>{{ post.conf }}</i><br/>
+          &nbsp  Publisher: {{ post.publisher }}.
+        </p>
+      </li>
 
-  </div>
-</div> <!-- .categorie -->
-<br />
+      {% if forloop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+  </div> <!-- .chronologie -->
+</div>
+{% assign group_index = group_index | plus: 1 %}
+{% endif %}
+{% endfor %}
+
+<br/>
+<!-- Talk -->
+
+{% for category in sort_categories %}
+{% assign category_name = category | first %}
+{% assign posts_of_category = category | last %}
+{% assign cur_year = 0 %}
+{% assign last_year = 0 %}
+{% if category_name == "talks" %}
+<!-- Nom de la catégorie -->
+<div id="{{ HEAD_PREFIX }}{{ group_index }}">
+  {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+  <p id="publication_title">{{ category_name | capitalize }}</p>
+
+  <!-- La chronologie -->
+  <div id="publications" class="pl-xl-3">
+
+    <!-- Pour tous les postes de cette catégorie -->
+    {% for post in posts_of_category %}
+    {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if cur_year != last_year %}
+    {% unless forloop.first %}
+    </ul>{% endunless %}
+    <div class="year lead">{{ cur_year }}</div>
+    <ul class="list-unstyled">
+      {% assign last_year = cur_year %}
+      {% endif %}
+
+      <li>
+        {% assign ts = post.date | date: '%s' %}
+        <p>
+          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
+          &nbsp In: <i>{{ post.subtitle }} </i>.
+        </p>
+      </li>
+
+      {% if forloop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+  </div> <!-- .chronologie -->
+</div>
 {% assign group_index = group_index | plus: 1 %}
 
+{% endif %}
+{% endfor %}
+
+<br/>
+
+<!-- Awards -->
+
+{% for category in sort_categories %}
+{% assign category_name = category | first %}
+{% assign posts_of_category = category | last %}
+{% assign cur_year = 0 %}
+{% assign last_year = 0 %}
+
+{% if category_name == "awards" %}
+<!-- Nom de la catégorie -->
+<div id="{{ HEAD_PREFIX }}{{ group_index }}">
+  {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+  <p id="publication_title">{{ category_name | capitalize }}</p>
+
+  <!-- La chronologie -->
+  <div id="publications" class="pl-xl-3">
+
+    <!-- Pour tous les postes de cette catégorie -->
+    {% for post in posts_of_category %}
+    {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if cur_year != last_year %}
+    {% unless forloop.first %}
+    </ul>{% endunless %}
+    <div class="year lead">{{ cur_year }}</div>
+    <ul class="list-unstyled">
+      {% assign last_year = cur_year %}
+      {% endif %}
+
+      <li>
+        {% assign ts = post.date | date: '%s' %}
+        <p>{{ post.title }}<br>
+          &nbsp In: <i>{{ post.subtitle }} </i>.</p>
+      </li>
+
+      {% if forloop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+  </div> <!-- .chronologie -->
+</div>
+{% assign group_index = group_index | plus: 1 %}
+
+{% endif %}
 {% endfor %}

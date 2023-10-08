@@ -62,11 +62,12 @@
 
   ul {
     li {
-      font-size: 1.1rem;
-      line-height: 3rem;
+      font-size: 1rem;
+      line-height: 22px;
       white-space: nowrap;
+      flex-wrap: wrap;
       overflow: hidden;
-      text-overflow: ellipsis;
+      // text-overflow: ellipsis;
 
       &:nth-child(odd) {
         background-color: var(--main-bg, #ffffff);
@@ -78,12 +79,27 @@
 
         top: 0;
         left: 77px;
-        height: 3.1rem;
+        height: 3.8rem;
       }
     }
 
     &:last-child li:last-child::before {
-      height: 1.5rem;
+      height: 0.5rem;
+    }
+
+    /* li custom */
+    .li-extended {
+      overflow-wrap: break-word;
+      font-size: 1rem;
+      line-height: 22px;
+
+      &::before {
+        @extend %timeline;
+
+        top: 0;
+        left: 77px;
+        height: 7.5rem;
+      }
     }
   }
 
@@ -108,9 +124,20 @@
 
   a {
     /* post title in Publication */
+    // margin-left: 5em;
+    position: relative;
+    // top: 0.1rem;
+
+    &:hover {
+      border-bottom: none;
+    }
+  }
+
+  p {
+    /* post title in Publication */
     margin-left: 5em;
     position: relative;
-    top: 0.1rem;
+    top: 0rem;
 
     &:hover {
       border-bottom: none;
@@ -125,8 +152,8 @@
       width: 8px;
       height: 8px;
       float: left;
-      top: 1.35rem;
-      left: 71px;
+      top: 0.4rem;
+      left: -5px;
       background-color: var(--timeline-node-bg);
       box-shadow: 0 0 3px 0 #c2c6cc;
       z-index: 1;

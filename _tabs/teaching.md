@@ -1,9 +1,55 @@
 ---
-icon: fas fa-info-circle
+icon: fas fa-graduation-cap
 order: 2
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+##  Courses
 
-hey
+### University of Regensburg
+
+* Theoretical Foundations of Computer Science I --- 2023-2024
+
+
+### University of Montpellier
+
+* Parallel and Distributed Programming --- 2020
+* Data Warehouse and Big Data --- 2021
+* First-Order Logic --- 2021
+* Network and Concurrent Programming --- 2022
+* Program Verification --- 2023
+* Network, System and Web --- 2020
+* Functional Programming --- 2022
+
+
+## Supervision
+
+### Bachelor’s Thesis Co-Supervision
+
+* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022\\
+Deduction Modulo Theory and Polymorphism in Goéland
+
+* Cédric Cahuzac, Enzo Goulesque, Lorenzo Puccio, Margaux Renoir, Tom Simula --- 2021-2022\\
+Integration of Arithmetic Reasoning in Goéland
+
+### Internship Co-Supervision
+
+* Dylan Bettendroffer --- 2023\\
+A Dedukti output for Goéland | 2nd year of master
+
+* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2023\\
+Deskolemization in First-Order Logic | 3rd year of bachelor
+
+* Matthieu Pierret --- 2023\\
+Interactive proof in Goéland | 2rd year of bachelor
+
+* Lorenzo Puccio --- 2022\\
+A Coq output for Goéland | 3rd year of bachelor
+
+* Adrien Mecibah --- 2022\\
+Interactive traces for ATP | 2nd year of bachelor
+
+* Nina Janeva --- 2021\\
+Automated tool for benchmark | 3rd year of bachelor
+
+* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021\\
+Code trees for unification | 2nd year of bachelor

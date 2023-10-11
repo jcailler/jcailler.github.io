@@ -41,12 +41,12 @@ layout: page
       {% assign last_year = cur_year %}
       {% endif %}
 
-      <li class="li-extended">
+      <li>
         <p>
           <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-          &nbsp; {{ post.author }}.<br/>
-          &nbsp;  In: <i>{{ post.conf }}</i><br/>
-          &nbsp;  Publisher: {{ post.publisher }}.
+          {{ post.author }}.<br/>
+            In: <i>{{ post.conf }}</i><br/>
+            Publisher: {{ post.publisher }}.
         </p>
       </li>
 
@@ -94,7 +94,7 @@ layout: page
         {% assign ts = post.date | date: '%s' %}
         <p>
           <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-          &nbsp; In: <i>{{ post.subtitle }} </i>.
+           In: <i>{{ post.subtitle }} </i>.
         </p>
       </li>
 
@@ -144,7 +144,7 @@ layout: page
       <li>
         {% assign ts = post.date | date: '%s' %}
         <p>{{ post.title }}<br>
-          &nbsp; In: <i>{{ post.subtitle }} </i>.</p>
+           In: <i>{{ post.subtitle }} </i>.</p>
       </li>
 
       {% if forloop.last %}

@@ -64,44 +64,25 @@
     li {
       font-size: 1rem;
       line-height: 22px;
-      white-space: nowrap;
-      flex-wrap: wrap;
-      overflow: hidden;
-      // text-overflow: ellipsis;
+      position: relative;
+      padding-bottom: 1rem;
+      border-left: $timeline-width solid var(--timeline-color);
+      padding-left: 0px;
+      margin-left: 77px;
 
       &:nth-child(odd) {
         background-color: var(--main-bg, #ffffff);
         background-image: linear-gradient(to left, #ffffff, #fbfbfb, #fbfbfb, #fbfbfb, #ffffff);
       }
 
-      &::before {
-        @extend %timeline;
-
-        top: 0;
-        left: 77px;
-        height: 3.8rem;
-      }
-    }
-
-    &:last-child li:last-child::before {
-      height: 0.5rem;
-    }
-
-    /* li custom */
-    .li-extended {
-      overflow-wrap: break-word;
-      font-size: 1rem;
-      line-height: 22px;
-
-      &::before {
-        @extend %timeline;
-
-        top: 0;
-        left: 77px;
-        height: 7.5rem;
+      // li:last-child::before 
+      &:last-child{
+        // border-left: $timeline-width solid var(--main-bg);
+        padding-bottom: 0rem;
       }
     }
   }
+
 
   /* #Publications ul */
 
@@ -124,7 +105,7 @@
 
   a {
     /* post title in Publication */
-    // margin-left: 5em;
+    margin-left: -7px;
     position: relative;
     // top: 0.1rem;
 
@@ -135,7 +116,7 @@
 
   p {
     /* post title in Publication */
-    margin-left: 5em;
+    margin-left: 1em;
     position: relative;
     top: 0rem;
 
@@ -153,7 +134,7 @@
       height: 8px;
       float: left;
       top: 0.4rem;
-      left: -5px;
+      left: -22px;
       background-color: var(--timeline-node-bg);
       box-shadow: 0 0 3px 0 #c2c6cc;
       z-index: 1;

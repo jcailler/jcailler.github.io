@@ -7,18 +7,19 @@ order: 2
 
 ### University of Regensburg
 
-* Theoretical Foundations of Computer Science I --- 2023-2024
+* Theoretical Foundations of Computer Science I --- 1st year of bachelor's degree --- 2023-2024
 
 
 ### University of Montpellier
 
-* Parallel and Distributed Programming --- 2020
-* Data Warehouse and Big Data --- 2021
-* First-Order Logic --- 2021
-* Network and Concurrent Programming --- 2022
-* Program Verification --- 2023
-* Network, System and Web --- 2020
-* Functional Programming --- 2022
+* Program Verification --- 3rd year of bachelor's degree --- 2022-2023
+* Network and Concurrent Programming --- 3rd year of bachelor's degree --- 2022-2023
+* First-Order Logic --- 3rd year of bachelor's degree --- 2021-2022
+* Functional Programming --- 1st year of bachelor's degree --- 2021-2022
+* Data Warehouse and Big Data --- 1st year of master's degree --- 2021-2022
+* Parallel and Distributed Programming --- 1st year of master's degree --- 2020-2021
+* Network, System and Web --- 1st year of bachelor's degree --- 2020-2021
+
 
 
 ## Supervision

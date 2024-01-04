@@ -29,7 +29,7 @@ order: 2
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022\\
 Deduction Modulo Theory and Polymorphism in Goéland
 
-* Cédric Cahuzac, Enzo Goulesque, Lorenzo Puccio, Margaux Renoir, Tom Simula --- 2021-2022\\
+* Cédric Berthet, Enzo Goulesque, Lorenzo Puccio, Margaux Renoir, Tom Simula --- 2021-2022\\
 Integration of Arithmetic Reasoning in Goéland
 
 ### Internship Co-Supervision

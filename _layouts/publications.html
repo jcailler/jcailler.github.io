@@ -44,9 +44,9 @@ layout: page
       <li>
         <p>
           <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-          {{ post.author }}.<br/>
-            In: <i>{{ post.conf }}</i><br/>
-            Publisher: {{ post.publisher }}.
+          &nbsp; {{ post.author }}.<br/>
+          &nbsp; In: <i>{{ post.conf }}</i><br/>
+          &nbsp; Publisher: {{ post.publisher }}.
         </p>
       </li>
 
@@ -94,7 +94,7 @@ layout: page
         {% assign ts = post.date | date: '%s' %}
         <p>
           <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-           In: <i>{{ post.subtitle }} </i>.
+          &nbsp; In: <i>{{ post.subtitle }} </i>.
         </p>
       </li>
 
@@ -144,7 +144,56 @@ layout: page
       <li>
         {% assign ts = post.date | date: '%s' %}
         <p>{{ post.title }}<br>
-           In: <i>{{ post.subtitle }} </i>.</p>
+          &nbsp; In: <i>{{ post.subtitle }} </i>.</p>
+      </li>
+
+      {% if forloop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+  </div> <!-- .chronologie -->
+</div>
+{% assign group_index = group_index | plus: 1 %}
+
+{% endif %}
+{% endfor %}
+
+
+<!-- Thesis -->
+{% for category in sort_categories %}
+{% assign category_name = category | first %}
+{% assign posts_of_category = category | last %}
+{% assign cur_year = 0 %}
+{% assign last_year = 0 %}
+
+{% if category_name == "thesis" %}
+<!-- Nom de la catégorie -->
+<div id="{{ HEAD_PREFIX }}{{ group_index }}">
+  {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+  <p id="publication_title">{{ category_name | capitalize }}</p>
+
+  <!-- La chronologie -->
+  <div id="publications" class="pl-xl-3">
+
+    <!-- Pour tous les postes de cette catégorie -->
+    {% for post in posts_of_category %}
+    {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if cur_year != last_year %}
+    {% unless forloop.first %}
+    </ul>{% endunless %}
+    <div class="year lead">{{ cur_year }}</div>
+    <ul class="list-unstyled">
+      {% assign last_year = cur_year %}
+      {% endif %}
+
+      <li>
+        <p>
+        <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{% assign ts = post.date | date: '%s' %}
+      {{post.title }}</a><br>
+      &nbsp; <i>{{ post.subtitle }} </i>.
+        </p>
       </li>
 
       {% if forloop.last %}

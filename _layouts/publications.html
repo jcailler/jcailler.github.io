@@ -45,8 +45,9 @@ layout: page
         <p>
           <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
           &nbsp; {{ post.author }}.<br/>
-          &nbsp; In: <i>{{ post.conf }}</i><br/>
-          &nbsp; Publisher: {{ post.publisher }}.
+          &nbsp; In: <i>{{ post.conf }}</i>.<br/>
+          <!-- &nbsp; Publisher: {{ post.publisher }}.<br/> -->
+          &nbsp;&nbsp;&nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> | &nbsp;  <a href="{{ post.doi }}" target="_blank">DOI</a>
         </p>
       </li>
 
@@ -94,7 +95,7 @@ layout: page
         {% assign ts = post.date | date: '%s' %}
         <p>
           <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-          &nbsp; In: <i>{{ post.subtitle }} </i>.
+          &nbsp; In: <i>{{ post.subtitle }}</i>.
         </p>
       </li>
 
@@ -144,7 +145,7 @@ layout: page
       <li>
         {% assign ts = post.date | date: '%s' %}
         <p>{{ post.title }}<br>
-          &nbsp; In: <i>{{ post.subtitle }} </i>.</p>
+          &nbsp; In: <i>{{ post.subtitle }}</i>.</p>
       </li>
 
       {% if forloop.last %}
@@ -192,7 +193,7 @@ layout: page
         <p>
         <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{% assign ts = post.date | date: '%s' %}
       {{post.title }}</a><br>
-      &nbsp; <i>{{ post.subtitle }} </i>.
+      &nbsp; <i>{{ post.subtitle }}</i>.
         </p>
       </li>
 

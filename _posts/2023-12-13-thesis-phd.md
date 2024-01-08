@@ -7,4 +7,5 @@ categories: [thesis]
 math: true
 mermaid: true
 attachment: thesis.pdf
+slides: defense_presentation.pdf
 ---

@@ -17,4 +17,4 @@ I am also very involved into sciences promotion (and the endless quest to find o
 I am a huge fan of puzzles, especially Rubik's cube, I traumatize my interns, and sometimes, when I meet people I like, I bake delicious cookies.
 
 
-You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: October 2023).
+You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: January 2024).

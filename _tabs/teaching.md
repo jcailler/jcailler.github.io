@@ -34,6 +34,9 @@ Integration of Arithmetic Reasoning in Goéland
 
 ### Internship Co-Supervision
 
+* Filip Jagiellowicz --- 2024\\
+Implementation of a decision procedure for CaAL | 1st year of master
+
 * Dylan Bettendroffer --- 2023\\
 A Dedukti output for Goéland | 2nd year of master
 

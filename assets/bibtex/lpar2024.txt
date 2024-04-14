@@ -1,0 +1,16 @@
+@inproceedings{rosain2024deskolemization,
+  author       = {Johann Rosain and
+                  Richard Bonichon and
+                  Julie Cailler and
+                  Olivier Hermant},
+  editor       = {},
+  title        = {A Generic Deskolemization Strategy},
+  booktitle    = {25th International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR 25), Mauritus, May 26-31, 2024, Proceedings},
+  series       = {},
+  volume       = {},
+  pages        = {},
+  publisher    = {},
+  year         = {2024},
+  url          = {},
+  doi          = {}
+}

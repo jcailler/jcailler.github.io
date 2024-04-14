@@ -7,6 +7,7 @@ order: 2
 
 ### University of Regensburg
 
+* Programming II --- 1st year of bachelor's degree --- 2023-2024
 * Theoretical Foundations of Computer Science I --- 1st year of bachelor's degree --- 2023-2024
 
 

@@ -3,7 +3,7 @@ icon: fas fa-lightbulb
 order: 3
 ---
 
-## Conferences Organisation
+## Conferences Organization
 
 * [24th Conference in Formal Methods in Computer-Aided Design 2024](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
 * [11th Workshop on Horn Clauses for Verification and Synthesis](https://www.sci.unich.it/hcvs24/) --- **HCVS 2024** --- PC Chair

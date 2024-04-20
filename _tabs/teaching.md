@@ -7,6 +7,7 @@ order: 2
 
 ### University of Regensburg
 
+* Programming II --- 1st year of bachelor's degree --- 2023-2024
 * Theoretical Foundations of Computer Science I --- 1st year of bachelor's degree --- 2023-2024
 
 
@@ -33,6 +34,9 @@ Deduction Modulo Theory and Polymorphism in Goéland
 Integration of Arithmetic Reasoning in Goéland
 
 ### Internship Co-Supervision
+
+* Filip Jagiellowicz --- 2024\\
+Implementation of a decision procedure for CaAL | 1st year of master
 
 * Dylan Bettendroffer --- 2023\\
 A Dedukti output for Goéland | 2nd year of master

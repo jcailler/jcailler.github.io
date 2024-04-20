@@ -7,13 +7,13 @@ order: 2
 
 ### University of Regensburg
 
-* Programming II --- 1st year of bachelor's degree --- 2023-2024
+* [Programming II](https://github.com/ur-tcs) --- 1st year of bachelor's degree --- 2023-2024
 * Theoretical Foundations of Computer Science I --- 1st year of bachelor's degree --- 2023-2024
 
 
 ### University of Montpellier
 
-* Program Verification --- 3rd year of bachelor's degree --- 2022-2023
+* Program Verification --- 3rd year of bachelor's degree --- 2022-2023 ([Coq guide]({{ site.url }}{{ site.baseurl }}/assets/pdf/guide_coq.pdf))
 * Network and Concurrent Programming --- 3rd year of bachelor's degree --- 2022-2023
 * First-Order Logic --- 3rd year of bachelor's degree --- 2021-2022
 * Functional Programming --- 1st year of bachelor's degree --- 2021-2022

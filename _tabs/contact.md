@@ -1,6 +1,6 @@
 ---
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 You can contact me using the following email: julie.cailler[at]ur.de (by replacing [at] by @).\\

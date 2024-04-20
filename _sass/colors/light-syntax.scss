@@ -3,6 +3,10 @@
  */
 
 @mixin light-syntax {
+    pre {
+        background-color: #ecddf3;
+      } /* override Bootstrap
+
   /* see: <https://raw.githubusercontent.com/jwarby/pygments-css/master/github.css> */
   .highlight .hll { background-color: #ffffcc; }
   .highlight .c { color: #999988; font-style: italic; } /* Comment */

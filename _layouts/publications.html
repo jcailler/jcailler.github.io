@@ -42,12 +42,11 @@ layout: page
       {% endif %}
 
       <li>
-        <p>
-          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-          &nbsp; {{ post.author }}.<br/>
-          &nbsp; In: <i>{{ post.conf }}</i>.<br/>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
+          {{ post.author }}.<br/>
+          In: <i>{{ post.conf }}</i>.<br/>
           <!-- &nbsp; Publisher: {{ post.publisher }}.<br/> -->
-          &nbsp;&nbsp;&nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> | &nbsp;  <a href="{{ post.doi }}" target="_blank">DOI</a>
+          &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> | &nbsp;  <a href="{{ post.doi }}" target="_blank">DOI</a>
         </p>
       </li>
 
@@ -93,9 +92,8 @@ layout: page
 
       <li>
         {% assign ts = post.date | date: '%s' %}
-        <p>
-          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
-          &nbsp; In: <i>{{ post.subtitle }}</i>.
+        <p><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
+          At: <i>{{ post.subtitle }}</i>.
         </p>
       </li>
 
@@ -190,10 +188,8 @@ layout: page
       {% endif %}
 
       <li>
-        <p>
-        <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{% assign ts = post.date | date: '%s' %}
-      {{post.title }}</a><br>
-      &nbsp; <i>{{ post.subtitle }}</i> | &nbsp;  <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.slides }}" target="_blank">Slides</a>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{% assign ts = post.date | date: '%s' %}{{post.title}}</a><br>
+      <i>{{ post.subtitle }}</i> | &nbsp;  <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.slides }}" target="_blank">Slides</a>
         </p>
       </li>
 

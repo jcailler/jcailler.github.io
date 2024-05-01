@@ -11,7 +11,7 @@ order: 3
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022** --- Volunteer Student
 
 
-## Subreviewer \& Artifact Reviewer
+## Subreviewer & Artifact Reviewer
 
 * [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))

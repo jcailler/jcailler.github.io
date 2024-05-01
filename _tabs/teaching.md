@@ -30,30 +30,30 @@ order: 2
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022\\
 Deduction Modulo Theory and Polymorphism in Goéland
 
-* Cédric Berthet, Enzo Goulesque, Lorenzo Puccio, Margaux Renoir, Tom Simula --- 2021-2022\\
+* [Cédric Berthet](https://www.linkedin.com/in/c%C3%A9dric-cahuzac-a472ab188/), [Enzo Goulesque](https://www.linkedin.com/in/enzo-goulesque-1690a3284/), [Lorenzo Puccio](https://www.linkedin.com/in/lorenzo-puccio-bcs/), [Margaux Renoir](https://www.linkedin.com/in/margaux-renoir-244479220/), [Tom Simula](https://www.linkedin.com/in/tom-simula-5039b8193/) --- 2021-2022\\
 Integration of Arithmetic Reasoning in Goéland
 
 ### Internship Co-Supervision
 
-* Filip Jagiellowicz --- 2024\\
+* [Filip Jagiellowicz](https://www.linkedin.com/in/filip-jagie%C5%82%C5%82owicz-17a126160/) --- 2024\\
 Implementation of a decision procedure for CaAL | 1st year of master
 
-* Dylan Bettendroffer --- 2023\\
+* [Dylan Bettendroffer](https://github.com/dym-dym) --- 2023\\
 A Dedukti output for Goéland | 2nd year of master
 
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2023\\
 Deskolemization in First-Order Logic | 3rd year of bachelor
 
-* Matthieu Pierret --- 2023\\
+* [Matthieu Pierret](https://www.linkedin.com/in/matthieupierret/) --- 2023\\
 Interactive proof in Goéland | 2rd year of bachelor
 
-* Lorenzo Puccio --- 2022\\
+* [Lorenzo Puccio](https://www.linkedin.com/in/lorenzo-puccio-bcs/) --- 2022\\
 A Coq output for Goéland | 3rd year of bachelor
 
-* Adrien Mecibah --- 2022\\
+* [Adrien Mecibah](https://www.linkedin.com/in/adrien-mecibah-4835aa200/) --- 2022\\
 Interactive traces for ATP | 2nd year of bachelor
 
-* Nina Janeva --- 2021\\
+* [Nina Janeva](https://www.linkedin.com/in/nina-janeva-08b416146/) --- 2021\\
 Automated tool for benchmark | 3rd year of bachelor
 
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021\\

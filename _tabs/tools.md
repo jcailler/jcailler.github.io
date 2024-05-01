@@ -5,6 +5,8 @@ order: 4
 
 ### [Goéland](https://github.com/GoelandProver/Goeland)
 
+
+
 Goéland is an automated theorem prover for first-order logic with equality. It relies on a
 concurrent proof-search procedure based on the method of free-variable analytics tableaux that
 allows it to perform a fair branch exploration. The prover is also able to deal with axiomatisable
@@ -43,6 +45,8 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 
 
 ### [SC-TPTP Utilities](https://github.com/SC-TPTP/sc-tptp)
+
+Work done in collaboration with [Simon Guilloud](https://people.epfl.ch/simon.guilloud).
 
 SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Coq. 
 

@@ -11,8 +11,9 @@ order: 3
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022** --- Volunteer Student
 
 
-## Subreviewer 
+## Subreviewer \& Artifact Reviewer
 
+* [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))
 * Certified Programs and Proofs --- **CPP** ([2023](https://popl23.sigplan.org/home/CPP-2023), [2024](https://popl24.sigplan.org/home/CPP-2024))
 * [International Joint Conference on Automated Reasoning](https://ijcar.org/) --- **IJCAR** ([2022](https://www.floc2022.org/), [2024](https://merz.gitlabpages.inria.fr/2024-ijcar/))
@@ -20,7 +21,7 @@ order: 3
 
 ## Science Popularization & Other events
 
-* [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- FInale régionale Occitanie Est 2023
+* [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Finale régionale Occitanie Est 2023
 * 5 Minutes pour convaincre --- [Université de Montpellier](https://www.umontpellier.fr/en/)
 * [Math C2+](https://www.mathc2plus.fr/)
 * [Filles et Maths](https://filles-et-maths.fr/)

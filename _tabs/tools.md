@@ -14,7 +14,7 @@ theories thanks to a module of deduction modulo theory, to deal with polymorphic
 and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 
 <details>
-  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/ijcar2022.txt"> this paper</a> if you want to cite Goéland.</summary>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/ijcar2022.txt"> this paper</a> if you want to cite Goéland:</summary>
 
 <div>
 <pre>
@@ -50,4 +50,26 @@ Work done in collaboration with [Simon Guilloud](https://people.epfl.ch/simon.gu
 
 SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Coq. 
 
-<!-- Please refer to this paper if you want to cite SC-TPTP utilities: -->
+<details>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/lpar2024.txt"> this paper</a> if you want to cite SC-TPTP utilities:</summary>
+
+<div>
+<pre>
+@inproceedings{LPAR2024:Generic_Deskolemization_Strategy,
+  author    = {Johann Rosain and Richard Bonichon and Julie Cailler and Olivier Hermant},
+  title     = {A Generic Deskolemization Strategy},
+  booktitle = {Proceedings of 25th Conference on Logic for Programming, Artificial Intelligence and Reasoning},
+  editor    = {Nikolaj Bj\{\textbackslash{}o\}rner and Marijn Heule and Andrei Voronkov},
+  series    = {EPiC Series in Computing},
+  volume    = {100},
+  pages     = {246--263},
+  year      = {2024},
+  publisher = {EasyChair},
+  bibsource = {EasyChair, https://easychair.org},
+  issn      = {2398-7340},
+  url       = {https://easychair.org/publications/paper/VgpS},
+  doi       = {10.29007/g1tm}}
+</pre>
+</div>
+
+</details>

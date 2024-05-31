@@ -21,6 +21,7 @@ order: 3
 
 ## Science Popularization & Other events
 
+* [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) --- Atelier de préparation des concours
 * [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Finale régionale Occitanie Est 2023
 * 5 Minutes pour convaincre --- [Université de Montpellier](https://www.umontpellier.fr/en/)
 * [Math C2+](https://www.mathc2plus.fr/)

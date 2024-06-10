@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <script>
+        L_NO_TOUCH = false;
+        L_DISABLE_3D = false;
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet"
+        href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+    </style>
+
+    <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>
+        #map_35e7b192f95e41ce860f860043f86c3b {
+            position: relative;
+            width: 100.0%;
+            height: 100.0%;
+            left: 0.0%;
+            top: 0.0%;
+        }
+
+        .job-marker {
+            background-color: orange;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+        }
+
+        .conf-marker {
+            background-color: blue;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="folium-map" id="map"></div>
+</body>
+<script>
+    var map = L.map(
+        "map",
+        {
+            center: [50.0, 10.0],
+            crs: L.CRS.EPSG3857,
+            zoom: 4,
+            zoomControl: true,
+            preferCanvas: false,
+        }
+    );
+
+    // Add a tile layer to the map (OpenStreetMap tiles)
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+
+    // Markers
+    var jobMarker = L.divIcon({
+        className: 'job-marker'
+    });
+    var confMarker = L.divIcon({
+        className: 'conf-marker'
+    });
+
+    // Coordinates
+    var conf = [
+        { name: 'IJCAR 2024', location: [48.69776160623848, 6.171918082976066] },
+        { name: 'GDR GPL 2024', location: [48.57987562774337, 7.763427406974662] },
+        { name: 'ETAPS 2024', location: [49.63965835067326, 6.154014486297844] },
+        { name: 'Contract Lanuages Workshop', location: [52.168049544503766, 4.458929368337354] },
+        { name: 'AVM 2023', location: [50.08873612839579, 14.403682282921451] },
+        { name: 'ICGT 2022, ICSR 2022', location: [43.6319, 3.8615] },
+        { name: 'IJCAR 2022', location: [32.77603062666881, 35.0223966964578] },
+        { name: 'GDR GPL 2022', location: [47.64526031123392, -2.746276246874239] }
+    ];
+
+    var job = [
+        { name: 'Loria, University of Lorraine', location: [48.6671, 6.1603] },
+        { name: 'Chair of TCS, University of Regensburg', location: [48.997934316242, 12.120318945232992] },
+        { name: 'LIRMM, University of Montpellier', location: [43.63690858187886, 3.840357502026212] }
+    ];
+
+    // Markers
+    conf.forEach(function (place) {
+        L.marker(place.location, { icon: confMarker }).addTo(map)
+            .bindPopup(place.name)
+    });
+    job.forEach(function (place) {
+        L.marker(place.location, { icon: jobMarker }).addTo(map)
+            .bindPopup(place.name)
+    });
+
+</script>
+
+
+<!-- 
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+
+ <style>
+        #map {
+            height: 600px;
+            width: 100%;
+        }
+        .job-marker {
+            background-color: orange;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+        }
+        .conf-marker {
+            background-color: blue;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+        }
+</style>
+
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+    // Initialize the map and set its view to Europe
+    var map = L.map('map').setView([50.0, 10.0], 4);
+
+    // Add a tile layer to the map (OpenStreetMap tiles)
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+
+    // Markers
+    var jobMarker = L.divIcon({
+        className: 'job-marker'
+    });
+    var confMarker = L.divIcon({
+        className: 'conf-marker'
+    });
+
+    // Coordinates
+    var conf =  [
+        { name: 'IJCAR 2024', location: [48.69776160623848, 6.171918082976066] },
+        { name: 'GDR GPL 2024', location: [48.57987562774337, 7.763427406974662] },
+        { name: 'ETAPS 2024', location: [49.63965835067326, 6.154014486297844] }, 
+        { name: 'Contract Lanuages Workshop', location: [52.168049544503766, 4.458929368337354] }, 
+        { name: 'AVM 2023', location: [50.08873612839579, 14.403682282921451] },
+        { name: 'ICGT 2022, ICSR 2022', location: [43.6319, 3.8615] },
+        { name: 'IJCAR 2022', location: [32.77603062666881, 35.0223966964578] },
+        { name: 'GDR GPL 2022', location: [47.64526031123392, -2.746276246874239] } 
+    ];
+
+    var job = [
+        { name: 'Loria, University of Lorraine', location: [48.6671, 6.1603] },
+        { name: 'Chair of TCS, University of Regensburg', location: [48.997934316242, 12.120318945232992] },
+        { name: 'LIRMM, University of Montpellier', location: [43.63690858187886, 3.840357502026212] }
+        ];
+
+
+
+    // Markers
+    conf.forEach(function(place) {
+            L.marker(place.location, {icon: confMarker}).addTo(map)
+                .bindPopup(place.name)
+        });
+    job.forEach(function(place) {
+            L.marker(place.location, {icon: jobMarker}).addTo(map)
+                .bindPopup(place.name)
+        });
+
+</script> -->

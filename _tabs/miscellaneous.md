@@ -11,9 +11,9 @@ I also play an active role in the organization of events for the general public,
 I also give talks in high school to introduce and promote research to students, especially towards [girls](https://filles-et-maths.fr/).
 
 
-## Where Do We Met?
+## Where Do We Meet?
 
-I went to various places, and met a lot of people, that I am unfortunately not always able to remember. So, if you think we already met somewhere, you can check it here!
+I went to various places, and met a lot of people, that I am unfortunately not always able to remember. So, if you think we already met somewhere, you can verify your intuition here!
 
 <iframe src="/assets/map/event-map.html" height="600" width="100%"></iframe>
 

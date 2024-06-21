@@ -51,6 +51,13 @@
             top: 0.0%;
         }
 
+        .conf-marker {
+            background-color: blue;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+        }
+
         .job-marker {
             background-color: orange;
             border-radius: 50%;
@@ -58,12 +65,13 @@
             height: 20px;
         }
 
-        .conf-marker {
-            background-color: blue;
+        .meeting-marker {
+            background-color: rgb(11, 163, 92);
             border-radius: 50%;
             width: 20px;
             height: 20px;
         }
+
     </style>
 </head>
 
@@ -89,11 +97,14 @@
 
 
     // Markers
+    var confMarker = L.divIcon({
+        className: 'conf-marker'
+    });
     var jobMarker = L.divIcon({
         className: 'job-marker'
     });
-    var confMarker = L.divIcon({
-        className: 'conf-marker'
+    var meetingMarker = L.divIcon({
+        className: 'meeting-marker'
     });
 
     // Coordinates
@@ -114,6 +125,15 @@
         { name: 'LIRMM, University of Montpellier', location: [43.63690858187886, 3.840357502026212] }
     ];
 
+    var meeting = [
+        { name: 'Lorentz Center @ Oort', location: [52.169978755295915, 4.464307202899878] },
+        { name: 'École des Mines de Paris', location: [48.84719598366876, 2.338970151114493] },
+        { name: 'INRIA Paris', location: [48.84578566631571, 2.3835270116446687] },
+        { name: 'EPFL', location: [46.51962632274279, 6.567637493607825] },
+        { name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg', location: [49.573908910077584, 11.02706350371601] }
+    ];
+
+
     // Markers
     conf.forEach(function (place) {
         L.marker(place.location, { icon: confMarker }).addTo(map)
@@ -121,6 +141,10 @@
     });
     job.forEach(function (place) {
         L.marker(place.location, { icon: jobMarker }).addTo(map)
+            .bindPopup(place.name)
+    });
+    meeting.forEach(function (place) {
+        L.marker(place.location, { icon: meetingMarker }).addTo(map)
             .bindPopup(place.name)
     });
 

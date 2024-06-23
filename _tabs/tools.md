@@ -46,7 +46,7 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 
 ### [SC-TPTP Utilities](https://github.com/SC-TPTP/sc-tptp)
 
-Work done in collaboration with [Simon Guilloud](https://people.epfl.ch/simon.guilloud).
+Work done in collaboration with [Simon Guilloud](https://simonguilloud.ch/).
 
 SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Coq. 
 

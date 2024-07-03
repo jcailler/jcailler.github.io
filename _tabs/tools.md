@@ -55,7 +55,12 @@ SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It
 
 <div>
 <pre>
-
+@inproceedings{cailler2024sc,
+  title={SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus},
+  author={Cailler, Julie and Guilloud, Simon},
+  booktitle={9th Workshop on Practical Aspects of Automated Reasoning},
+  year={2024}
+}
 </pre>
 </div>
 

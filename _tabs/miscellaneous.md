@@ -3,6 +3,17 @@ icon: fas fa-gamepad
 order: 5
 ---
 
+## AAR Newsletter
+
+I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please feel free to bring to my attention any information you would like to see featured in the newsletter by writing an email at [newsletter[at]aarinc.org](mailto:newsletter@aarinc.org). The newsletter is also a good place to post relevant job opportunities, book publications, new software, and open letters to the automated reasoning community. 
+
+> 
+Next Release:\\
+October 2024
+{: .prompt-tip }
+
+## Science Popularization
+
 I love science promotion, and I think that sharing science with everyone is an essential part of our work. 
 I participated to (and surprisingly won) a few (French) contests of science promotion: [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ), which is the french edition of 3 minute thesis, and [5 minutes to convince](/assets/pdf/5_minutes_pour_convaincre.pdf).
 

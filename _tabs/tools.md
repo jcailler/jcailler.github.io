@@ -5,7 +5,7 @@ order: 4
 
 ### [Goéland](https://github.com/GoelandProver/Goeland)
 
-
+Work done in collaboration with [David Delahaye](https://www.lirmm.fr/~delahaye/), [Isaac Lluís](http://isaac-lluis.com/) and [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/). 
 
 Goéland is an automated theorem prover for first-order logic with equality. It relies on a
 concurrent proof-search procedure based on the method of free-variable analytics tableaux that

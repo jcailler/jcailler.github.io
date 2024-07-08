@@ -22,12 +22,12 @@ order: 3
 
 ## Science Popularization & Other events
 
-* [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) --- Atelier de préparation des concours
-* [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Finale régionale Occitanie Est 2023
-* 5 Minutes pour convaincre --- [Université de Montpellier](https://www.umontpellier.fr/en/)
+* [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) --- Competition preparation workshop
+* [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Regional Final East Occitanie 2023
+* 5 Minutes to convince --- [Université de Montpellier](https://www.umontpellier.fr/en/)
 * [Math C2+](https://www.mathc2plus.fr/)
 * [Filles et Maths](https://filles-et-maths.fr/)
 * SeminDoc --- [LIRMM](https://www.lirmm.fr/lirmm-en/) PhD seminar (2020-2023)
-* 30ème anniversaire du [LIRMM](https://www.lirmm.fr/lirmm-en/)
-* Fête de la science 2022
-* Journées portes ouvertes du [LIRMM](https://www.lirmm.fr/lirmm-en/) 2022
+* 30th anniversary of [LIRMM](https://www.lirmm.fr/lirmm-en/)
+* [Science Festival](https://www.fetedelascience.fr/) 2022
+* [LIRMM](https://www.lirmm.fr/lirmm-en/)'s open days 2022

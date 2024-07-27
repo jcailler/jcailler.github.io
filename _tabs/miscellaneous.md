@@ -15,11 +15,9 @@ October 2024
 ## Science Popularization
 
 I love science promotion, and I think that sharing science with everyone is an essential part of our work. 
-I participated to (and surprisingly won) a few (French) contests of science promotion: [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ), which is the french edition of 3 minute thesis, and [5 minutes to convince](/assets/pdf/5_minutes_pour_convaincre.pdf).
+I participated to (and surprisingly won) a few (French) contests of science promotion: [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ), which is the French edition of 3 minute thesis, and [5 minutes to convince](/assets/pdf/5_minutes_pour_convaincre.pdf). 
 
-I also play an active role in the organization of events for the general public, such as open days or science festivals. You can find an illustration of the riddles of the [Princess and the tiger](/assets/pdf/tiger.pdf), as well as the [Dreadbury Mansion](/assets/pdf/agatha.pdf).
-
-I also give talks in high school to introduce and promote research to students, especially towards [girls](https://filles-et-maths.fr/).
+I also play an active role in the organization of events for the general public, such as open days or science festivals. In particular, I am involved in promoting research among students, especially [girls](https://filles-et-maths.fr/). I illustrate logic through games and puzzle-solving, using examples such as the riddles of the [Princess and the tiger](/assets/pdf/tiger.pdf) or the [Dreadbury Mansion](/assets/pdf/agatha.pdf).
 
 
 ## Where Did We Meet?

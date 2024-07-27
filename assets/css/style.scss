@@ -10,3 +10,38 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+marker-conf {
+  background-color: blue;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  text-align: center;
+  line-height: 100px;
+  margin-right: 5px;
+}
+
+marker-job {
+  background-color: orange;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  text-align: center;
+  line-height: 100px;
+  margin-right: 5px;
+  margin-left: 20px;
+}
+
+marker-meeting {
+  background-color: rgb(11, 163, 92);;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  text-align: center;
+  line-height: 100px;
+  margin-right: 5px;
+  margin-left: 20px;
+}

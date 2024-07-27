@@ -28,4 +28,8 @@ I went to various places, and met a lot of people, that I am unfortunately not a
 
 <iframe src="/assets/map/event-map.html" height="600" width="100%"></iframe>
 
-
+<div>
+<marker-conf></marker-conf> Conference
+<marker-job></marker-job> Employment
+<marker-meeting></marker-meeting> Visit/Meeting/Other
+</div>

@@ -16,4 +16,4 @@ I did my PhD at [University of Montpellier](https://www.umontpellier.fr/), durin
 I am also very involved into sciences promotion (and the endless quest to find out [who killed Agatha](https://tptp.org/cgi-bin/SeeTPTP?Category=Problems&Domain=PUZ&File=PUZ001+1.p)).
 Finally, I am a huge fan of puzzles, especially Rubik's Cube, I like to traumatize my interns, and I bake delicious cookies!
 
-You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: March 2024).
+You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: August 2024).

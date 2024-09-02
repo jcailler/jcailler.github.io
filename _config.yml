@@ -21,7 +21,7 @@ timezone: Europe/Paris
 
 title: Julie CAILLER                          # the main title
 
-tagline: Postdoctoral Researcher <br/> University of Regensburg # it will display as the sub-title
+tagline: Associate Professor <br/> University of Lorraine & Inria # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Hi and welcome to my personal site!
@@ -38,8 +38,8 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Julie CAILLER
-  email: julie.cailler@ur.de             # change to your email address
+  name: Julie Cailler
+  email: julie.cailler@univ-lorraine.fr             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/jcailler       # change to your github homepage

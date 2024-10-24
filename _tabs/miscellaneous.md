@@ -9,8 +9,12 @@ I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please 
 
 > 
 Next Release:\\
-October 2024
+November 2024
 {: .prompt-tip }
+
+## Artifact Evaluation Template
+
+If you want to organize an Artifact Evaluation Track and need some templates (author guide, reviewer guide, ...), feel free to reuse [this work](https://drive.google.com/drive/folders/1-AqZA5qwYZGBPhOO9AtJIJvYzne-tAYb?usp=sharing).
 
 ## Science Popularization
 

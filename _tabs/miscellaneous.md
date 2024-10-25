@@ -12,16 +12,17 @@ Next Release:\\
 November 2024
 {: .prompt-tip }
 
-## Artifact Evaluation Template
-
-If you want to organize an Artifact Evaluation Track and need some templates (author guide, reviewer guide, ...), feel free to reuse [this work](https://drive.google.com/drive/folders/1-AqZA5qwYZGBPhOO9AtJIJvYzne-tAYb?usp=sharing).
-
 ## Science Popularization
 
 I love science promotion, and I think that sharing science with everyone is an essential part of our work. 
 I participated to (and surprisingly won) a few (French) contests of science promotion: [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ), which is the French edition of 3 minute thesis, and [5 minutes to convince](/assets/pdf/5_minutes_pour_convaincre.pdf). 
 
 I also play an active role in the organization of events for the general public, such as open days or science festivals. In particular, I am involved in promoting research among students, especially [girls](https://filles-et-maths.fr/). I illustrate logic through games and puzzle-solving, using examples such as the riddles of the [Princess and the tiger](/assets/pdf/tiger.pdf) or the [Dreadbury Mansion](/assets/pdf/agatha.pdf).
+
+
+## Artifact Evaluation Track Template
+
+If you want to organize an Artifact Evaluation track for you workshop or conference and need some templates (author guide, reviewer guide, ...), feel free to reuse [this work](https://drive.google.com/drive/folders/1-AqZA5qwYZGBPhOO9AtJIJvYzne-tAYb?usp=sharing).
 
 
 ## Where Did We Meet?
@@ -35,3 +36,5 @@ I went to various places, and met a lot of people, that I am unfortunately not a
 <marker-job></marker-job> Employment
 <marker-meeting></marker-meeting> Visit/Meeting/Other
 </div>
+
+

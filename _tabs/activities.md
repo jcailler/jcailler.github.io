@@ -12,7 +12,7 @@ order: 3
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022** --- Volunteer Student
 
 
-## PC member, Subreviewer & Artifact Reviewer
+## PC Member, Subreviewer & Artifact Reviewer
 
 * Theoretical Aspects of Software Engineering Conference --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))

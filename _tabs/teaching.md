@@ -5,6 +5,12 @@ order: 2
 
 ##  Courses
 
+### University of Nancy
+
+* ACL (Software Analysis and Design) --- 1st year of master's degree --- 2024-2025
+* Logic --- 2nd year of bachelor's degree --- 2024-2025
+* API (Algorithms and Imperative Programming) --- 1st year of bachelor's degree --- 2024-2025
+
 ### University of Regensburg
 
 * Programming II --- 1st year of bachelor's degree --- 2023-2024 --- [Exercises](https://github.com/ur-tcs) 
@@ -13,7 +19,7 @@ order: 2
 
 ### University of Montpellier
 
-* Program Verification --- 3rd year of bachelor's degree --- 2022-2023 --- [Coq guide]({{ site.url }}{{ site.baseurl }}/assets/pdf/guide_coq.pdf)
+* Program Verification --- 3rd year of bachelor's degree --- 2022-2023 --- [Coq guide]({{ site.url }}{{ site.baseurl }}/assets/pdf/guide_coq.pdf) (in French)
 * Network and Concurrent Programming --- 3rd year of bachelor's degree --- 2022-2023
 * First-Order Logic --- 3rd year of bachelor's degree --- 2021-2022
 * Functional Programming --- 1st year of bachelor's degree --- 2021-2022

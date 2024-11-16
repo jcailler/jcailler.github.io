@@ -1,0 +1,1038 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+  <title>AAR Newsletter #145: November 2024</title>
+  <!--
+    <link rel="stylesheet" type="text/css" href="http://www.cs.miami.edu/~geoff/Conferences/AAR/AARMain.css" title="AAR main style" />
+-->
+  <style type="text/css">
+    body {
+      margin-left: 2em;
+      margin-right: 2em;
+      margin-top: 3.5em;
+      margin-bottom: 3em;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    h2 {
+      margin-top: 1.75em;
+      margin-bottom: 0.83em;
+    }
+
+    h3 {
+      margin-top: 1.75em;
+      margin-bottom: 1em;
+    }
+
+    h4 {
+      margin-top: 1em;
+      margin-bottom: 0.8em;
+    }
+
+    h2+h3 {
+      margin-top: 1.5em;
+    }
+
+    p {
+      margin-top: 0em;
+      margin-bottom: 0.8em;
+    }
+
+    .initial {
+      font-size: 140%;
+    }
+
+    .details {
+      color: #556677;
+      margin-top: -1.1em;
+      margin-bottom: 1em;
+      font-weight: bold;
+      font-size: 0.95em;
+      text-align: left;
+    }
+
+    .issue {
+      font-size: 140%;
+      text-align: center;
+      margin-bottom: 2.5em;
+    }
+
+    .center table {
+      margin-left: auto;
+      margin-right: auto;
+      text-align: left;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    .columnauthor {
+      color: #556677;
+      margin-left: 3em;
+      margin-top: -0.25em;
+      margin-bottom: 1.15em;
+      font-weight: bold;
+    }
+
+    dl.bibliography {
+      font-size: small;
+    }
+
+    a:link {
+      color: #4866FF;
+      text-decoration: none
+    }
+
+    a:visited {
+      color: #4866FF;
+      text-decoration: none
+    }
+
+    a:active {
+      color: #88A6FF;
+      text-decoration: none
+    }
+
+    ul {
+      list-style-type: square;
+    }
+
+    ul.toc {
+      padding-left: 0em;
+      list-style-type: none;
+      line-height: 180%;
+    }
+
+    ul.toc ul {
+      padding-left: 3em;
+      line-height: 135%;
+      font-size: 95%;
+    }
+
+    body {
+      font-family: Optima, Geneva, Myriad, Trebuchet, "Helvetica Neue", Helvetica, Arial, Swiss, SunSans-Regular, sans-serif;
+      color: #002164;
+      background-color: white
+    }
+
+    @media all and (max-width:32em) {
+      html {
+        font-size: .9em;
+      }
+    }
+
+    @media all and (max-width:30em) {
+      html {
+        font-size: .8em;
+      }
+    }
+
+    @media all and (max-width:27em) {
+      html {
+        font-size: .75em;
+      }
+    }
+
+    @media all and (max-width:25em) {
+      html {
+        font-size: .65em;
+      }
+    }
+
+    #container {
+      max-width: 52em;
+      margin: 0px auto;
+      /* Right And Left Margin Widths To Auto  */
+      list-style-position: outside;
+      text-align: left;
+    }
+  </style>
+</head>
+
+<body>
+  <h1><a href="http://www.aarinc.org/">
+      <span class="initial">A</span>ssociation for
+      <span class="initial">A</span>utomated
+      <span class="initial">R</span>easoning
+    </a></h1>
+
+  <div id="container">
+    <div class="issue">
+      Newsletter No. 145<br />November 2024</div>
+
+    <ul class="toc">
+      <li><a href="#wld-2025">UNESCO World Logic Day</a></li>
+      <li><a href="#conferences-title">Conferences</a>
+        <ul>
+          <li><a href="#CADE-30">CADE-30: 30th international Conference on Automated Deduction</a></li>
+          <li><a href="#tableaux-25">TABLEAUX 2025: 33rd International Conference on Automated Reasoning with Analytic
+              Tableaux and Related Methods</a></li>
+          <li><a href="#LICS-2025">LICS 2025: 40th Annual ACM/IEEE Symposium on Logic in Computer Science</a></li>
+          <li><a href="#FSCD-2025">FSCD 2025: 10th International Conference on Formal Structures for Computation and
+              Deduction</a></li>
+          <li><a href="#NFM-2025">NFM'25: 17th NASA Formal Methods Symposium</a></li>
+          <li><a href="#CAV-2025">CAV 2025: 37th International Conference on Computer Aided Verification</a></li>
+        </ul>
+      </li>
+      <li><a href="#workshops_title">Workshops</a>
+        <ul>
+          <li><a href="#wollic2025">WoLLIC 2025: 31st Workshop on Logic, Language, Information and Computation</a></li>
+        </ul>
+      </li>
+      <li><a href="#schools_title">Seasonal Schools</a>
+        <ul>
+          <li><a href="#anu">24th ANU Logic Summer School</a></li>
+        </ul>
+      </li>
+      <li><a href="#journal_title">Journal Special Issues</a>
+        <ul>
+          <li><a href="#jlamp">Journal of Logical and Algebraic Methods in Programming</a></li>
+          <li><a href="#acta">Acta Informatica Topical Collection on SMT</a></li>
+        </ul>
+      </li>
+      <li><a href="#open_positions_title">Open Positions</a>
+        <ul>
+          <li><a href="#pd-israel">Fully remote postdoc positions on SMT at Bar-Ilan University, Israel</a></li>
+          <li><a href="#tt-eth">Assistant Professor (Tenure Track) of Theoretical Computer Science at ETH Zurich,
+              Switzerland </a></li>
+          <li><a href="#tokyo">PhD, Postdoc & senior researcher positions in Tokyo</a></li>
+          <li><a href="#pd-MPI">Postdoctoral Researcher position in Formally Verified Security group at the Max Planck
+              Institute for Security and Privacy (MPI-SP), Germany</a></li>
+          <li><a href="#phd-london">PhD scholarship in the areas of programming language semantics and software
+              verification, King's College London, UK</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    XXXAAR specific news XXX
+
+    XXXaward calls and resultsXXX
+
+    XXXAAR related electionsXXX
+
+
+    <div id="wld">
+      <h2 id="wld-2025">
+        <a href="http://wld.cipsh.international/">UNESCO World Logic Day</a>: 14 January 2025
+      </h2>
+      <div class="details">January 14, 2025, everywhere</div>
+      <p>
+        UNESCO proclaimed 14 January to be World Logic Day, a global day of
+        supporting the development of logic through teaching and research, as well
+        as to public dissemination of the discipline.
+      </p>
+      <p>
+        The coordination of World Logic Day 2025 is --for the 5th time-- in the hands of the Conseil International de
+        Philosophie et des Sciences Humaines (CIPSH) and its member organization, the Division for Logic, Methodology
+        and Philosophy of Science and Technology of the International Union of History and Philosophy of Science and
+        Technology (DLMPST/IUHPST): see <a href="https://www.unesco.org/en/days/world-logic">here</a> and <a
+          href="http://wld.cipsh.international/">here</a>.
+      </p>
+      <p>
+        We have learned over the last years that online meetings are easier to finance, better for the environment, and
+        considerably more inclusive. So consider both in person and online events.
+      </p>
+      <p>
+        Events will be listed on the <a href="http://wld.cipsh.international/">CIPSH website</a>.
+      </p>
+      <p>
+        To be added to that list, follow the instructions <a
+          href="http://wld.cipsh.international/organise_event.html">here</a> or write a <a
+          href="mailto:wld.assistantcoordinator@cipsh.international">short email</a>.
+      </p>
+    </div>
+
+
+    <div id="conferences">
+      <h2 id="conferences-title">Conferences</h2>
+
+      <div id="conf-CADE">
+        <h3 id="CADE-30"><a href="https://www.dhbw-stuttgart.de/cade-30/">CADE-30: 30th international Conference on
+            Automated
+            Deduction</a> (call for papers)</h2>
+          <div class="details">July 28 - August 2, 2025, Stuttgart, Germany</div>
+          <p>
+            CADE is the major international forum for presenting research on all aspects
+            of automated deduction. High-quality submissions on the general topic of
+            automated deduction, including logical foundations, theory and principles,
+            applications in and beyond computer science and mathematics, and
+            implementations of automated reasoning systems are solicited. CADE-30 aims
+            to present research that reflects the broad range of interesting and relevant
+            topics in automated deduction.
+          </p>
+
+          <p>
+            <b>Important Dates (AoE)</b><br />
+          <ul>
+            <li>Abstract submission: <b>February 17, 2025</b></li>
+            <li>Full papers: <b>February 24, 2025</b></li>
+            <li>Rebuttal period: April 14-18, 2025</li>
+            <li>Author notification: April 28, 2025</li>
+            <li>Final version deadline: May 30, 2025</li>
+            <li>Main conference: July 28-31, 2025</li>
+            <li>Satellite events: August 1-2, 2025</li>
+          </ul>
+          </p>
+
+          <p>More information is available on the conference's <a href="https://www.dhbw-stuttgart.de/cade-30/">web
+              page</a>.
+          </p>
+      </div>
+
+      <div id="conf-tableaux">
+        <h3 id="tableaux-25"><a href="https://icetcs.github.io/frocos-itp-tableaux25/">TABLEAUX 2025: 33rd International
+            Conference on Automated Reasoning with Analytic Tableaux and Related Methods</a> (call for papers)</h2>
+          <div class="details">September 30 - October 2, 2025, Reykjavik, Iceland</div>
+          <p>
+            The International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX)
+            brings
+            together researchers interested in all aspects - theoretical foundations, implementation techniques, systems
+            development
+            and applications - of the mechanization of reasoning with tableaux and related methods.
+          </p>
+
+          <p>Topics of interest include (but are not restricted to):
+          <ul>
+            <li>Analytic tableaux for various logics (theory and applications)</li>
+            <li>Related techniques and concepts (e.g., model checking and BDD’s)</li>
+            <li>Related methods (e.g., model elimination, sequent calculi, connection method)</li>
+            <li>New calculi and methods for theorem proving in classical and non-classical logics (e.g., modal,
+              intuitionistic,
+              linear, temporal)</li>
+            <li>Systems, tools, implementations and applications (e.g., verification)</li>
+          </ul>
+          </p>
+
+          <p>
+            <b>Important Dates (AoE)</b><br />
+          <ul>
+            <li>Submission of title and abstract: <b>May 9, 2025</b></li>
+            <li>Paper submission deadline: <b>May 14, 2025</b></li>
+            <li>Notification of acceptance: July 9, 2025</li>
+            <li>Final version: July 31, 2025</li>
+            <li>Conference date: September 30 - October 2, 2025</li>
+          </ul>
+          </p>
+
+          <p>More information is available on the conference's <a
+              href="https://icetcs.github.io/frocos-itp-tableaux25/">web
+              page</a>.
+          </p>
+      </div>
+
+
+      <div id="conf-LICS">
+        <h3 id="LICS-2025"><a href="https://lics.siglog.org/lics25">LICS 2025: 40th Annual ACM/IEEE Symposium on Logic
+            in Computer Science</a> (call for papers and workshops)</h3>
+        <div class="details">June 23-28, 2025, Singapore</div>
+        <p>
+          The symposium is an annual international forum on theoretical and practical topics in computer science
+          that relate to logic, broadly constructed. LICS 2025 invites submissions on topics that fit under that rubric.
+        </p>
+        <p>
+          Suggested, but not exclusive, topics of interest include:
+        <ul>
+          <li>Automata theory</li>
+          <li>Automated deduction</li>
+          <li>Categorical models and logics</li>
+          <li>Concurrency and distributed computation</li>
+          <li>Constraint programming</li>
+          <li>Constructive mathematics</li>
+          <li>Database theory</li>
+          <li>Decision procedures</li>
+          <li>Description logics</li>
+          <li>Domain theory</li>
+          <li>Finite model theory</li>
+          <li>Formal aspects of program analysis</li>
+          <li>Formal methods</li>
+          <li>Foundations of computability</li>
+          <li>Foundations of probabilistic, real-time, and hybrid systems</li>
+          <li>Games and logic</li>
+          <li>Higher-order logic</li>
+          <li>Knowledge representation and reasoning</li>
+          <li>Lambda and combinatory calculi</li>
+          <li>Linear logic</li>
+          <li>Logic programming</li>
+          <li>Logical aspects of AI</li>
+          <li>Logical aspects of bioinformatics</li>
+          <li>Logical aspects of computational complexity</li>
+          <li>Logical aspects of quantum computation</li>
+          <li>Logical frameworks</li>
+          <li>Logics of programs</li>
+          <li>Modal and temporal logics</li>
+          <li>Model checking</li>
+          <li>Process calculi</li>
+          <li>Programming language semantics</li>
+          <li>Proof theory</li>
+          <li>Reasoning about security and privacy</li>
+          <li>Rewriting</li>
+          <li>Type systems</li>
+          <li>Type theory</li>
+          <li>Verification</li>
+        </ul>
+        </p>
+
+        <p>
+          <b>Important Dates (AoE)</b><br />
+        <ul>
+          <li>Abstract submission: <b>January 16, 2025</b></li>
+          <li>Full papers: <b>January 23, 2025</b></li>
+          <li>Author feedback/Rebuttal period: March 17-20, 2025</li>
+          <li>Author notification: April 08, 2025</li>
+          <li>Conference: June 23-26, 2025</li>
+          <li>Workshops: June 27-28, 2025</li>
+        </ul>
+        </p>
+
+        <p>
+          LICS also invites proposals for workshops on topics of interest to the LICS conference. Typically, LICS
+          workshops feature a
+          number of invited speakers and a number of contributed presentations. LICS workshops do not usually produce
+          formal
+          proceedings. However, in the past there have been special issues of journals based in part on certain LICS
+          workshops.
+          The conference will provide a room, internet connection and help with some local organization. The workshops
+          selection
+          committee consists of the LICS Workshops Chair (Valentin Blot), the LICS General Chair, the LICS PC Chairs and
+          the LICS
+          Conference Chairs.
+        </p>
+
+        <p>
+          <b>Important Dates (AoE)</b><br />
+        <ul>
+          <li>Submission of workshop proposals: <b>November 30, 2024</b></li>
+          <li>Notification of the accepted workshops: <b>December 01, 2024</b></li>
+          <li>Program of the workshops ready: May 26, 2025</li>
+        </ul>
+        </p>
+
+        <p>More information is available on the conference's <a href="https://lics.siglog.org/lics25">web page</a>.
+        </p>
+      </div>
+
+      <div id="conf-FSCD">
+        <h3 id="FSCD-2025"><a href="https://fscd-conference.org/2025/">FSCD 2025: 10th International Conference on
+            Formal Structures for Computation and Deduction</a> (call for papers and workshops)</h3>
+        <div class="details">July 14-20, 2025, Birmingham, UK</div>
+        <p>
+          The conference covers all aspects of formal structures for computation and deduction, from theoretical
+          foundations to
+          applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda
+          Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas
+          in logic, models of computation, semantics and verification in new challenging areas.
+        </p>
+        <p>
+          The suggested, but not exclusive, list of topics for submission is:
+        <ol>
+          <li>Calculi:
+            <ul>
+              <li>Rewriting systems (string, term, higher-order, nominal, graph, conditional, modulo, infinitary, etc.)
+              </li>
+              <li>Lambda calculus</li>
+              <li>Logics (first-order, higher-order, equational, modal, linear, classical, constructive, etc.)</li>
+              <li>Proof theory (natural deduction, sequent calculus, proof nets, etc.)</li>
+              <li>Type theory and logical frameworks</li>
+              <li>Homotopy type theory</li>
+              <li>Process algebras (synchronous, asynchronous, static and dynamic semantics with and without time, etc.)
+              </li>
+              <li>Quantum calculi</li>
+            </ul>
+          </li>
+
+          <li>Methods in Computation and Deduction:
+            <ul>
+              <li>Type systems (polymorphism, dependent, recursive, intersection, session, etc.)</li>
+              <li>Induction, coinduction</li>
+              <li>Matching, unification, completion, orderings</li>
+              <li>Strategies (normalisation, completeness, etc.)</li>
+              <li>Tree automata</li>
+              <li>Model building and model checking</li>
+              <li>Proof search and theorem proving</li>
+              <li>Constraint solving and decision procedures</li>
+            </ul>
+          </li>
+
+          <li>Semantics:
+            <ul>
+              <li>Operational semantics and abstract machines</li>
+              <li>Game Semantics and applications</li>
+              <li>Domain theory and categorical models</li>
+              <li>Quantitative models (timing, probabilities, etc.)</li>
+              <li>Quantum computation and emerging models of computation</li>
+            </ul>
+          </li>
+
+          <li>Algorithmic Analysis and Transformations of Formal Systems:
+            <ul>
+              <li>Type inference and type checking</li>
+              <li>Abstract Interpretation</li>
+              <li>Complexity analysis and implicit computational complexity</li>
+              <li>Checking termination, confluence, derivational complexity and related properties</li>
+              <li>Symbolic computation</li>
+            </ul>
+          </li>
+
+          <li>Tools and Applications:
+            <ul>
+              <li>Programming and proof environments</li>
+              <li>Verification tools</li>
+              <li>Proof assistants and interactive theorem provers</li>
+              <li>Applications in industry</li>
+              <li>Applications of formal systems in other sciences</li>
+              <li>Applications of formal systems in education</li>
+            </ul>
+          </li>
+
+          <li>Formal Systems for Modelling and Verification in New Challenging Areas:
+            <ul>
+              <li>Certification</li>
+              <li>Security</li>
+              <li>Blockchain</li>
+              <li>Databases</li>
+              <li>Deep learning and machine learning algorithms</li>
+              <li>Planning</li>
+            </ul>
+          </li>
+        </ol>
+        </p>
+
+        <p>
+          <b>Important Dates (AoE)</b><br />
+        <ul>
+          <li>Abstract submission: <b>February 10, 2025</b></li>
+          <li>Full papers: <b>February 17, 2025</b></li>
+          <li>Rebuttal period: April 7-11, 2025</li>
+          <li>Author notification: April 30, 2025</li>
+          <li>Final version: May 14, 2025</li>
+          <li>Conference: July 14-20, 2025</li>
+          <li>Workshops: July 14 and 19-20, 2025</li>
+        </ul>
+        </p>
+
+        <p>
+          FSCD also invites proposals for workshops on topics of interest to the FSCD community. Proposals must be
+          submitted as a PDF of <i>at most three pages</i>, not including references by <a
+            href="mailto:fscd2025@gmail.com">email</a>.
+          <br />
+          The workshop committee will determine the final list of accepted workshops based on thematic pertinence and
+          time/space
+          availability.
+        </p>
+
+        <p>
+          <b>Important Dates (AoE)</b><br />
+        <ul>
+          <li>Submission of workshop proposals: <b>December 12, 2024</b></li>
+          <li>Notification of the accepted workshops: <b>Late January 2025</b></li>
+          <li>Program of the workshops ready: May 31, 2025</li>
+        </ul>
+        </p>
+
+        <p>More information is available on the conference's <a href="https://fscd-conference.org/2025/">web page</a>.
+        </p>
+      </div>
+
+      <div id="conf-NFM">
+        <h3 id="NFM-2025"><a href="https://shemesh.larc.nasa.gov/nfm2025/">NFM'25: 17th NASA Formal Methods
+            Symposium</a> (call for papers)</h3>
+        <div class="details">June 11-13, 2025, Hampton Roads, VA, USA</div>
+        <p>
+          The widespread use and increasing complexity of mission-critical and safety-critical systems at NASA and in
+          the
+          aerospace industry requires advanced technologies to address their specification, design, verification,
+          validation, and
+          certification. The NASA Formal Methods Symposium is a forum to foster collaboration between theoreticians and
+          practitioners from NASA, other government agencies, academia, and industry, with the goal of identifying
+          challenges and
+          providing solutions towards achieving assurance for such critical systems. The focus of this symposium is on
+          formal
+          techniques for software and system assurance for applications in space, aviation, robotics, and other
+          NASA-relevant
+          critical systems.
+        </p>
+        <p>
+          The suggested, but not exclusive, list of topics for submission is:
+        <ul>
+          <li>Advances in Formal Methods
+            <ul>
+              <li>Formal verification, model checking, and static analysis</li>
+              <li>Interactive and automated theorem proving</li>
+              <li>Program and specification synthesis, code transformation, and generation</li>
+              <li>Run-time verification and test case generation</li>
+              <li>Techniques and algorithms for scaling formal methods</li>
+              <li>Design for verification and correct-by-design techniques</li>
+              <li>Requirements generation, specification, and validation</li>
+            </ul>
+          </li>
+
+          <li>Integration of Formal Methods
+            <ul>
+              <li>Use of ML techniques in formal methods</li>
+              <li>Integration of formal methods and software engineering</li>
+              <li>Integration of diverse formal methods techniques</li>
+              <li>Integration of formal methods with simulation, analysis, and test approaches</li>
+            </ul>
+          </li>
+
+          <li>Formal Methods in Practice
+            <ul>
+              <li>Experience reports on applications of formal methods in industry</li>
+              <li>Use of formal methods in education</li>
+              <li>Applications of formal methods to concurrent and distributed systems, human-machine systems,
+                autonomous
+                systems, and fault-detection, diagnostics, and prognostics systems</li>
+            </ul>
+          </li>
+        </ul>
+
+        </p>
+
+        <p>
+          <b>Important Dates (AoE)</b><br />
+        <ul>
+          <li>Paper submission: <b>December 13, 2024</b></li>
+          <li>Author notification: February 14, 2025</li>
+          <li>Camera ready version: March 14, 2025</li>
+          <li>Symposium: June 11-13, 2025</li>
+        </ul>
+        </p>
+
+
+        <p>More information is available on the conference's <a href="https://shemesh.larc.nasa.gov/nfm2025/">web
+            page</a>.
+        </p>
+      </div>
+
+      <div id="conf-CAV">
+        <h3 id="CAV-2025"><a href="https://conferences.i-cav.org/2025/">CAV 2025: 37th International Conference on
+            Computer Aided Verification</a> (call for papers)</h3>
+        <div class="details">July 21-25, 2025, Zagreb, Croatia</div>
+        <p>
+          The conference is the 37th in a series dedicated to the advancement of the theory and practice of
+          computer-aided formal
+          analysis methods for hardware and software systems. The conference covers the spectrum from theoretical
+          results to
+          concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that
+          are
+          needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software
+          verification while expanding to new domains such as machine learning, autonomous systems, and computer
+          security. The
+          proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science
+          series. A
+          selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the
+          Journal of
+          the ACM.
+        </p>
+        <p>
+          Topics of interest include but are not limited to:
+
+        <ul>
+          <li>Algorithms and tools for verifying models and implementations</li>
+          <li>Algorithms and tools for system synthesis</li>
+          <li>Algorithms and tools that combine verification and learning</li>
+          <li>Mathematical and logical foundations of verification and synthesis</li>
+          <li>Specifications and correctness criteria for programs and systems</li>
+          <li>Deductive verification using proof assistants</li>
+          <li>Hardware verification techniques</li>
+          <li>Program analysis and software verification</li>
+          <li>Software synthesis</li>
+          <li>Hybrid systems and embedded systems verification</li>
+          <li>Formal methods for cyber-physical systems</li>
+          <li>Compositional and abstraction-based techniques for verification</li>
+          <li>Probabilistic and statistical approaches to verification</li>
+          <li>Verification methods for parallel and concurrent systems</li>
+          <li>Testing and run-time analysis based on verification technology</li>
+          <li>Decision procedures and solvers for verification and synthesis</li>
+          <li>Applications and case studies in verification and synthesis</li>
+          <li>Verification in industrial practice</li>
+          <li>New application areas for algorithmic verification and synthesis</li>
+          <li>Formal models and methods for security</li>
+          <li>Formal models and methods for biological systems</li>
+          <li>AI safety and explainability using formal methods</li>
+        </ul>
+
+
+        Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV
+        2025 is not limited to topics discussed in previous instances of the conference. Authors concerned about the
+        appropriateness of a topic may communicate with the conference chairs prior to submission.
+        </p>
+
+        <p>
+          <b>Important Dates (AoE)</b><br />
+        <ul>
+          <li>Paper submission: <b>January 31, 2025</b></li>
+          <li>Author Response Period: March 11-14, 2025</li>
+          <li>Author notification: April 2, 2025</li>
+          <li>Main conference: July 21-25, 2025</li>
+        </ul>
+        </p>
+
+
+        <p>More information is available on the conference's <a href="https://conferences.i-cav.org/2025/">web
+            page</a>.
+        </p>
+      </div>
+
+    </div>
+
+    <div id="workshops">
+      <h2 id="workshops_title">Workshops</h2>
+
+      <div id="wollic">
+        <h3 id="wollic2025"><a href="https://wollic.org/wollic2025">WoLLIC 2025: 31st Workshop on Logic, Language,
+            Information and Computation</a></h3>
+        <div class="details">July 14-17, 2025, Porto, Portugal</div>
+        <p>
+          WoLLIC is an annual international forum on inter-disciplinary research involving formal logic, computing and
+          programming
+          theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as
+          contributed
+          papers.
+        </p>
+        <p>
+          Contributions are invited on all pertinent subjects, with particular interest in cross-disciplinary topics.
+          Typical but
+          not exclusive areas of interest are:
+        <ul>
+          <li>Non-classical logics</li>
+          <li>Foundations of computing, programming, and Artificial Intelligence (AI)</li>
+          <li>Novel computation models and paradigms</li>
+          <li>Broad notions of proof and belief</li>
+          <li>Proof mining</li>
+          <li>Type theory</li>
+          <li>Effective learnability and explainable AI</li>
+          <li>Formal methods in software and hardware development</li>
+          <li>Logical approach to natural language and reasoning</li>
+          <li>Logics of programs, actions, and resources</li>
+          <li>Foundational aspects of information organization, search, flow, sharing, and protection</li>
+          <li>Foundations of mathematics</li>
+          <li>Philosophical logic</li>
+          <li>Philosophy of language</li>
+        </ul>
+        </p>
+
+        <p>
+          <b>Important Dates</b><br />
+        <ul>
+          <li>Abstracts submission: <b>February 17, 2025</b></li>
+          <li>Full papers: February 24, 2025</li>
+          <li>Author notification: May 12, 2025</li>
+          <li>Camera-ready version: May 26, 2025</li>
+          <li>Workshop: July 14-17, 2025</li>
+        </ul>
+        </p>
+
+        <p>More information is available on the workshop's <a href="https://wollic.org/wollic2025">web
+            page</a>.
+        </p>
+      </div>
+    </div>
+
+    <div id="schools">
+      <h2 id="schools_title">Seasonal Schools</h2>
+
+      <div id="schools-anu">
+        <h3 id="anu"><a href="https://comp.anu.edu.au/lss/">24th ANU Logic Summer School</a></h3>
+        <div class="details">December 2-13, 2024, Canberra, Ngunnawal and Ngambri Country, Australia</div>
+        <p>
+          The ANU Logic Summer School is an annual event that offers a two week long programme of lectures on modern
+          logic, the
+          foundational discipline of the information sciences. Topics include not only the science of reasoning but also
+          computability theory, type theory and other tools for understanding processes, declarative programming,
+          automatic proof
+          generation, program verification and much more. The school is primarily geared at late undergraduate and
+          masters
+          students, but is open to all, including postgraduate and PhD students, postdocs, and participants from
+          industry.
+        </p>
+
+        <p>
+          The school features four introductory courses in the first week, and a series of five lectures covering more
+          advanced
+          topics in the second week. The courses are given by a mix of local, domestic and international speakers.
+        </p>
+
+        <p>More information is available on the school's <a href="https://comp.anu.edu.au/lss/">web page</a>.
+        </p>
+      </div>
+    </div>
+
+    <div id="journal">
+      <h2 id="journal_title">Journal Special Issues</h2>
+
+      <div id="journal-jlamp">
+        <h3 id="jlamp"><a href="https://www.editorialmanager.com/jlamp/default.aspx">Journal of Logical and Algebraic
+            Methods in Programming</a></h3>
+        <div class="details">Special Issue on Recent Advances on Unification</div>
+        <p>
+          The Journal of Logical and Algebraic Methods in Programming (JLAMP) is
+          an international journal that complements Elsevier's Science of Computer
+          Programming and Theoretical Computer Science by its focus on the foundations
+          and the application of logical, algebraic and categorical methods to
+          programming and to the development of trustworthy computing systems. The aim
+          of JLAMP special issues is to attract high-quality research papers in
+          specific topics connected to logical and algebraic methods in the theory and
+          practice of software development and computing systems.
+        </p>
+
+        <p>
+          The purpose of this special issue of JLAMP is to collect recent, original,
+          and high-quality contributions on unification theory and its applications,
+          as well as closely related topics. Unification is concerned with the problem
+          of making two given terms equal, either syntactically or modulo an equational
+          theory. It is a fundamental process used in various areas of computer science,
+          including automated reasoning, term rewriting, logic programming, natural
+          language processing, program analysis, knowledge representation, types, etc.
+        </p>
+
+        <p>
+          The International Workshop on Unification (UNIF) is the main international
+          event on unification. This special issue is related to the research presented
+          in the last four editions of the workshop, i.e., from UNIF 2021 to UNIF 2024.
+          Nevertheless, submissions of high quality works on unification that were not
+          presented at UNIF are also welcome. Thus, participants of UNIF, as well as
+          other authors, are invited to submit contributions.
+        </p>
+
+        <p>Following the tradition of UNIF, this special issue addresses the topic of unification in a broad sense. A
+          non-exhaustive list of topics of interest includes:
+        <ul>
+          <li>Syntactic and equational unification algorithms</li>
+          <li>Matching and constraint solving</li>
+          <li>Higher-order unification</li>
+          <li>Unification in modal, temporal, and description logics</li>
+          <li>Admissibility of inference rules</li>
+          <li>Narrowing</li>
+          <li>Disunification</li>
+          <li>Anti-unification</li>
+          <li>Complexity issues</li>
+          <li>Combination methods</li>
+          <li>Implementation techniques</li>
+          <li>Applications</li>
+        </ul>
+        </p>
+
+        <p>
+          Submitted manuscripts should be written in English and prepared following the guidelines
+          of JLAMP. Papers should be submitted electronically by using the <a
+            href="https://www.editorialmanager.com/jlamp/default.aspx">Editorial Manager for
+            JLAMP</a>. Please choose <i>VSI:Recent Advances in Unification</i> when you will be selecting the article
+          type.
+        </p>
+
+        <p>
+          The submission deadline is: <b>February 15, 2025</b>.
+        </p>
+
+      </div>
+
+
+      <div id="journal-acta">
+        <h3 id="acta"><a href="https://link.springer.com/journal/236/updates/27177144">Acta Informatica Topical
+            Collection on SMT</a></h3>
+        <div class="details">Topical Collection on Selected Extended Papers of SMT 2024 and Related Papers</div>
+        <p>
+          The aim of this topical collection is to collect, in a single volume, current state of the art research in
+          Satisfiability Modulo Theories (SMT). The collection is intended to include extended versions of papers that
+          appeared in
+          the 2024 SMT workshop, as well as additional contributions in the area of SMT.
+        </p>
+
+        <p>
+          Paper must be submitted on the <a href="https://link.springer.com/journal/236/updates/27177144">Journal's web
+            page</a>.
+        </p>
+
+        <p>
+          The submission deadline is: <b>December 1, 2024</b>
+        </p>
+
+        <p>
+          In case you submit an extended version of a paper already published (e.g. in a conference), we would expect at
+          least 30%
+          of the new submission to be novel. This novelty requirement can be satisfied by, for example, including
+          missing proofs,
+          details and experiments that were missing in the original publication.
+
+
+          If you have any questions, please contact the editors, <a href="mailto:reggiles@amazon.com">Giles Reger</a>
+          and <a href="mailto:yoni206@gmail.com">Yoni Zohar</a>.
+        </p>
+      </div>
+
+    </div>
+
+    <div id="open_positions">
+      <h2 id="open_positions_title">Open Positions</h2>
+
+      <div id="job-pd-israel">
+        <h3 id="pd-israel">Fully remote postdoc positions on SMT at Bar-Ilan University, Israel</h3>
+
+        <p>
+          This is a call for interest for postdoctoral research at Yoni Zohar’s group at Bar-Ilan University,
+          Israel.<br />
+          The position focuses on Satisfiability Modulo Theories (SMT) and proofs.<br />
+          The work will be done in collaboration with the University of Iowa and Stanford University.<br />
+          This position can be fully remote.
+        </p>
+
+        <p>
+          Qualifications:
+          The ideal applicants would have:
+        <ul>
+          <li>Good programming skills</li>
+          <li>Strong publication record in formal methods</li>
+          <li>Experience in conducting practical or theoretical research in automated reasoning</li>
+        </ul>
+        </p>
+
+        <p>
+          Interested applicants should send their CV, including a list of publications, in PDF to <a
+            href="mailto:yoni.zohar@biu.ac.il">Yoni Zohar</a> together
+          with the names of at least two references.
+        </p>
+
+      </div>
+
+      <div id="job-tt-eth">
+        <h3 id="tt-eth">Assistant Professor (Tenure Track) of Theoretical Computer Science at ETH Zurich, Switzerland
+        </h3>
+
+        <p>
+          The <a href="https://www.inf.ethz.ch">Department of Computer Science at ETH Zurich</a> invites applications
+          for an assistant
+          professorship (tenure track) in computer science with focus on Theoretical Computer Science including:
+        <ul>
+          <li>Automated and Interactive Theorem Proving</li>
+          <li>Logic</li>
+          <li>SAT, SMT</li>
+          <li>Semantics</li>
+        </ul>
+        </p>
+
+        <p>
+          The application deadline is <b>January 15th, 2025</b>.
+        </p>
+
+        <p>
+          More information is available on the university's <a
+            href="https://ethz.ch/en/the-eth-zurich/working-teaching-and-research/faculty/faculty-affairs/ausgeschriebene-professuren/ingenieurwissenschaften/APTT_Theoretical_Computer_Science1.html">web
+            page</a>.
+        </p>
+      </div>
+
+      <div id="job-tokyo">
+        <h3 id="tokyo">PhD, Postdoc & senior researcher positions in Tokyo</h3>
+
+        <p>
+          Hasuo Laboratory at the National Institute of Informatics, Tokyo, Japan invites applications for postdoc and
+          senior
+          researchers. The candidates will pursue collaboration with Bart Jacobs (Nijmegen), Joost-Pieter Katoen
+          (Aachen), and Sam
+          Staton (Oxford). The positions are for 4.5 years max.
+        </p>
+
+        <p>
+          We are particularly looking for sprofils in the following areas:
+        <ul>
+          <li><a
+              href="https://group-mmm.org/eratommsd/open-positions-for-postdoc-senior-researchers-abstract-and-concrete-automated-verification/">Abstract
+              and Concrete Automated Verification</a><br />
+
+            We look for 1) model checking specialists with aspiration for lattice- and category-theoretic abstract
+            theories, or
+            conversely, 2) category theorists with aspiration for efficient model checking algorithms.</li>
+
+          <li><a
+              href="https://group-mmm.org/eratommsd/open-positions-for-postdoc-senior-researchers-mathematical-logic-for-software-systems-and-society/">Mathematical
+              Logic for Software, Systems, and Society</a><br />
+            We look for formal verification specialists (theorem proving or model checking) with aspiration to take up
+            real-world
+            problems.</li>
+        </ul>
+
+        More information is available <a
+          href="https://group-mmm.org/eratommsd/postdoc-senior-researcher-positions/">here</a>.
+
+        </p>
+
+        <p>We are also looking ofr PhD students in related topics. You can find more information <a
+            href="https://group-mmm.org/eratommsd/call-for-students-ja/">here</a>. If you are interested, please contact
+          <a href="mailto:i.hasuo@acm.org">Ichiro Hasuo</a>.
+        </p>
+      </div>
+
+      <div id="job-pd-MPI">
+        <h3 id="pd-MPI">Postdoctoral Researcher position in Formally Verified Security group at the Max Planck Institute
+          for Security and Privacy (MPI-SP), Germany</h3>
+
+        <p>
+          The Formally Verified Security group at the Max Planck Institute is looking for candidates with an excellent
+          research track record and publications at top conferences in programming languages (e.g., POPL and ICFP)
+          and/or security (e.g., CCS and CSF).
+        </p>
+
+        <p>
+          Candidates are expected to work collaboratively on topics of joint interest and to help co-advise students,
+          but can also
+          dedicate some of their time to their own independent projects. My research interests include, but are not
+          limited to:
+          formal verification, proof assistants (particularly Coq and F*), type systems, effects, monads, functional
+          programming,
+          parametricity, PL semantics, property-based testing, secure compilation, security against speculative
+          side-channel
+          attacks, noninterference, compartmentalization, capability machines, etc. You can find more details <a
+            href="https://catalin-hritcu.github.io">here</a>.
+        </p>
+
+        <p>
+          MPI-SP is a relatively new research institute founded in 2019 and is part of the Computer Science research
+          area of the
+          Max Planck Society. We are located on the campus of Ruhr University Bochum, in the Rhein-Ruhr metropolitan
+          region of
+          Germany, one of Europe's largest academic hubs. The working language of MPI-SP is English, and no knowledge of
+          German is
+          required for this job.
+        </p>
+
+        <p>
+          Do not hesitate to contact <a href="mailto:catalin.hritcu@mpi-sp.org">Catalin Hritcu</a> if you are interested
+          in this position!
+        </p>
+      </div>
+
+      <div id="job-phd-london">
+        <h3 id="phd-london">PhD scholarship in the areas of programming language semantics and software
+          verification, King's College London, UK</h3>
+
+        <p>
+          King’s College London is offering a PhD scholarship in the areas of programming language semantics and
+          software
+          verification. More details are available <a
+            href=" https://www.kcl.ac.uk/study-legacy/funding/phd-studentship-nominal-specification-and-verification-environments">here</a>.
+        </p>
+
+        <p>
+          Applications should be submitted by the <b>end of December 2024</b> for a <b>start in June 2025</b> and by the
+          <b>end of May 2025</b> for a <b>start in October 2025</b>.
+        </p>
+
+        <p>
+          Applications will be assessed as they arrive so submit as early as possible. For more information please
+          contact <a href="mailto:Maribel.Fernandez@kcl.ac.uk">Maribel Fernandez</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

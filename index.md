@@ -8,7 +8,7 @@ order: 0
 
 Hi and welcome to my personal site! 
 
-I am Julie, and I am currently an associate professor within the [VeriDis Team](https://team.inria.fr/veridis/) at [University of Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/) & [Inria](https://inria.fr/en).  
+I am Julie, and I am currently an associate professor within the [VeriDis Team](https://team.inria.fr/veridis/) at [Loria](https://www.loria.fr/en/), [University of Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/) & [Inria](https://inria.fr/en).  
 
 My work focuses on automated deduction, especially on designing decision procedures (parallelization in first-order logic, application to other logics or theories) and interactions between interactive and automated tools. 
 Previously, I worked within the [Chair of Theoretical Computer Science](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/startseite/index.html) at [University of Regensburg](https://www.uni-regensburg.de/en), and I did my PhD at [University of Montpellier](https://www.umontpellier.fr/), during which I developed the [Goéland](https://github.com/GoelandProver/Goeland) automated theorem prover. 

@@ -38,3 +38,22 @@ I went to various places, and met a lot of people, that I am unfortunately not a
 </div>
 
 
+## How Can I Initiate a Conversation with You?
+We are attending the same event right now, but you don't know how to talk to me? You have come to the right place!  
+First of all, if I am at a conference, it often means that I have accepted that I am going to be talking to people during this time, so any chat is welcome.  
+However, if you are really intimidated by me (I know, I am scary) or struggling about how to talk, here's a list of phrases to get the conversation started (you just need to adapt them to the corresponding situation):
+  * "Hi! I attended your talk, it was nice/terrible. In particular, you said something about X, can you tell me more about that?"
+  * "You talk about TOPIC, and I read/wrote/know something about that, do you know REFERENCE?"
+  * "Oh, you are from PLACE. I know SOMEONE/have been THERE sometimes, do you know this PERSON/PLACE?"
+  * "The last talk was great! Did you know anything about TOPIC before?"
+  * "Hi, do you plan to give a talk/have you already given a talk during the event?"
+  * "Your talk/beamer theme was great! How can you make so beautiful things in LaTeX?"
+  * "Hey! We met at PREVIOUS_EVENT, how have you been since then?"
+  * "Oh, you are associate professor! What do you teach?"
+  * "Hello, nice glasses/hat/hair/shirt/name tag/keyring/RANDOM THING I HAVE WITH ME!"
+  * "You attended the social event, right? I especially enjoyed the monkey trainer/shark rider/fier eater/food, wasn't that nice? "
+  * "Here is some food."
+  * "Germany is great, isn't it?"
+  * "<a href="{{ site.url }}{{ site.baseurl }}/assets/img/squirrel_dealer.png">Do you like squirrels?</a>"
+
+Note that this list is bound to grow, so don't be afraid to try something different, and it may end up on it one day!

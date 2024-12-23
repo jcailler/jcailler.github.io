@@ -22,8 +22,9 @@ order: 3
 * [International Joint Conference on Automated Reasoning](https://ijcar.org/) --- **IJCAR** ([2022](https://www.floc2022.org/), [2024](https://merz.gitlabpages.inria.fr/2024-ijcar/))
 
 
-## Science Popularization & Other Events
+## Science Popularization & Other Events (mostly in French)
 
+* [Les cigognes](https://iecl.univ-lorraine.fr/cigognes/)
 * [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) and recruitment preparation workshop
 * [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Regional Final East Occitanie 2023
 * 5 Minutes to convince --- [University of Montpellier](https://www.umontpellier.fr/en/)

@@ -24,6 +24,7 @@ order: 3
 
 ## Science Popularization & Other Events (mostly in French)
 
+* [Chiche](https://chiche.inria.fr/): 1 scientifique, 1 classe
 * [Les cigognes](https://iecl.univ-lorraine.fr/cigognes/)
 * [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) and recruitment preparation workshop
 * [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Regional Final East Occitanie 2023

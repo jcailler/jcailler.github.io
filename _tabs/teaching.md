@@ -7,6 +7,9 @@ order: 2
 
 ### University of Nancy
 
+* Student's projects supervision --- 2nd year of bachelor's degree  --- 2024-2025 
+* System: processes, memory and files --- 2nd year of bachelor's degree --- 2024-2025
+* Functional Programming --- 3rd year of bachelor's degree --- [Exercises](https://github.com/jcailler/programmation-fonctionnelle-ul)
 * ACL (Software Analysis and Design) --- 1st year of master's degree --- 2024-2025
 * Logic --- 2nd year of bachelor's degree --- 2024-2025
 * API (Algorithms and Imperative Programming) --- 1st year of bachelor's degree --- 2024-2025

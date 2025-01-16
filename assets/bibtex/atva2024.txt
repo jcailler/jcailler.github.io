@@ -1,0 +1,6 @@
+@article{abdulla2024guiding,
+  title={Guiding Word Equation Solving using Graph Neural Networks (Extended Technical Report)},
+  author={Abdulla, Parosh Aziz and Atig, Mohamed Faouzi and Cailler, Julie and Liang, Chencheng and R{\"u}mmer, Philipp},
+  journal={arXiv preprint arXiv:2411.15194},
+  year={2024}
+}

@@ -1,6 +1,18 @@
-@article{abdulla2024guiding,
-  title={Guiding Word Equation Solving using Graph Neural Networks (Extended Technical Report)},
-  author={Abdulla, Parosh Aziz and Atig, Mohamed Faouzi and Cailler, Julie and Liang, Chencheng and R{\"u}mmer, Philipp},
-  journal={arXiv preprint arXiv:2411.15194},
-  year={2024}
+@InProceedings{10.1007/978-3-031-78709-6_14,
+author="Abdulla, Parosh Aziz
+and Atig, Mohamed Faouzi
+and Cailler, Julie
+and Liang, Chencheng
+and R{\"u}mmer, Philipp",
+editor="Akshay, S.
+and Niemetz, Aina
+and Sankaranarayanan, Sriram",
+title="Guiding Word Equation Solving Using Graph Neural Networks",
+booktitle="Automated Technology for Verification and Analysis",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="279--301",
+abstract="This paper proposes a Graph Neural Network-guided algorithm for solving word equations, based on the well-known Nielsen transformation for splitting equations. The algorithm iteratively rewrites the first terms of each side of an equation, giving rise to a tree-like search space. The choice of path at each split point of the tree significantly impacts solving time, motivating the use of Graph Neural Networks (GNNs) for efficient split decision-making. Split decisions are encoded as multi-classification tasks, and five graph representations of word equations are introduced to encode their structural information for GNNs. The algorithm is implemented as a solver named DragonLi. Experiments are conducted on artificial and real-world benchmarks. The algorithm performs particularly well on satisfiable problems. For single word equations, DragonLi can solve significantly more problems than well-established string solvers. For the conjunction of multiple word equations, DragonLi is competitive with state-of-the-art string solvers.",
+isbn="978-3-031-78709-6"
 }

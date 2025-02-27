@@ -14,7 +14,7 @@ order: 3
 
 ## PC Member, Subreviewer & Artifact Reviewer
 
-* Theoretical Aspects of Software Engineering Conference --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
+* International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))
 * [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024), [2025](https://conf.researchr.org/home/VMCAI-2025))

@@ -25,7 +25,7 @@ order: 3
 ## Science Popularization & Other Events (mostly in French)
 
 * [World Logic Day](https://www.unesco.org/en/days/world-logic)
-* [MATh.en.JEANS](https://www.mathenjeans.fr/)
+* [MATh.en.JEANS](https://www.mathenjeans.fr/) ([slides](/assets/pdf/MEJ.pdf))
 * [Chiche](https://chiche.inria.fr/): 1 scientifique, 1 classe
 * [Les cigognes](https://iecl.univ-lorraine.fr/cigognes/)
 * [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) and recruitment preparation workshop

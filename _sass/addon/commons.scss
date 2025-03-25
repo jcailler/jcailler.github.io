@@ -775,9 +775,9 @@ $sidebar-display: "sidebar-display";
     word-spacing: 1px;
     margin: 0.2rem 1.5rem 0.5rem 1.5rem;
     min-height: 3rem; /* avoid vertical shifting in multi-line words */
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
+    // -webkit-user-select: none;
+    // -moz-user-select: none;
+    // user-select: none;
   }
 
   .nav-link {

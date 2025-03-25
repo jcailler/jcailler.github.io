@@ -51,7 +51,7 @@ Work done in collaboration with [Simon Guilloud](https://simonguilloud.ch/).
 SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Coq. 
 
 <details>
-  <summary>Please refer to <a href=""> this paper</a> if you want to cite SC-TPTP utilities:</summary>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/lpar2024.txt"> this paper</a> if you want to cite SC-TPTP utilities:</summary>
 
 <div>
 <pre>

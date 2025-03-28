@@ -17,6 +17,7 @@ order: 3
 
 ## Subreviewer
 
+* [The International Conference on Interactive Theorem Proving](https://itp-conference.github.io/) --- **ITP** ([2025](https://www.itp2025.org/))
 * [International Conference on Automated Deduction](https://cadeinc.org/) --- **CADE** ([2025](https://www.dhbw-stuttgart.de/cade-30/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))

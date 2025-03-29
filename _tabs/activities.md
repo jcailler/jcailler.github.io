@@ -19,6 +19,7 @@ order: 3
 
 * [International Conference on Interactive Theorem Proving](https://itp-conference.github.io/) --- **ITP** ([2025](https://icetcs.github.io/frocos-itp-tableaux25/))
 * [International Conference on Automated Deduction](https://cadeinc.org/) --- **CADE** ([2025](https://www.dhbw-stuttgart.de/cade-30/))
+* [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))
 * Certified Programs and Proofs --- **CPP** ([2023](https://popl23.sigplan.org/home/CPP-2023), [2024](https://popl24.sigplan.org/home/CPP-2024))
@@ -35,7 +36,6 @@ order: 3
 
 * [The 11th International Colloquium on Graph Theory and combinatorics](https://www.lirmm.fr/icgt-2022/) --- **ICGT2022**
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022**
-
 
 
 

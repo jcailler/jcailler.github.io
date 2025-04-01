@@ -41,7 +41,7 @@ order: 3
 
 ## Science Popularization & Other Events (mostly in French)
 
-* [Plan National de Formation](https://www.education.gouv.fr/le-programme-national-de-formation-2024-2025-414810)
+* [Rendez-vous de l’informatique : Plan National de Formation et journée NSI-SNT](https://www.loria.fr/event/rendez-vous-de-linformatique-plan-national-de-formation-et-journee-nsi-snt/)
 * [World Logic Day](https://www.unesco.org/en/days/world-logic)
 * [MATh.en.JEANS](https://www.mathenjeans.fr/) ([slides](/assets/pdf/MEJ.pdf))
 * [Chiche](https://chiche.inria.fr/): 1 scientifique, 1 classe

@@ -3,7 +3,7 @@ icon: fas fa-lightbulb
 order: 3
 ---
 
-## Conferences Organization
+## Conferences & Workshops Organization
 
 * [31st International Symposium on Model Checking Software](https://spin-web.github.io/SPIN2025/) --- **SPIN 2025** --- AE Chair
 * [24th Conference in Formal Methods in Computer-Aided Design 2024](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
@@ -12,6 +12,7 @@ order: 3
 
 ## PC Member
 
+* [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
 

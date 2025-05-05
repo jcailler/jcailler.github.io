@@ -3,7 +3,7 @@ icon: fas fa-lightbulb
 order: 3
 ---
 
-## Conferences Organization
+## Conferences & Workshops Organization
 
 * [31st International Symposium on Model Checking Software](https://spin-web.github.io/SPIN2025/) --- **SPIN 2025** --- AE Chair
 * [24th Conference in Formal Methods in Computer-Aided Design 2024](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
@@ -12,12 +12,15 @@ order: 3
 
 ## PC Member
 
+* [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
 
 ## Subreviewer
 
+* [International Conference on Interactive Theorem Proving](https://itp-conference.github.io/) --- **ITP** ([2025](https://icetcs.github.io/frocos-itp-tableaux25/))
 * [International Conference on Automated Deduction](https://cadeinc.org/) --- **CADE** ([2025](https://www.dhbw-stuttgart.de/cade-30/))
+* [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))
 * Certified Programs and Proofs --- **CPP** ([2023](https://popl23.sigplan.org/home/CPP-2023), [2024](https://popl24.sigplan.org/home/CPP-2024))
@@ -37,9 +40,9 @@ order: 3
 
 
 
-
 ## Science Popularization & Other Events (mostly in French)
 
+* [Rendez-vous de l’informatique : Plan National de Formation et journée NSI-SNT](https://www.loria.fr/event/rendez-vous-de-linformatique-plan-national-de-formation-et-journee-nsi-snt/)
 * [World Logic Day](https://www.unesco.org/en/days/world-logic)
 * [MATh.en.JEANS](https://www.mathenjeans.fr/) ([slides](/assets/pdf/MEJ.pdf))
 * [Chiche](https://chiche.inria.fr/): 1 scientifique, 1 classe

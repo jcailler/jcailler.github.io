@@ -44,6 +44,12 @@ Integration of Arithmetic Reasoning in Goéland
 
 ### Internship Co-Supervision
 
+* Titouan Le Pen --- 2025\\
+Development of an automatic theorem prover | 2nd year of bachelor
+
+* Achille Razafimaharo --- 2025\\
+Development of an automatic theorem prover | 2nd year of bachelor
+
 * [Filip Jagiellowicz](https://www.linkedin.com/in/filip-jagie%C5%82%C5%82owicz-17a126160/) --- 2024\\
 Implementation of a decision procedure for CaAL | 1st year of master
 

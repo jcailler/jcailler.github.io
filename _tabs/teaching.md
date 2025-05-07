@@ -42,13 +42,17 @@ Deduction Modulo Theory and Polymorphism in Goéland
 * [Cédric Berthet](https://www.linkedin.com/in/c%C3%A9dric-cahuzac-a472ab188/), [Enzo Goulesque](https://www.linkedin.com/in/enzo-goulesque-1690a3284/), [Lorenzo Puccio](https://www.linkedin.com/in/lorenzo-puccio-bcs/), [Margaux Renoir](https://www.linkedin.com/in/margaux-renoir-244479220/), [Tom Simula](https://www.linkedin.com/in/tom-simula-5039b8193/) --- 2021-2022\\
 Integration of Arithmetic Reasoning in Goéland
 
-### Internship Co-Supervision
+
+### Internship Supervision
 
 * Titouan Le Pen --- 2025\\
 Development of an automatic theorem prover | 2nd year of bachelor
 
 * Achille Razafimaharo --- 2025\\
 Development of an automatic theorem prover | 2nd year of bachelor
+
+
+### Internship Co-Supervision
 
 * [Filip Jagiellowicz](https://www.linkedin.com/in/filip-jagie%C5%82%C5%82owicz-17a126160/) --- 2024\\
 Implementation of a decision procedure for CaAL | 1st year of master

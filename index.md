@@ -14,9 +14,9 @@ My work focuses on automated deduction, especially on designing decision procedu
 Previously, I worked within the [Chair of Theoretical Computer Science](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/startseite/index.html) at [University of Regensburg](https://www.uni-regensburg.de/en), and I did my PhD at [University of Montpellier](https://www.umontpellier.fr/), during which I developed the [Goéland](https://github.com/GoelandProver/Goeland) automated theorem prover. 
 
 I am also very involved into sciences promotion (and the endless quest to find out [who killed Agatha](https://tptp.org/cgi-bin/SeeTPTP?Category=Problems&Domain=PUZ&File=PUZ001+1.p)).
-Finally, I am a huge fan of puzzles, especially Rubik's Cube, I like to traumatize my interns, and I bake delicious cookies!
+Finally, I am a huge fan of puzzles, especially Rubik's Cube, I like to traumatize my interns, I enjoy creating new words in German, and I bake delicious cookies!
 
-You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: March 2025).
+You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2025).
 
 >
 News:

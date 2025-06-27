@@ -20,12 +20,10 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
-* I am invited speaker at the [EuroProofNet School on
-Natural Formal Mathematics](https://naproche.github.io/school/). 
-* Our paper [Interoperability of Proof Systems with SC-TPTP](https://infoscience.epfl.ch/entities/publication/4c3d2db3-3f96-4d83-9794-af6c04673ea8) with S. Guilloud, S. Gambhir, A. Poiroux, Y. M. Herklotz, T. Bourgeat, V. Kuncak was accepted at [CADE-30](https://www.dhbw-stuttgart.de/cade-30/).
+* Our paper [When GNNs Met a Word Equations Solver: Learning to Rank Equations](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1941665&dswid=5709) with P. A. Abdulla, M. F. Atig, C. Liang, and P. Rümmer was accepted at [FroCoS 2025](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).
+* Together with Julien Signoles, I am co-responsable of the [LVP](https://gdr-gpl.cnrs.fr/?page_id=135) working group of [GDR GPL](https://gdr-gpl.cnrs.fr/).
+* I am part of the PC of [FSTTCS 2025](https://www.fsttcs.org.in/2025/).
+* I gave a talk at the [EuroProofNet School on Natural Formal Mathematics](https://naproche.github.io/school/). 
+* Our paper [Interoperability of Proof Systems with SC-TPTP](https://infoscience.epfl.ch/entities/publication/4c3d2db3-3f96-4d83-9794-af6c04673ea8) with S. Guilloud, S. Gambhir, A. Poiroux, Y. M. Herklotz, T. Bourgeat, and V. Kuncak was accepted at [CADE-30](https://www.dhbw-stuttgart.de/cade-30/).
 * I am part of the PC of [JFLA 2026](https://jfla.inria.fr/jfla2026.html).
-* I am part of the PC of [TASE 2025](https://cyprusconferences.org/tase2025/).
-* I am invited speaker at [LVP Days 2024](https://groupes.renater.fr/wiki/lvp/public/journee_lvp_novembre2024) and [SCALP Days 2024](https://www.irif.fr/gt-scalp/journees-2024). 
-* Together with [Nian-Ze Lee](https://nianzelee.github.io/), we will chair the [Artifact Evaluation](https://spin-web.github.io/SPIN2025/artifacts) at [SPIN 2025](https://spin-web.github.io/SPIN2025/).
-* After many years of loyal service, I am taking over from [Sophie Tourret](https://members.loria.fr/STourret/) as editor of the [AAR newsletter](https://aarinc.org//newletters). Feel free to send me any relevant information that you would like to include in the next edition! 
 {: .prompt-news }

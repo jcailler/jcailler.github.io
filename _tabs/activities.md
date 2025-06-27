@@ -3,6 +3,9 @@ icon: fas fa-lightbulb
 order: 3
 ---
 
+## GT LVP
+Together with Julien Signoles, I am co-responsable of [GT LVP](https://gdr-gpl.cnrs.fr/?page_id=135) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR GPL](https://gdr-gpl.cnrs.fr/) (Programming and Software Engineering --- *Génie de la Programmation et du Logiciel*).
+
 ## Conferences & Workshops Organization
 
 * [31st International Symposium on Model Checking Software](https://spin-web.github.io/SPIN2025/) --- **SPIN 2025** --- AE Chair
@@ -11,8 +14,8 @@ order: 3
 
 
 ## PC Member
-
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
+* [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
 

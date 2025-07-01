@@ -20,6 +20,7 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* I am part of the PC of the [FMCAD Student Forum](https://fmcad.org/FMCAD25/student_forum/).
 * Our paper [When GNNs Met a Word Equations Solver: Learning to Rank Equations](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1941665&dswid=5709) with P. A. Abdulla, M. F. Atig, C. Liang, and P. Rümmer was accepted at [FroCoS 2025](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).
 * Together with Julien Signoles, I am co-responsable of the [LVP](https://gdr-gpl.cnrs.fr/?page_id=135) working group of [GDR GPL](https://gdr-gpl.cnrs.fr/).
 * I am part of the PC of [FSTTCS 2025](https://www.fsttcs.org.in/2025/).

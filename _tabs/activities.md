@@ -16,6 +16,7 @@ Together with Julien Signoles, I am co-responsable of [GT LVP](https://gdr-gpl.c
 ## PC Member
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
+* Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
 

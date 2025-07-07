@@ -4,7 +4,7 @@ order: 3
 ---
 
 ## GT LVP
-Together with Julien Signoles, I am co-responsable of [GT LVP](https://gdr-gpl.cnrs.fr/?page_id=135) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR GPL](https://gdr-gpl.cnrs.fr/) (Programming and Software Engineering --- *Génie de la Programmation et du Logiciel*).
+Together with Julien Signoles, I am co-responsable of [GT LVP](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Langages%20et%20v%C3%A9rification%20de%20programmes%20%28LVP%29/) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR GPL](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/) (Programming and Software Engineering --- *Génie de la Programmation et du Logiciel*).
 
 ## Conferences & Workshops Organization
 

@@ -78,7 +78,7 @@ The fastest way to give up — now with 0 bugs! Probably the fastest prover in t
 
 Unfortunately, designing this prover may force you to share a meal with very weird people — but hey, that's the price of true innovation.
 
-The strategy is simple: always return GaveUp. It's fast, reliable, and guarantees we never solve anything - by design.
+The strategy is simple: always return GaveUp. It's fast, reliable, and guarantees we never solve anything — by design.
 
 The prover is expected to come last at [CASC competition](https://tptp.org/CASC/), and any other result would be genuinely surprising — possibly even concerning. In fact, LastButNotLeast proudly exists to ensure that no other prover — no matter how underwhelming — has to carry the burden of being last.
 

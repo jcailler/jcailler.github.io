@@ -65,3 +65,36 @@ SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It
 </div>
 
 </details>
+
+
+### LastButNotLeast
+
+The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:
+* Runs flawlessly.
+* Achieves absolutely nothing.
+* 100% success rate in failure.
+* Zero proof, infinite potential.
+* Proudly earns you a cool CASC T-shirt.
+
+Unfortunately, designing this prover may force you to share a meal with very weird people — but hey, that's the price of true innovation.
+
+The strategy is simple: always return GaveUp. It's fast, reliable, and guarantees we never solve anything - by design.
+
+The prover is expected to come last at [CASC competition](https://tptp.org/CASC/), and any other result would be genuinely surprising — possibly even concerning. In fact, LastButNotLeast proudly exists to ensure that no other prover — no matter how underwhelming — has to carry the burden of being last.
+
+<details>
+  <summary>Implementation</summary>
+
+<div>
+<pre>
+#!/usr/bin/env python
+
+print("% LastButNotLeast: The fastest way to give up!")
+print("% For best results, do not expect results.")
+print("% SZS status GaveUp")
+print("% It's not a bug - it's a philosophical stance.")
+print("% Thanks for trying LastButNotLeast :)")
+</pre>
+</div>
+
+</details>

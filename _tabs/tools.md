@@ -67,7 +67,7 @@ SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It
 </details>
 
 
-### LastButNotLeast
+### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/)
 
 The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:
 * Runs flawlessly.

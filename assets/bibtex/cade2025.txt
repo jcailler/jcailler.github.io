@@ -1,0 +1,9 @@
+@inproceedings{guilloud2025interoperability,
+  title={Interoperability of Proof Systems with SC-TPTP},
+  author={Guilloud, Simon and Cailler, Julie and Gambhir, Sankalp and Poiroux, Auguste and Herklotz, Yann and Bourgeat, Thomas and Kun{\v{c}}ak, Viktor},
+  booktitle={Automated Deduction--CADE 30: 30th International Conference on Automated Deduction, Stuttgart, Germany, July 28-31, 2025, Proceedings},
+  volume={15943},
+  pages={325},
+  year={2025},
+  organization={Springer Nature}
+}

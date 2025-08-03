@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Hi and welcome to my personal site!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+# url: ''
 
 github:
   username: jcailler             # change to your github username
@@ -48,7 +48,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/juliecailler
 
-google_site_verification:               # fill in to your verification string
+# google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings

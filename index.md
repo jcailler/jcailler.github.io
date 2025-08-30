@@ -20,11 +20,8 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* I will give a talk at the [WG2 meeting](https://europroofnet.github.io/wg2-symposium/) at the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/). 
 * I am part of the PC of the [FMCAD Student Forum](https://fmcad.org/FMCAD25/student_forum/).
 * Our paper [When GNNs Met a Word Equations Solver: Learning to Rank Equations](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1941665&dswid=5709) with P. A. Abdulla, M. F. Atig, C. Liang, and P. Rümmer was accepted at [FroCoS 2025](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).
 * Together with Julien Signoles, I am co-responsable of the [LVP](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Langages%20et%20v%C3%A9rification%20de%20programmes%20%28LVP%29/) working group of [GDR GPL](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/).
-* I am part of the PC of [FSTTCS 2025](https://www.fsttcs.org.in/2025/).
-* I gave a talk at the [EuroProofNet School on Natural Formal Mathematics](https://naproche.github.io/school/). 
-* Our paper [Interoperability of Proof Systems with SC-TPTP](https://infoscience.epfl.ch/entities/publication/4c3d2db3-3f96-4d83-9794-af6c04673ea8) with S. Guilloud, S. Gambhir, A. Poiroux, Y. M. Herklotz, T. Bourgeat, and V. Kuncak was accepted at [CADE-30](https://www.dhbw-stuttgart.de/cade-30/).
-* I am part of the PC of [JFLA 2026](https://jfla.inria.fr/jfla2026.html).
 {: .prompt-news }

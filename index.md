@@ -20,8 +20,7 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* [Registrations](https://framaforms.org/journee-lvp-du-13-novembre-2025-1756886583) for the [annual meeting of the LVP working group](https://groupes.renater.fr/wiki/lvp/journee_lvp_novembre2025) of the [GDR GPL](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/) will take place on 13 November 2025 are now open! 
 * I will give a talk at the [WG2 meeting](https://europroofnet.github.io/wg2-symposium/) at the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/). 
-* I am part of the PC of the [FMCAD Student Forum](https://fmcad.org/FMCAD25/student_forum/).
 * Our paper [When GNNs Met a Word Equations Solver: Learning to Rank Equations](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1941665&dswid=5709) with P. A. Abdulla, M. F. Atig, C. Liang, and P. Rümmer was accepted at [FroCoS 2025](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).
-* Together with Julien Signoles, I am co-responsable of the [LVP](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Langages%20et%20v%C3%A9rification%20de%20programmes%20%28LVP%29/) working group of [GDR GPL](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/).
 {: .prompt-news }

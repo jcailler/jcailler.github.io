@@ -3,7 +3,7 @@ icon: fas fa-gears
 order: 4
 ---
 
-### [Goéland](https://github.com/GoelandProver/Goeland)
+### [Goéland](https://github.com/GoelandProver/Goeland) 🐦
 
 Work done in collaboration with [David Delahaye](https://www.lirmm.fr/~delahaye/), [Isaac Lluís](http://isaac-lluis.com/) and [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/). 
 
@@ -44,22 +44,25 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 
 
 
-### [SC-TPTP Utilities](https://github.com/SC-TPTP/sc-tptp)
+### [SC-TPTP Utilities](https://github.com/SC-TPTP/sc-tptp) 📜
 
 Work done in collaboration with [Simon Guilloud](https://simonguilloud.ch/).
 
-SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Coq. 
+SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Rocq. 
 
 <details>
-  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/lpar2024.txt"> this paper</a> if you want to cite SC-TPTP utilities:</summary>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/cade30.txt"> this paper</a> if you want to cite SC-TPTP utilities:</summary>
 
 <div>
 <pre>
-@inproceedings{cailler2024sc,
-  title={SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus},
-  author={Cailler, Julie and Guilloud, Simon},
-  booktitle={9th Workshop on Practical Aspects of Automated Reasoning},
-  year={2024}
+@inproceedings{guilloud2025interoperability,
+  title={Interoperability of Proof Systems with SC-TPTP},
+  author={Guilloud, Simon and Cailler, Julie and Gambhir, Sankalp and Poiroux, Auguste and Herklotz, Yann and Bourgeat, Thomas and Kun{\v{c}}ak, Viktor},
+  booktitle={Automated Deduction--CADE 30: 30th International Conference on Automated Deduction, Stuttgart, Germany, July 28-31, 2025, Proceedings},
+  volume={15943},
+  pages={325},
+  year={2025},
+  organization={Springer Nature}
 }
 </pre>
 </div>
@@ -67,7 +70,7 @@ SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It
 </details>
 
 
-### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/)
+### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/) 🏆
 
 The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:
 * Runs flawlessly.
@@ -97,4 +100,25 @@ print("% Thanks for trying LastButNotLeast :)")
 </pre>
 </div>
 
+</details>
+
+
+
+### [Capex](https://www.docamex.fr/docamex_portail/accueil) 🧀
+
+Capex is a knowledge-based multicriteria decision support tool that structures expert know-how to support technological decision-making in biomass transformation. It was initially applied to French cheese production under AOP/IGP, where preserving and transmitting specialized know-how is critical. By organizing this collective expertise into a structured knowledge base, Capex helps guide practical technological choices and supports the training of technicians and operators.
+
+<details>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/docamex.txt"> this paper</a> if you want to cite Capex:</summary>
+<div>
+<pre>
+@misc{Buche2020Capex,
+  author       = {Patrice Buche and Julien Cufi and Clément Sipieter and Alrick Oudot and Julie Cailler and Florent Tornil and Julien Couteaux and Sébastien Destercke},
+  title        = {Capex, a multicriteria decision support tool for technological recommendations about biomass transformation process based on collective know-how},
+  year         = {2020},
+  howpublished = {Software directory, swh:1:dir:6da535d0c2ae82f4f1fed1de20633b0edddc162d; origin=https://forgemia.inra.fr/capex/capex-backend-public.git; visit=swh:1:snp:683c16b77efbbdb1ad3d3b185ed8a49e7041b8ac; anchor=swh:1:rev:f2d31640d6487beabb78d7da7b65fe8b4396ed15},
+  note         = {HAL no. hal-04957075},
+}
+</pre>
+</div>
 </details>

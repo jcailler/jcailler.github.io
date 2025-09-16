@@ -1,0 +1,17 @@
+@InProceedings{10.1007/978-3-032-04167-8_18,
+author="Abdulla, Parosh Aziz
+and Atig, Mohamed Faouzi
+and Cailler, Julie
+and Liang, Chencheng
+and R{\"u}mmer, Philipp",
+editor="Thiemann, Ren{\'e}
+and Weidenbach, Christoph",
+title="When GNNs Met a Word Equations Solver: Learning to Rank Equations",
+booktitle="Frontiers of Combining Systems",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="327--345",
+abstract="Nielsen transformation is a standard approach for solving word equations: by repeatedly splitting equations and applying simplification steps, equations are rewritten until a solution is reached. When solving a conjunction of word equations in this way, the performance of the solver will depend considerably on the order in which equations are processed. In this work, the use of Graph Neural Networks (GNNs) for ranking word equations before and during the solving process is explored. For this, a novel graph-based representation for word equations is presented, preserving global information across conjuncts, enabling the GNN to have a holistic view during ranking. To handle the variable number of conjuncts, three approaches to adapt a multi-classification task to the problem of ranking equations are proposed. The training of the GNN is done with the help of minimum unsatisfiable subsets (MUSes) of word equations. The experimental results show that, compared to state-of-the-art string solvers, the new framework solves more problems in benchmarks where each variable appears at most once in each equation.",
+isbn="978-3-032-04167-8"
+}

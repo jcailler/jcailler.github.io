@@ -1,0 +1,7 @@
+@misc{Buche2020Capex,
+  author       = {Patrice Buche and Julien Cufi and Clément Sipieter and Alrick Oudot and Julie Cailler and Florent Tornil and Julien Couteaux and Sébastien Destercke},
+  title        = {Capex, a multicriteria decision support tool for technological recommendations about biomass transformation process based on collective know-how},
+  year         = {2020},
+  howpublished = {Software directory, swh:1:dir:6da535d0c2ae82f4f1fed1de20633b0edddc162d; origin=https://forgemia.inra.fr/capex/capex-backend-public.git; visit=swh:1:snp:683c16b77efbbdb1ad3d3b185ed8a49e7041b8ac; anchor=swh:1:rev:f2d31640d6487beabb78d7da7b65fe8b4396ed15},
+  note         = {HAL no. hal-04957075},
+}

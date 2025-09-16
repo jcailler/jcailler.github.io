@@ -19,6 +19,10 @@ Together with Julien Signoles, I am co-head of [GT LVP](https://gdrgpl.myxwiki.o
 * Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
+## Journal Reviewer
+* [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
+* [Journal of Applied Logic](https://www.collegepublications.co.uk/ifcolog/)
+
 
 ## Subreviewer
 

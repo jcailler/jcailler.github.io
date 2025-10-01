@@ -46,7 +46,10 @@ layout: page
           {{ post.author }}<br/>
           In: <i>{{ post.conf }}</i>.<br/>
           <!-- &nbsp; Publisher: {{ post.publisher }}.<br/> -->
-          &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> | &nbsp;  <a href="{{ post.doi }}" target="_blank">DOI</a>
+          &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> 
+          | &nbsp;  <a href="{{ post.doi }}" target="_blank">DOI</a> 
+          {% if post.slides %} | &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.slides }}" target="_blank">Slides</a> {% endif %} 
+          {% if post.talk %} | &nbsp; <a href="{{ post.talk }}" target="_blank">Talk</a> {% endif %}
         </p>
       </li>
 
@@ -63,7 +66,7 @@ layout: page
 
 
 <br/>
-<!-- Conf -->
+<!-- Workshop -->
 
 {% for category in sort_categories %}
 {% assign category_name = category | first %}
@@ -97,8 +100,10 @@ layout: page
           {{ post.author }}<br />
           In: <i>{{ post.conf }}</i>.<br />
           <!-- &nbsp; Publisher: {{ post.publisher }}.<br/> -->
-          &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> |
-          &nbsp; <a href="{{ post.doi }}" target="_blank">DOI</a>
+          &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/{{ post.bibtex }}" target="_blank">BibTex</a> 
+          | &nbsp; <a href="{{ post.doi }}" target="_blank">DOI</a>
+          {% if post.slides %} | &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.slides }}" target="_blank">Slides</a> {% endif %} 
+          {% if post.talk %} | &nbsp; <a href="{{ post.talk }}" target="_blank">Talk</a> {% endif %}
         </p>
       </li>
 
@@ -146,7 +151,8 @@ layout: page
 
       <li>
         {% assign ts = post.date | date: '%s' %}
-        <p><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a><br/>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a> {% if post.talk %} (&nbsp; <a href="{{ post.talk }}" target="_blank">Talk</a>) {% endif %}
+<br/>
           At: <i>{{ post.subtitle }}</i>.
         </p>
       </li>

@@ -9,7 +9,7 @@ I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please 
 
 > 
 Next Release:\\
-October 2025
+February 2026
 {: .prompt-tip }
 
 ## Science Popularization
@@ -53,6 +53,7 @@ However, if you are really intimidated by me (I know, I am scary) or struggling 
   * "Hello, nice glasses/hat/hair/shirt/name tag/keyring/RANDOM THING I HAVE WITH ME!"
   * "You attended the social event, right? I especially enjoyed the monkey trainer/shark rider/fire eater/food, wasn't that nice? "
   * "Here is some food."
+  * *Look at me and smile*
   * "Germany is great, isn't it?"
   * "<a href="{{ site.url }}{{ site.baseurl }}/assets/img/squirrel_dealer.png">Do you like squirrels?</a>"
 

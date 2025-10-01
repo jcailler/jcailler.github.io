@@ -20,7 +20,8 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* I will give a talk at the [CHoCoLa meeting](https://chocola.ens-lyon.fr/).
 * [Registrations](https://framaforms.org/journee-lvp-du-13-novembre-2025-1756886583) for the [annual meeting of the LVP working group](https://groupes.renater.fr/wiki/lvp/journee_lvp_novembre2025) of the [GDR GPL](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/) are now open! 
-* I will give a talk at the [WG2 meeting](https://europroofnet.github.io/wg2-symposium/) at the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/). 
+* I gave a talk at the [WG2 meeting](https://europroofnet.github.io/wg2-symposium/) at the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/). 
 * Our paper [When GNNs Met a Word Equations Solver: Learning to Rank Equations](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1941665&dswid=5709) with P. A. Abdulla, M. F. Atig, C. Liang, and P. Rümmer was accepted at [FroCoS 2025](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).
 {: .prompt-news }

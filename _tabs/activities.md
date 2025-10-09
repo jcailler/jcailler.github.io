@@ -58,6 +58,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 * [World Logic Day](https://www.unesco.org/en/days/world-logic)
 * [MATh.en.JEANS](https://www.mathenjeans.fr/) ([slides](/assets/pdf/MEJ.pdf))
 * [Chiche](https://chiche.inria.fr/): 1 scientifique, 1 classe
+* [La fête de la science](https://www.fetedelascience.fr/)
 * [Les cigognes](https://iecl.univ-lorraine.fr/cigognes/)
 * [GDR GPL 2024](https://gdrgpl2024.sciencesconf.org/) and recruitment preparation workshop
 * [MT180](https://www.youtube.com/watch?v=LdVQyov38sQ) --- Regional Final East Occitanie 2023
@@ -66,5 +67,4 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 * [Filles et Maths](https://filles-et-maths.fr/)
 * SeminDoc --- [LIRMM](https://www.lirmm.fr/lirmm-en/) PhD seminar (2020-2023)
 * 30th anniversary of [LIRMM](https://www.lirmm.fr/lirmm-en/)
-* [Science Festival](https://www.fetedelascience.fr/) 2022
 * [LIRMM](https://www.lirmm.fr/lirmm-en/)'s open days 2022

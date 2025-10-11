@@ -7,4 +7,5 @@ categories: [talks]
 math: true
 mermaid: true
 attachment: tptptp2025.pdf
+video: https://www.youtube.com/watch?v=Ac2Y0pDFQgE
 ---

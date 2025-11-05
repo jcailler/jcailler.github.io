@@ -24,6 +24,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
 ## Journal Reviewer
+* [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
 * [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 * [Journal of Applied Logic](https://www.collegepublications.co.uk/ifcolog/)
 

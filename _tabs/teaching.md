@@ -35,6 +35,14 @@ order: 2
 
 ## Supervision
 
+
+### Master's Thesis Co-Supervision
+
+* [Claude Leroy](https://www.linkedin.com/in/claude-leroy-5a8639335/) --- 2025-2026
+*Decentralized Diagnosis of Stochastic Systems* | 1st year of master  
+With Engel Lefaucheux
+
+
 ### Bachelor’s Thesis Co-Supervision
 
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022  

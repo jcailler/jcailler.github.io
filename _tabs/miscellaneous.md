@@ -9,7 +9,7 @@ I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please 
 
 > 
 Next Release:\\
-December 2025
+January 2026
 {: .prompt-tip }
 
 ## Science Popularization

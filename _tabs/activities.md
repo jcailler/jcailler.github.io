@@ -13,7 +13,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 ## Conferences & Workshops Organization
 
 * [31st International Symposium on Model Checking Software](https://spin-web.github.io/SPIN2025/) --- **SPIN 2025** --- AE Chair
-* [24th Conference in Formal Methods in Computer-Aided Design 2024](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
+* [24th Conference in Formal Methods in Computer-Aided Design](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
 * [11th Workshop on Horn Clauses for Verification and Synthesis](https://www.sci.unich.it/hcvs24/) --- **HCVS 2024** --- PC Chair
 
 

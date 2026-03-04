@@ -48,7 +48,8 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 
 Work done in collaboration with [Simon Guilloud](https://simonguilloud.ch/).
 
-SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Rocq. 
+SC-TPTP Utilities is a library of tools able to deal with the SC-TPTP format. 
+It includes softwares able to handle, import, export and transform proofs in SC-TPTP format, to add intermediate proof steps, and to export them into Lisa, HOL Light, Lean, and Rocq.
 
 <details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/cade30.txt"> this paper</a> if you want to cite SC-TPTP utilities:</summary>

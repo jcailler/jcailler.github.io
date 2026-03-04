@@ -38,11 +38,11 @@ order: 2
 
 ### Master's Thesis Co-Supervision
 
-* Ayath Abogounrin, Guillaume Potel, and Matheo Vigneres --- 2026
+* Ayath Abogounrin, Guillaume Potel, and Matheo Vigneres --- 2026  
 *Indexing Structures for First-Order Logic* | 1st year of master  
 With Marie Duflot-Kremer and Engel Lefaucheux
 
-* [Claude Leroy](https://www.linkedin.com/in/claude-leroy-5a8639335/) --- 2025-2026
+* [Claude Leroy](https://www.linkedin.com/in/claude-leroy-5a8639335/) --- 2025-2026  
 *Decentralized Diagnosis of Stochastic Systems* | 1st year of master  
 With Engel Lefaucheux
 

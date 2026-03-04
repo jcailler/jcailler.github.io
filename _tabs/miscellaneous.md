@@ -1,6 +1,6 @@
 ---
 icon: fas fa-gamepad
-order: 5
+order: 6
 ---
 
 ## AAR Newsletter

@@ -1,0 +1,72 @@
+---
+icon: fas fa-user-graduate
+order: 3
+---
+
+### PhD
+* [Florent Krasnopol](https://www.linkedin.com/in/florent-krasnopol-18721a207/) --- 2025--2028  
+  *Automated Theorem Proving over the Reals for Reasoning on Quantum Circuits*  
+  With Stephan Merz and Sophie Tourret
+
+
+### Master's Thesis
+
+* Ayath Abogounrin, Guillaume Potel, and Matheo Vigneres --- 2026  
+*Indexing Structures for First-Order Logic* | 1st year of master  
+With Marie Duflot-Kremer and Engel Lefaucheux
+
+* [Claude Leroy](https://www.linkedin.com/in/claude-leroy-5a8639335/) --- 2025-2026  
+*Decentralized Diagnosis of Stochastic Systems* | 1st year of master  
+With Engel Lefaucheux
+
+
+### Bachelor’s Thesis
+
+* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022  
+*Deduction Modulo Theory and Polymorphism in Goéland*  
+With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
+
+* [Cédric Berthet](https://www.linkedin.com/in/c%C3%A9dric-cahuzac-a472ab188/), [Enzo Goulesque](https://www.linkedin.com/in/enzo-goulesque-1690a3284/), [Lorenzo Puccio](https://www.linkedin.com/in/lorenzo-puccio-bcs/), [Margaux Renoir](https://www.linkedin.com/in/margaux-renoir-244479220/), and [Tom Simula](https://www.linkedin.com/in/tom-simula-5039b8193/) --- 2021-2022  
+*Integration of Arithmetic Reasoning in Goéland*  
+With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
+
+
+### Internship
+
+* Titouan Le Pen --- 2025  
+*Development of a Resolution-Based Automated Theorem Prover* | 2nd year of bachelor
+
+* Achille Razafimaharo --- 2025  
+*Development of a Tableau-Based Automated Theorem Prover* | 2nd year of bachelor
+
+* [Filip Jagiellowicz](https://www.linkedin.com/in/filip-jagie%C5%82%C5%82owicz-17a126160/) --- 2024  
+*Implementation of a Decision Procedure for CaAL* | 1st year of master  
+With Philipp Rümmer
+
+* [Dylan Bettendroffer](https://github.com/dym-dym) --- 2023  
+*A Dedukti Output for Goéland* | 2nd year of master  
+With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
+
+* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2023  
+*Deskolemization in First-Order Logic* | 3rd year of bachelor  
+With David Delahaye, Olivier Hermant and Simon Robillard
+
+* [Matthieu Pierret](https://www.linkedin.com/in/matthieupierret/) --- 2023  
+*Interactive Proof in Goéland* | 2rd year of bachelor  
+With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
+
+* [Lorenzo Puccio](https://www.linkedin.com/in/lorenzo-puccio-bcs/) --- 2022  
+*A Rocq Output for Goéland* | 3rd year of bachelor  
+With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
+
+* [Adrien Mecibah](https://www.linkedin.com/in/adrien-mecibah-4835aa200/) --- 2022  
+*Interactive Traces for ATP* | 2nd year of bachelor  
+With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
+
+* [Nina Janeva](https://www.linkedin.com/in/nina-janeva-08b416146/) --- 2021  
+*Design of an Automated Tool for Benchmarks* | 3rd year of bachelor  
+With David Delahaye and Hinde Lilia Bouziane
+
+* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021  
+*Code Trees for Unification* | 2nd year of bachelor  
+With David Delahaye and Hinde Lilia Bouziane

@@ -66,9 +66,6 @@ With David Delahaye, Hinde Lilia Bouziane and Simon Robillard
 * Achille Razafimaharo --- 2025  
 *Development of a Tableau-Based Automated Theorem Prover* | 2nd year of bachelor
 
-
-### Internship Co-Supervision
-
 * [Filip Jagiellowicz](https://www.linkedin.com/in/filip-jagie%C5%82%C5%82owicz-17a126160/) --- 2024  
 *Implementation of a Decision Procedure for CaAL* | 1st year of master  
 With Philipp Rümmer

@@ -40,7 +40,7 @@ With [Florent KRASNOPOL](https://www.linkedin.com/in/florent-krasnopol-18721a207
 * [Corentin Minaroli](https://www.linkedin.com/in/corentin-minaroli-749a86154/) --- 2026   
 *Unification in Goeland* | 3rd year of bachelor
 
-* Nicolas Schutz-Kucly --- 2026   
+* Nicolas Schutz-Kuchly --- 2026   
 *Equality Reasoning in Goeland* | 3rd year of bachelor
 
 * Titouan Le Pen --- 2025  

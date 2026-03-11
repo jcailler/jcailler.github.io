@@ -33,6 +33,16 @@ With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and
 
 ### Internship
 
+* [Ruka Hlupic](https://www.linkedin.com/in/ruka-hlupic-74b115363/) --- 2026   
+*Automated Reasoning for Nikoli's games* | 2nd year of bachelor  
+With [Florent KRASNOPOL](https://www.linkedin.com/in/florent-krasnopol-18721a207/)
+
+* [Corentin Minaroli](https://www.linkedin.com/in/corentin-minaroli-749a86154/) --- 2026   
+*Unification in Goeland* | 3rd year of bachelor
+
+* Nicolas Schutz-Kucly --- 2026   
+*Equality Reasoning in Goeland* | 3rd year of bachelor
+
 * Titouan Le Pen --- 2025  
 *Development of a Resolution-Based Automated Theorem Prover* | 2nd year of bachelor
 

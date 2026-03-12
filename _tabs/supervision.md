@@ -20,7 +20,7 @@ With [Marie Duflot-Kremer](https://members.loria.fr/MDuflot/) and [Engel Lefauch
 With [Engel Lefaucheux](https://elefauch.github.io/)
 
 
-### Bachelor’s Thesis
+### Bachelor's Thesis
 
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022  
 *Deduction Modulo Theory and Polymorphism in Goéland*  
@@ -35,12 +35,12 @@ With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and
 
 * [Ruka Hlupic](https://www.linkedin.com/in/ruka-hlupic-74b115363/) --- 2026   
 *Automated Reasoning for Nikoli's games* | 2nd year of bachelor  
-With [Florent KRASNOPOL](https://www.linkedin.com/in/florent-krasnopol-18721a207/)
+With [Florent Krasnopol](https://www.linkedin.com/in/florent-krasnopol-18721a207/)
 
 * [Corentin Minaroli](https://www.linkedin.com/in/corentin-minaroli-749a86154/) --- 2026   
 *Unification in Goeland* | 3rd year of bachelor
 
-* Nicolas Schutz-Kucly --- 2026   
+* Nicolas Schutz-Kuchly --- 2026   
 *Equality Reasoning in Goeland* | 3rd year of bachelor
 
 * Titouan Le Pen --- 2025  

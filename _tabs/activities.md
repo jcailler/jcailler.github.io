@@ -18,6 +18,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 
 ## PC Member
+* [EACSL Annual Conference on Computer Science Logic](https://www.eacsl.org/csl-conferences/) --- **CSL** ([2027](https://csl2027.github.io/index.html))
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
 * Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/))

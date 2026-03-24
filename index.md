@@ -20,7 +20,8 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
-* I am part of the [CAV 2026 Artifact Evaluation](https://conferences.i-cav.org/2026/artifacts/) Committee
+* I am part of the PC of [CSL 2027](https://csl2027.github.io/index.html)
+* I am part of the Artifact Evaluation Committee [CAV 2026](https://conferences.i-cav.org/2026/artifacts/) 
 * I gave a talk at the [CHoCoLa meeting](https://chocola.ens-lyon.fr/).
 * I gave a talk at the [WG2 meeting](https://europroofnet.github.io/wg2-symposium/) at the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/). 
 * Our paper [When GNNs Met a Word Equations Solver: Learning to Rank Equations](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1941665&dswid=5709) with P. A. Abdulla, M. F. Atig, C. Liang, and P. Rümmer was accepted at [FroCoS 2025](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).

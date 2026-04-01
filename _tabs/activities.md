@@ -4,7 +4,7 @@ order: 4
 ---
 
 ## GT LVP
-Together with [Julien Signoles](https://julien-signoles.fr/), I am co-head of [GT LVP](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Langages%20et%20v%C3%A9rification%20de%20programmes%20%28LVP%29/) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR SciLog](https://mygdr.hosted.lip6.fr/accueilGDR/23/10) (Software Science --- *Sciences du Logiciel*).
+Together with [Julien Signoles](https://julien-signoles.fr/), I am co-head of [GT LVP](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Langages%20et%20v%C3%A9rification%20de%20programmes%20%28LVP%29/) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR SciLog](https://gdr-scilog.cnrs.fr//) (Software Science --- *Sciences du Logiciel*).
 
 ## ProoVer
 Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [ProoVer Competition](https://proover-competition.github.io/). Inspired by the [CADE ATP System Competition (CASC)](https://tptp.org/CASC/), ProoVer aims to benchmark the correctness and robustness of proof checkers within the TPTP ecosystem.  

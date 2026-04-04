@@ -15,9 +15,9 @@
 @mixin dark-scheme {
   /* Framework */
   --body-bg: #1A0D04;
-  --mask-bg: #3D2008;
   --main-bg: #1F0F05;
-  --main-border-color: #3A1E0A;
+  --main-border-color: #4A2E18;
+  --mask-bg: #3D2008;
 
   /* Typography */
   --text-color: #D9C4A5;
@@ -27,8 +27,8 @@
   --blockquote-text-color: #9E7B5A;
 
   /* Links — warm caramel gold */
-  --link-color: #D4A96A;
-  --link-underline-color: #C4956A;
+  --link-color: #F0A832;
+  --link-underline-color: #F0A832;
 
   /* Buttons */
   --button-bg: #2E1609;
@@ -58,7 +58,7 @@
 
   /* Topbar */
   --topbar-text-color: #C4956A;
-  --topbar-wrapper-bg: #1E0A02;
+  --topbar-wrapper-bg: #2A1408;
   --search-wrapper-bg: rgba(30, 10, 2, 0.8);
   --search-wrapper-border-color: #3A1E0A;
   --search-icon-color: #6B3D1E;
@@ -77,8 +77,8 @@
   --toc-highlight: #D4A96A;
   --tag-bg: rgba(107, 61, 30, 0.3);
   --tag-hover: rgba(107, 61, 30, 0.5);
-  --tb-odd-bg: rgba(61, 32, 8, 0.4);
-  --tb-even-bg: #1F0F05;
+  // --tb-odd-bg: rgba(61, 32, 8, 0.4);
+  // --tb-even-bg: #1F0F05;
   --tb-border-color: #3A1E0A;
   --footnote-target-bg: #3D2008;
   --btn-share-color: #9E7B5A;
@@ -93,12 +93,8 @@
 
   /* Prompt boxes */
   --prompt-text-color: rgba(217, 196, 165, 0.85);
-  // --prompt-tip-bg: rgba(80, 160, 60, 0.18);
-  // --prompt-tip-icon-color: rgba(120, 200, 80, 0.75);
   --prompt-tip-bg: rgba(212, 169, 106, 0.18);
-  /* soft caramel glow */
   --prompt-tip-icon-color: #D4A96A;
-  /* golden accent */
   --prompt-info-bg: rgba(107, 61, 30, 0.4);
   --prompt-info-icon-color: #D4A96A;
   --prompt-warning-bg: rgba(140, 90, 10, 0.6);
@@ -170,15 +166,15 @@
     }
   }
 
-  #archives li:nth-child(odd),
-  #publications li:nth-child(odd) {
-    background-image: linear-gradient(to left,
-        #1A0D04,
-        #2A1408,
-        #2A1408,
-        #2A1408,
-        #1A0D04);
-  }
+  // #archives li:nth-child(odd),
+  // #publications li:nth-child(odd) {
+  //   background-image: linear-gradient(to left,
+  //       #1A0D04,
+  //       #2A1408,
+  //       #2A1408,
+  //       #2A1408,
+  //       #1A0D04);
+  // }
 
   color-scheme: dark;
 

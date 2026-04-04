@@ -43,15 +43,31 @@
       top: 24px;
     }
 
+    // &::after {
+    //   /* Year dot */
+    //   content: "";
+    //   display: inline-block;
+    //   position: relative;
+    //   border-radius: 50%;
+    //   width: 12px;
+    //   height: 12px;
+    //   left: 21.5px;
+    //   border: 3px solid;
+    //   background-color: var(--timeline-year-dot-color);
+    //   border-color: var(--timeline-node-bg);
+    //   box-shadow: 0 0 2px 0 #c2c6cc;
+    //   z-index: 1;
+    // }
     &::after {
-      /* Year dot */
       content: "";
-      display: inline-block;
-      position: relative;
+      display: block;
+      position: absolute;
       border-radius: 50%;
       width: 12px;
       height: 12px;
-      left: 21.5px;
+      top: 50%;
+      left: 75px;
+      transform: translateY(-50%);
       border: 3px solid;
       background-color: var(--timeline-year-dot-color);
       border-color: var(--timeline-node-bg);
@@ -70,10 +86,10 @@
       padding-left: 0px;
       margin-left: 77px;
 
-      &:nth-child(odd) {
-        background-color: var(--main-bg, #ffffff);
-        background-image: linear-gradient(to left, #ffffff, #fbfbfb, #fbfbfb, #fbfbfb, #ffffff);
-      }
+      // &:nth-child(odd) {
+      //   background-color: var(--main-bg, #ffffff);
+      //   background-image: linear-gradient(to left, #ffffff, #fbfbfb, #fbfbfb, #fbfbfb, #ffffff);
+      // }
 
       // li:last-child::before 
       &:last-child {

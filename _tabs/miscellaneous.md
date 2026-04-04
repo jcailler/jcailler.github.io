@@ -3,15 +3,6 @@ icon: fas fa-gamepad
 order: 6
 ---
 
-## AAR Newsletter
-
-I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please feel free to bring to my attention any information you would like to see featured in the newsletter by writing an email at [newsletter[at]aarinc.org](mailto:newsletter@aarinc.org). The newsletter is also a good place to post relevant job opportunities, book publications, new software, and open letters to the automated reasoning community. 
-
-> 
-Next Release:\\
-April 2026
-{: .prompt-tip }
-
 ## Science Popularization
 
 I love science promotion, and I think that sharing science with everyone is an essential part of our work. 
@@ -56,5 +47,6 @@ However, if you are really intimidated by me (I know, I am scary) or struggling 
   * *Look at me and smile*
   * "Germany is great, isn't it?"
   * "<a href="{{ site.url }}{{ site.baseurl }}/assets/img/squirrel_dealer.png">Do you like squirrels?</a>"
+  * Can you explain rigid E-unification like I'm 6?
 
 Note that this list is bound to grow, so don't be afraid to try something different, and it may end up on it one day!

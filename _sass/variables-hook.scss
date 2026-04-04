@@ -1,3 +1,257 @@
 /*
-  Appending custom SCSS variables will override the default ones in `_sass/addon/variables.scsss`
-*/
+ * Eevee Theme — variables-hook.scss
+ * Full typography + layout overrides
+ */
+
+/* ── Google Fonts already loaded in head.html ────── */
+/* Playfair Display: headings  |  Lora: body text    */
+
+/* ── Base typography ─────────────────────────────── */
+body {
+  // font-family: 'Lora', 'Georgia', serif !important;
+  // font-family: "Source Sans Pro", "Microsoft Yahei", sans-serif !important;
+  // font-family: 'Source Serif 4', serif !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 16.5px;
+  line-height: 1.8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', 'Georgia', serif !important;
+  // font-family: "Source Sans Pro", "Microsoft Yahei", sans-serif !important;
+  // font-family: 'Cormorant Garamond', serif !important;
+  // font-family: 'Inter', sans-serif;
+  letter-spacing: 0.01em;
+}
+
+/* Sidebar name / subtitle also get serif treatment */
+#sidebar .site-title a {
+  font-family: 'Playfair Display', serif !important;
+  // font-family: "Source Sans Pro", "Microsoft Yahei", sans-serif !important;
+  // font-family: 'Cormorant Garamond', serif !important;
+  // font-family: 'Inter', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+#sidebar .site-subtitle {
+  // font-family: 'Lora', serif !important;
+  // font-family: 'Source Serif 4', serif !important;
+  // font-family: 'Playfair Display', serif !important;
+  font-family: 'Inter', sans-serif;
+  font-style: italic;
+  font-size: 0.8rem;
+  opacity: 0.88;
+  line-height: 1.5;
+}
+
+/* Nav items: clean sans for readability */
+#sidebar ul li.nav-item a.nav-link span {
+  // font-family: 'Lora', serif;
+  // font-family: 'Source Serif 4', serif;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.88rem;
+  letter-spacing: 0.04em;
+}
+
+/* ── Hide topbar on desktop ──────────────────────── */
+@media (min-width: 850px) {
+  #topbar-wrapper {
+    display: none !important;
+  }
+
+  #main-wrapper {
+    margin-top: 0 !important;
+  }
+
+  #core-wrapper {
+    padding-top: 0.8rem !important;
+  }
+}
+
+/* ── Avatar: warm Eevee ring ─────────────────────── */
+#sidebar #avatar img {
+  border: 3px solid #C4956A;
+  box-shadow: 0 0 0 5px rgba(196, 149, 106, 0.22),
+    0 4px 16px rgba(74, 37, 5, 0.3);
+  transition: box-shadow 0.35s ease, transform 0.35s ease;
+}
+
+#sidebar #avatar img:hover {
+  box-shadow: 0 0 0 7px rgba(212, 169, 106, 0.35),
+    0 6px 20px rgba(74, 37, 5, 0.4);
+  transform: scale(1.03);
+}
+
+/* ── Nav links: slide + glow hover ──────────────── */
+#sidebar ul li.nav-item a.nav-link {
+  border-radius: 6px;
+  margin: 1px 6px;
+  transition: background 0.2s ease, padding-left 0.25s ease, color 0.2s ease;
+}
+
+#sidebar ul li.nav-item a.nav-link:hover {
+  background: rgba(196, 149, 106, 0.15);
+  padding-left: 1.5rem;
+}
+
+/* Active tab: warm left bar */
+#sidebar ul li.nav-item.active a.nav-link {
+  border-left: 3px solid #C4956A;
+  font-weight: 500;
+}
+
+/* ── Sidebar bottom icons ─────────────────────────── */
+#sidebar .sidebar-bottom a {
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+#sidebar .sidebar-bottom a:hover {
+  color: #C4956A !important;
+  transform: translateY(-2px);
+}
+
+/* ── Mode toggle button ───────────────────────────── */
+#sidebar .mode-toggle {
+  color: #9E7B5A;
+  transition: color 0.2s ease;
+}
+
+#sidebar .mode-toggle:hover {
+  color: #C4956A;
+}
+
+/* ── Main content: warmth in the prose ───────────── */
+.post-content p,
+.post-content li {
+  // font-family: 'Lora', serif;
+  // font-family: 'Source Serif 4', serif;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.85;
+}
+
+/* Link hover: warm underline grow */
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: opacity 0.18s ease;
+}
+
+a:hover {
+  opacity: 0.78;
+}
+
+/* ── Blockquotes: left accent fur-colored ─────────── */
+blockquote {
+  border-left-color: #C4956A !important;
+  // font-style: italic;
+}
+
+/* ── Tags: pill-shaped with warm tones ──────────────── */
+.post-tag,
+.btn.btn-outline-primary {
+  border-radius: 20px !important;
+  font-size: 0.78rem;
+  // font-family: 'Lora', serif;
+  // font-family: 'Source Serif 4', serif;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 0.03em;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.post-tag:hover {
+  transform: translateY(-1px);
+}
+
+/* ── Post titles on home: Playfair ───────────────── */
+.post-preview .post-title,
+.post-preview h1 {
+  // font-family: 'Playfair Display', serif !important;
+  // font-family: 'Cormorant Garamond', serif !important;
+  font-family: 'Inter', sans-serif;
+}
+
+/* ── Timeline node: caramel dot ──────────────────── */
+#timeline .dot,
+.timeline-dot {
+  background: #C4956A !important;
+}
+
+/* Year */
+#year-lead {
+  font-family: 'Playfair Display', serif !important;
+}
+
+/* ── Smooth page load fade-in ────────────────────── */
+#main-wrapper {
+  animation: eevee-fade 0.45s ease-in-out;
+}
+
+@keyframes eevee-fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ── Code blocks: warmer background tint ─────────── */
+html[data-mode="light"] pre {
+  background-color: #F0E5CF !important;
+  border: 1px solid #D4B896;
+}
+
+html:not([data-mode="light"]) pre {
+  background-color: #2A1408 !important;
+  border: 1px solid #3A1E0A;
+  color: #F0DDB8;
+}
+
+@media (prefers-color-scheme: light) {
+  html:not([data-mode]) pre {
+    background-color: #F0E5CF !important;
+    border: 1px solid #D4B896;
+  }
+}
+
+/* ── Eevee paw-print favicon nod in kbd ─────────── */
+kbd {
+  border-radius: 4px;
+  font-family: 'Lora', serif;
+  font-size: 0.82em;
+}
+
+/* ── Research page: publication title font fix ───── */
+#publication_title {
+  font-family: 'Playfair Display', 'Georgia', serif !important;
+  // font-family: 'Cormorant Garamond', serif !important;
+  // font-family: 'Inter', sans-serif;
+}
+
+/* ── Year dot: re-centre after font change ───────── */
+#publications .year::after {
+  vertical-align: middle;
+  top: auto;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+
+@media (max-width: 849px) {
+  #topbar-title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

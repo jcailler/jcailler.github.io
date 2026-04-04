@@ -36,7 +36,7 @@ layout: page
     {% if cur_year != last_year %}
     {% unless forloop.first %}
     </ul>{% endunless %}
-    <div class="year lead">{{ cur_year }}</div>
+    <div class="year lead" id="year-lead">{{ cur_year }}</div>
     <ul class="list-unstyled">
       {% assign last_year = cur_year %}
       {% endif %}

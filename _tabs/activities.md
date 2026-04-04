@@ -3,6 +3,15 @@ icon: fas fa-lightbulb
 order: 4
 ---
 
+## AAR Newsletter
+
+I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please feel free to bring to my attention any information you would like to see featured in the newsletter by writing an email at [newsletter[at]aarinc.org](mailto:newsletter@aarinc.org). The newsletter is also a good place to post relevant job opportunities, book publications, new software, and open letters to the automated reasoning community. 
+
+> 
+Next Release:\\
+April 2026
+{: .prompt-tip }
+
 ## GT LVP
 Together with [Julien Signoles](https://julien-signoles.fr/), I am co-head of [GT LVP](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Langages%20et%20v%C3%A9rification%20de%20programmes%20%28LVP%29/) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR SciLog](https://gdr-scilog.cnrs.fr//) (Software Science --- *Sciences du Logiciel*).
 

@@ -3,13 +3,13 @@ icon: fas fa-user-graduate
 order: 3
 ---
 
-### PhD
+## PhD
 * [Florent Krasnopol](https://www.linkedin.com/in/florent-krasnopol-18721a207/) --- 2025--2028  
   *Automated Theorem Proving over the Reals for Reasoning on Quantum Circuits*  
   With [Stephan Merz](https://members.loria.fr/Stephan.Merz/) and [Sophie Tourret](https://members.loria.fr/sophie.tourret/)
 
 
-### Master's Thesis
+## Master's Thesis
 
 * Ayath Abogounrin, Guillaume Potel, and Matheo Vigneres --- 2026  
 *Indexing Structures for First-Order Logic* | 1st year of master  
@@ -20,7 +20,7 @@ With [Marie Duflot-Kremer](https://members.loria.fr/MDuflot/) and [Engel Lefauch
 With [Engel Lefaucheux](https://elefauch.github.io/)
 
 
-### Bachelor's Thesis
+## Bachelor's Thesis
 
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022  
 *Deduction Modulo Theory and Polymorphism in Goéland*  
@@ -31,7 +31,7 @@ With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and
 With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and [Simon Robillard](https://simon-robillard.net/)
 
 
-### Internship
+## Internship
 
 * [Ruka Hlupic](https://www.linkedin.com/in/ruka-hlupic-74b115363/) --- 2026   
 *Automated Reasoning for Nikoli's games* | 2nd year of bachelor  

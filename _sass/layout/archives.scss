@@ -37,7 +37,8 @@
       top: 24px;
     }
 
-    &::after { /* Year dot */
+    &::after {
+      /* Year dot */
       content: "";
       display: inline-block;
       position: relative;
@@ -78,7 +79,9 @@
     &:last-child li:last-child::before {
       height: 1.5rem;
     }
-  } /* #archives ul */
+  }
+
+  /* #archives ul */
 
   .date {
     white-space: nowrap;
@@ -123,7 +126,9 @@
       z-index: 1;
     }
   }
-} /* #archives */
+}
+
+/* #archives */
 
 @media all and (max-width: 576px) {
   #archives {

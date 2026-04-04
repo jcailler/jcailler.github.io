@@ -4,7 +4,7 @@ order: 2
 ---
 
 
-### Faculté des sciences et technologies  (University of Lorraine, France)
+## Faculté des sciences et technologies  (University of Lorraine, France)
 
 * Agent-Oriented Programming --- 2nd year of bachelor's degree  --- 2025-2026 
 * Student's projects supervision --- 2nd year of bachelor's degree  --- 2024-2026 
@@ -14,13 +14,13 @@ order: 2
 * Logic --- 2nd year of bachelor's degree --- 2024-2025
 * API (Algorithms and Imperative Programming) --- 1st year of bachelor's degree --- 2024-2026
 
-### Fakultät für Informatik und Data Science (University of Regensburg, France)
+## Fakultät für Informatik und Data Science (University of Regensburg, France)
 
 * Programming II --- 1st year of bachelor's degree --- 2023-2024 --- [Exercises](https://github.com/ur-tcs) 
 * Theoretical Foundations of Computer Science I --- 1st year of bachelor's degree --- 2023-2024
 
 
-### Faculté des sciences (University of Montpellier, France)
+## Faculté des sciences (University of Montpellier, France)
 
 * Program Verification --- 3rd year of bachelor's degree --- 2022-2023 --- [Coq guide]({{ site.url }}{{ site.baseurl }}/assets/pdf/guide_coq.pdf) (in French)
 * Network and Concurrent Programming --- 3rd year of bachelor's degree --- 2022-2023

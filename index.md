@@ -20,6 +20,7 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* You can register to the [ProoVer 2026 competition]!(https://proover-competition.github.io/competitions/2026/)
 * I am part of the PC of [CSL 2027](https://csl2027.github.io/index.html)
 * I am part of the Artifact Evaluation Committee [CAV 2026](https://conferences.i-cav.org/2026/artifacts/) 
 * I gave a talk at the [CHoCoLa meeting](https://chocola.ens-lyon.fr/).

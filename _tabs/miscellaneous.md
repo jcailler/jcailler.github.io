@@ -47,6 +47,6 @@ However, if you are really intimidated by me (I know, I am scary) or struggling 
   * *Look at me and smile*
   * "Germany is great, isn't it?"
   * "<a href="{{ site.url }}{{ site.baseurl }}/assets/img/squirrel_dealer.png">Do you like squirrels?</a>"
-  * Can you explain rigid E-unification like I'm 6?
+  * "Can you explain rigid E-unification like I'm 6?"
 
 Note that this list is bound to grow, so don't be afraid to try something different, and it may end up on it one day!

@@ -77,6 +77,15 @@ location = {Stuttgart, Germany}
 </details>
 
 
+### [GρπF](https://grhopif.pythonanywhere.com/) ↩️
+
+Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
+
+GρπF is a web-based interactive tool for visualizing and manipulating ρπ-calculus terms using a graph rewriting semantics. It allows you to define processes, channels, and communications, apply reduction rules, and observe the evolution of processes graphically.
+
+
+
+
 ### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/) 🏆
 
 The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:

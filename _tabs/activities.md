@@ -20,7 +20,8 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 
 ## Conferences & Workshops Organization
-
+* [GT SCALP Days 2026](https://www.irif.fr/gt-scalp/journees-2026) --- Local organizer
+* [GT LVP Days 2025](https://groupes.renater.fr/wiki/lvp/journee_lvp_novembre2025) --- PC Chair
 * [31st International Symposium on Model Checking Software](https://spin-web.github.io/SPIN2025/) --- **SPIN 2025** --- AE Chair
 * [24th Conference in Formal Methods in Computer-Aided Design](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
 * [11th Workshop on Horn Clauses for Verification and Synthesis](https://www.sci.unich.it/hcvs24/) --- **HCVS 2024** --- PC Chair
@@ -28,6 +29,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 ## PC Member
 * [EACSL Annual Conference on Computer Science Logic](https://www.eacsl.org/csl-conferences/) --- **CSL** ([2027](https://csl2027.github.io/index.html))
+* [The 8th International School and Workshop on Proof Theory](https://proofsociety26.sciencesconf.org/?lang=en) --- **Proof Society** ([2026](https://proofsociety26.sciencesconf.org/))
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
 * Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/))
@@ -40,7 +42,6 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 
 ## Subreviewer
-
 * [International Conference on Interactive Theorem Proving](https://itp-conference.github.io/) --- **ITP** ([2025](https://icetcs.github.io/frocos-itp-tableaux25/))
 * [International Conference on Automated Deduction](https://cadeinc.org/) --- **CADE** ([2025](https://www.dhbw-stuttgart.de/cade-30/))
 * [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
@@ -51,22 +52,19 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 
 ## Artifact Reviewer
-
 * [International Conference on Computer Aided Verification](https://i-cav.org/) --- **CAV** ([2026](https://conferences.i-cav.org/2026/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2025](https://conf.researchr.org/home/VMCAI-2025))
 * [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 
 
-
 ## Volunteer Student
-
 * [The 11th International Colloquium on Graph Theory and combinatorics](https://www.lirmm.fr/icgt-2022/) --- **ICGT2022**
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022**
 
 
 
 ## Science Popularization & Other Events (mostly in French)
-
+* [Nuit de la science](https://www.univ-lorraine.fr/culture/culturesci/fetedelascience/nuitdelascience/)
 * [Rendez-vous de l’informatique : Plan National de Formation et journée NSI-SNT](https://www.loria.fr/event/rendez-vous-de-linformatique-plan-national-de-formation-et-journee-nsi-snt/)
 * [World Logic Day](https://www.unesco.org/en/days/world-logic)
 * [MATh.en.JEANS](https://www.mathenjeans.fr/) ([slides](/assets/pdf/MEJ.pdf))

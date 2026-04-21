@@ -20,8 +20,9 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
-* 
-* Our paper [Towards Term-based Verification of Diagrammatic Equivalence]() with  N. Delorme, S. Perdrix, S. Tourret was accepted at [IJCAR 2026](https://icetcs.github.io/frocos-itp-tableaux25/frocos/).
+* Our paper *A Graph Rewriting-Based Semantics and Implementation for ρπ* with M. Vassor has been accepted at [RC 2026](https://reversible-computation.github.io/)
+* Our paper *Towards Term-based Verification of Diagrammatic Equivalence* with N. Delorme, S. Perdrix, S. Tourret has been accepted at [IJCAR 2026](https://icetcs.github.io/frocos-itp-tableaux25/frocos/)
+* You can register to the [ProoVer 2026 competition](https://proover-competition.github.io/competitions/2026/)!
 * I am part of the PC of [Proof Society 2026](https://proofsociety26.sciencesconf.org/?lang=en)
 * I am part of the PC of [CSL 2027](https://csl2027.github.io/index.html)
 * I am part of the Artifact Evaluation Committee [CAV 2026](https://conferences.i-cav.org/2026/artifacts/) 

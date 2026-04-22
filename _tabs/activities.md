@@ -29,7 +29,8 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 ## PC Member
 * [EACSL Annual Conference on Computer Science Logic](https://www.eacsl.org/csl-conferences/) --- **CSL** ([2027](https://csl2027.github.io/index.html))
-* [The 8th International School and Workshop on Proof Theory](https://proofsociety26.sciencesconf.org/?lang=en) --- **Proof Society** ([2026](https://proofsociety26.sciencesconf.org/))
+* [International School and Workshop on Proof Theory](https://www.proofsociety.org/) --- **Proof Society** ([2026](https://proofsociety26.sciencesconf.org/))
+* [Congress of Software Science](https://gdr-scilog.cnrs.fr//) --- **GDR SciLog** ([2026](https://scilog2026.fr/))
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
 * Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/))
@@ -42,13 +43,13 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 
 ## Subreviewer
+* [International Joint Conference on Automated Reasoning](https://ijcar.org/) --- **IJCAR** ([2022](https://www.floc2022.org/), [2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), [2026](https://www.floc26.org/ijcar))
 * [International Conference on Interactive Theorem Proving](https://itp-conference.github.io/) --- **ITP** ([2025](https://icetcs.github.io/frocos-itp-tableaux25/))
 * [International Conference on Automated Deduction](https://cadeinc.org/) --- **CADE** ([2025](https://www.dhbw-stuttgart.de/cade-30/))
 * [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))
 * Certified Programs and Proofs --- **CPP** ([2023](https://popl23.sigplan.org/home/CPP-2023), [2024](https://popl24.sigplan.org/home/CPP-2024), [2025](https://popl25.sigplan.org/home/CPP-2025))
-* [International Joint Conference on Automated Reasoning](https://ijcar.org/) --- **IJCAR** ([2022](https://www.floc2022.org/), [2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), [2026](https://www.floc26.org/ijcar))
 
 
 ## Artifact Reviewer

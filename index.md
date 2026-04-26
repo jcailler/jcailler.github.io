@@ -20,8 +20,9 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* Our paper TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq* with J. Rosain has been accepted at [ITP 2026](https://itp-conference-2026.github.io/index.html)
 <!-- * Our paper *A Graph Rewriting-Based Semantics and Implementation for ρπ* with M. Vassor has been accepted at [RC 2026](https://reversible-computation.github.io/) -->
-* Our paper *Towards Term-based Verification of Diagrammatic Equivalence* with N. Delorme, S. Perdrix, S. Tourret has been accepted at [IJCAR 2026](https://icetcs.github.io/frocos-itp-tableaux25/frocos/)
+* Our paper *Towards Term-based Verification of Diagrammatic Equivalence* with N. Delorme, S. Perdrix, and S. Tourret has been accepted at [IJCAR 2026](https://www.floc26.org/ijcar)
 * You can register to the [ProoVer 2026 competition](https://proover-competition.github.io/competitions/2026/)!
 * I am part of the PC of [the FMCAD Student Forum 2026](https://fmcad.org/FMCAD26/student_forum)
 * I am part of the PC of [Proof Society 2026](https://proofsociety26.sciencesconf.org/?lang=en)

@@ -33,7 +33,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 * [Congress of Software Science](https://gdr-scilog.cnrs.fr//) --- **GDR SciLog** ([2026](https://scilog2026.fr/))
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
-* Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/))
+* Formal Methods in Computer-Aided Design (Student Forum) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/), [2026](https://fmcad.org/FMCAD26/student_forum/))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
 ## Journal Reviewer

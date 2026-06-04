@@ -9,11 +9,7 @@ I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please 
 
 > 
 Next Release:\\
-<<<<<<< HEAD
 September 2026
-=======
-Septembre 2026
->>>>>>> f76bb00f6bf07bfeefd84c89a9de3d69026996ae
 {: .prompt-tip }
 
 ## GT LVP

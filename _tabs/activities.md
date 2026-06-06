@@ -5,7 +5,7 @@ order: 4
 
 ## AAR Newsletter
 
-I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please feel free to bring to my attention any information you would like to see featured in the newsletter by writing an email at [newsletter[at]aarinc.org](mailto:newsletter@aarinc.org). The newsletter is also a good place to post relevant job opportunities, book publications, new software, and open letters to the automated reasoning community. 
+I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please feel free to bring to my attention any information you would like to see featured in the newsletter by writing an email at [newsletter@aarinc.org](mailto:newsletter@aarinc.org). The newsletter is also a good place to post relevant job opportunities, book publications, new software, and open letters to the automated reasoning community. 
 
 > 
 Next Release:\\

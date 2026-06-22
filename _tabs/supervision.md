@@ -80,3 +80,14 @@ With [David Delahaye](https://www.lirmm.fr/~delahaye/) and Hinde Lilia Bouziane
 * [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021  
 *Code Trees for Unification* | 2nd year of bachelor  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/) and Hinde Lilia Bouziane
+
+
+<!-- ## Feedback
+
+As I think future interns should know what to expect from me, here are a few comments from people who worked under my supervision.  
+Since they can't be entirely honest (I did threaten them, of course), I swear I haven't changed a single word of what they sent me!
+(And if you are wondering why they did not all post something, you can choose your favorite answer between (i) I started this feedback wall after a while, or (ii) they are not able to answer anymore...)
+
+
+> {: .prompt-warning }
+> Test -->

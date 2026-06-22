@@ -30,7 +30,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 ## PC Member
 * International Workshop on the Implementation of Logics --- **IWIL** ([2026](https://www.eprover.org/EVENTS/IWIL-2026.html))
 * [International Conference on Logic for Programming, Artificial Intelligence and Reasoning](https://en.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning) --- **LPAR** ([2026](https://easychair.org/smart-program/LPAR-26/))
-* Certified Programs and Proofs --- **CPP** (2027) <!--([2027](https://popl27.sigplan.org/home/CPP-2027))-->
+* Certified Programs and Proofs --- **CPP** ([2027](https://popl27.sigplan.org/home/CPP-2027))
 * [EACSL Annual Conference on Computer Science Logic](https://www.eacsl.org/csl-conferences/) --- **CSL** ([2027](https://csl2027.github.io/index.html))
 * [International School and Workshop on Proof Theory](https://www.proofsociety.org/) --- **Proof Society** ([2026](https://proofsociety26.sciencesconf.org/))
 * [Congress of Software Science](https://gdr-scilog.cnrs.fr//) --- **GDR SciLog** ([2026](https://scilog2026.fr/))

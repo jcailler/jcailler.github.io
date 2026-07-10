@@ -52,7 +52,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 * [International Symposium on Formal Methods](https://www.fmeurope.org/symposia/) --- **FM** ([2024](https://www.fm24.polimi.it/))
 * [Formal Methods in Computer-Aided Design](https://www.fmcad.org/) --- **FMCAD** ([2024](https://fmcad.forsyte.at/FMCAD24/))
 * International Conference on Verification, Model Checking, and Abstract Interpretation --- **VMCAI** ([2024](https://popl24.sigplan.org/home/VMCAI-2024))
-* Certified Programs and Proofs --- **CPP** ([2023](https://popl23.sigplan.org/home/CPP-2023), [2024](https://popl24.sigplan.org/home/CPP-2024), [2025](https://popl25.sigplan.org/home/CPP-2025))
+* [Certified Programs and Proofs](https://sigplan.org/Conferences/CPP/) --- **CPP** ([2023](https://popl23.sigplan.org/home/CPP-2023), [2024](https://popl24.sigplan.org/home/CPP-2024), [2025](https://popl25.sigplan.org/home/CPP-2025))
 
 
 ## Artifact Reviewer

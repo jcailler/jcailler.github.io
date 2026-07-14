@@ -3,6 +3,10 @@ icon: fas fa-gears
 order: 5
 ---
 
+This page contains tools to which I have contributed (to varying degrees).  
+Feel free to try them out, have fun playing with them, and let me know if something doesn't work as expected (which, of course, is very unlikely to happen).
+
+
 ### [Goéland](https://github.com/GoelandProver/Goeland) 🐦
 
 Work done in collaboration with [David Delahaye](https://www.lirmm.fr/~delahaye/), [Isaac Lluís](http://isaac-lluis.com/) and [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/). 
@@ -41,6 +45,24 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 </div>
 
 </details>
+
+
+### [TableauxRocq](https://github.com/jrosain/TableauxRocq) 🐓
+
+Work done done in collaboration with [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/), who was the main contributor.  
+
+TableauxRocq is a Rocq library that provides a deep embedding of free-variable tableaux, together with a fully certified fast proof checker.  
+
+<!-- <details>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/itp2026.txt"> this paper</a> if you want to cite TableauxRocq:</summary>
+
+<div>
+<pre>
+
+</pre>
+</div>
+
+</details> -->
 
 
 
@@ -84,9 +106,9 @@ Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
 GρπF is a web-based interactive tool for visualizing and manipulating ρπ-calculus terms using a graph rewriting semantics. It allows you to define processes, channels, and communications, apply reduction rules, and observe the evolution of processes graphically.
 
 
-
-
 ### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/) 🏆
+
+Work done in collaboration with [myself](https://jcailler.github.io/), ~~maybe threatened by [Goeff](https://www.cs.miami.edu/home/geoff/)~~ following the wise advices of [Goeff](https://www.cs.miami.edu/home/geoff/)!
 
 The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:
 * Runs flawlessly.
@@ -121,6 +143,8 @@ print("% Thanks for trying LastButNotLeast :)")
 
 
 ### [Capex](https://www.docamex.fr/docamex_portail/accueil) 🧀
+
+Work done in collaboration with [Florent Tornil](https://fr.linkedin.com/in/florent-tornil).  
 
 Capex is a knowledge-based multicriteria decision support tool that structures expert know-how to support technological decision-making in biomass transformation. It was initially applied to French cheese production under AOP/IGP, where preserving and transmitting specialized know-how is critical. By organizing this collective expertise into a structured knowledge base, Capex helps guide practical technological choices and supports the training of technicians and operators.
 

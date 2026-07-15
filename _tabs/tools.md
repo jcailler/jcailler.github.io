@@ -105,10 +105,20 @@ Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
 
 GρπF is a web-based interactive tool for visualizing and manipulating ρπ-calculus terms using a graph rewriting semantics. It allows you to define processes, channels, and communications, apply reduction rules, and observe the evolution of processes graphically.
 
+<!-- <details>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/rc2026.txt"> this paper</a> if you want to cite GρπF:</summary>
+
+<div>
+<pre>
+
+</pre>
+</div>
+
+</details> -->
 
 ### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/) 🏆
 
-Work done in collaboration with [myself](https://jcailler.github.io/), ~~maybe threatened by [Goeff](https://www.cs.miami.edu/home/geoff/)~~ following the wise advices of [Goeff](https://www.cs.miami.edu/home/geoff/)!
+Work done in collaboration with [myself](https://jcailler.github.io/), ~~maybe under threat from [Geoff](https://www.cs.miami.edu/home/geoff/)~~ following [Geoff](https://www.cs.miami.edu/home/geoff/)'s wise advice!
 
 The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:
 * Runs flawlessly.

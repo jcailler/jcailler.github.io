@@ -47,7 +47,7 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 </details>
 
 
-### [TableauxRocq](https://github.com/jrosain/TableauxRocq) 🐓
+### [TableauxRocq & Poulet](https://github.com/jrosain/TableauxRocq) 🐓
 
 Work done done in collaboration with [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/), who was the main contributor.  
 

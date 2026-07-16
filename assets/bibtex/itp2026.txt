@@ -1,7 +1,7 @@
 @InProceedings{rosain_et_al:LIPIcs.ITP.2026.12,
   author =	{Rosain, Johann and Cailler, Julie},
   title =	{{TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq}},
-  booktitle =	{17th International Conference on Interactive Theorem Proving (ITP 2026)},
+  booktitle =	{17th International Conference on Interactive Theorem Proving ({ITP} 2026)},
   pages =	{12:1--12:22},
   series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
   ISBN =	{978-3-95977-436-9},

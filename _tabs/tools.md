@@ -60,8 +60,8 @@ TableauxRocq is a Rocq library that provides a deep embedding of free-variable t
 <pre>
 @InProceedings{rosain_et_al:LIPIcs.ITP.2026.12,
   author =	{Rosain, Johann and Cailler, Julie},
-  title =	{{TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq}},
-  booktitle =	{17th International Conference on Interactive Theorem Proving (ITP 2026)},
+  title =	{{TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq}}, 
+  booktitle =	{17th International Conference on Interactive Theorem Proving ({ITP} 2026)},
   pages =	{12:1--12:22},
   series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
   ISBN =	{978-3-95977-436-9},
@@ -73,7 +73,7 @@ TableauxRocq is a Rocq library that provides a deep embedding of free-variable t
   address =	{Dagstuhl, Germany},
   URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2026.12},
   URN =		{urn:nbn:de:0030-drops-269869},
-  doi =		{10.4230/LIPIcs.ITP.2026.12},
+  doi =		{10.4230/LIPIcs.ITP.2026.12}
 }
 </pre>
 </div>

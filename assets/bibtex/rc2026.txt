@@ -1,0 +1,13 @@
+@InProceedings{10.1007/978-3-032-30839-9_14,
+author="Cailler, Julie
+and Vassor, Martin",
+editor="Aubert, Cl{\'e}ment
+and Roversi, Luca",
+title="A Graph Rewriting-Based Semantics and Implementation for {\$}{\$}{\backslash}rho {\backslash}pi {\$}{\$}",
+booktitle="Reversible Computation",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="239--257",
+isbn="978-3-032-30839-9"
+}

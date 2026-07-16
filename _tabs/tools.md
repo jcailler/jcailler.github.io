@@ -105,16 +105,28 @@ Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
 
 GρπF is a web-based interactive tool for visualizing and manipulating ρπ-calculus terms using a graph rewriting semantics. It allows you to define processes, channels, and communications, apply reduction rules, and observe the evolution of processes graphically.
 
-<!-- <details>
+<details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/rc2026.txt"> this paper</a> if you want to cite GρπF:</summary>
 
 <div>
 <pre>
-
+@InProceedings{10.1007/978-3-032-30839-9_14,
+author="Cailler, Julie
+and Vassor, Martin",
+editor="Aubert, Cl{\'e}ment
+and Roversi, Luca",
+title="A Graph Rewriting-Based Semantics and Implementation for {\$}{\$}{\backslash}rho {\backslash}pi {\$}{\$}",
+booktitle="Reversible Computation",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="239--257",
+isbn="978-3-032-30839-9"
+}
 </pre>
 </div>
 
-</details> -->
+</details>
 
 ### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/) 🏆
 

@@ -53,16 +53,32 @@ Work done done in collaboration with [Johann Rosain](https://perso.ens-lyon.fr/j
 
 TableauxRocq is a Rocq library that provides a deep embedding of free-variable tableaux, together with a fully certified fast proof checker.  
 
-<!-- <details>
+<details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/itp2026.txt"> this paper</a> if you want to cite TableauxRocq:</summary>
 
 <div>
 <pre>
-
+@InProceedings{rosain_et_al:LIPIcs.ITP.2026.12,
+  author =	{Rosain, Johann and Cailler, Julie},
+  title =	{{TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq}},
+  booktitle =	{17th International Conference on Interactive Theorem Proving (ITP 2026)},
+  pages =	{12:1--12:22},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-436-9},
+  ISSN =	{1868-8969},
+  year =	{2026},
+  volume =	{382},
+  editor =	{Komendantskaya, Ekaterina and Nipkow, Tobias},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2026.12},
+  URN =		{urn:nbn:de:0030-drops-269869},
+  doi =		{10.4230/LIPIcs.ITP.2026.12},
+}
 </pre>
 </div>
 
-</details> -->
+</details>
 
 
 

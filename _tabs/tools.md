@@ -47,7 +47,7 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 </details>
 
 
-### [TableauxRocq & Poulet](https://github.com/jrosain/TableauxRocq) 🐓
+### [TableauxRocq & POULET](https://github.com/jrosain/TableauxRocq) 🐓
 
 Work done done in collaboration with [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/), who was the main contributor.  
 
@@ -60,7 +60,7 @@ TableauxRocq is a Rocq library that provides a deep embedding of free-variable t
 <pre>
 @InProceedings{rosain_et_al:LIPIcs.ITP.2026.12,
   author =	{Rosain, Johann and Cailler, Julie},
-  title =	{{TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq}}, 
+  title =	{ {TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq} }, 
   booktitle =	{17th International Conference on Interactive Theorem Proving ({ITP} 2026)},
   pages =	{12:1--12:22},
   series =	{Leibniz International Proceedings in Informatics (LIPIcs)},

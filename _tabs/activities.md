@@ -12,8 +12,12 @@ Next Release:\\
 September 2026
 {: .prompt-tip }
 
+*Please note that this date is more of what you would call a guideline than an actual deadline.*  
+
+
 ## GT LVP
 Together with [Julien Signoles](https://julien-signoles.fr/), I am co-head of [GT LVP](https://gdr-scilog.cnrs.fr/group/lvp/) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR SciLog](https://gdr-scilog.cnrs.fr//) (Software Science --- *Sciences du Logiciel*).
+
 
 ## ProoVer
 Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [ProoVer Competition](https://proover-competition.github.io/). Inspired by the [CADE ATP System Competition (CASC)](https://tptp.org/CASC/), ProoVer aims to benchmark the correctness and robustness of proof checkers within the TPTP ecosystem.  
@@ -38,6 +42,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
 * [Formal Methods in Computer-Aided Design (Student Forum)](https://fmcad.org/) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/), [2026](https://fmcad.org/FMCAD26/student_forum/))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
+
 
 ## Journal Reviewer
 * [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
@@ -64,7 +69,6 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 ## Volunteer Student
 * [The 11th International Colloquium on Graph Theory and combinatorics](https://www.lirmm.fr/icgt-2022/) --- **ICGT2022**
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022**
-
 
 
 ## Science Popularization & Other Events (mostly in French)

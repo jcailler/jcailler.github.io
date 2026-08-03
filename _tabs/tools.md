@@ -115,7 +115,7 @@ location = {Stuttgart, Germany}
 </details>
 
 
-### [GρπF](https://grhopif.pythonanywhere.com/) ↩️
+### [GρπF](https://github.com/jcailler/grhopif) ([Web version](https://grhopif.pythonanywhere.com/)) ↩️
 
 Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
 

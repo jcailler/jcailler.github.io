@@ -20,13 +20,13 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: May 2
 
 >
 News:
+* Our paper *Challenging Benchmarks for Diagrammatic Equivalence of Circuits in TPTP and SMT-LIB* with N. Delorme and S. Tourret has been accepted at [LPAR 26](https://easychair.org/smart-program/LPAR-26/)
 * I am part of the PC of [LPAR 26](https://easychair.org/smart-program/LPAR-26/)
 * I am part of the PC of [IWIL 26](https://www.eprover.org/EVENTS/IWIL-2026.html)
 * I am part of the PC of [CPP 2027](https://popl27.sigplan.org/home/CPP-2027)
 * Our paper *TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq* with J. Rosain has been accepted at [ITP 2026](https://itp-conference-2026.github.io/index.html)
 * Our paper *A Graph Rewriting-Based Semantics and Implementation for ρπ* with M. Vassor has been accepted at [RC 2026](https://reversible-computation.github.io/)
 * Our paper *Towards Term-based Verification of Diagrammatic Equivalence* with N. Delorme, S. Perdrix, and S. Tourret has been accepted at [IJCAR 2026](https://www.floc26.org/ijcar)
-* You can register for the [ProoVer 2026 competition](https://proover-competition.github.io/competitions/2026/)!
 * I am part of the PC of the [FMCAD Student Forum 2026](https://fmcad.org/FMCAD26/student_forum)
 * I am part of the PC of [Proof Society 2026](https://proofsociety26.sciencesconf.org/?lang=en)
 * I am part of the PC of [CSL 2027](https://csl2027.github.io/index.html)

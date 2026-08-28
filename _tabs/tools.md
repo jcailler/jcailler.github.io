@@ -15,7 +15,7 @@ Goéland is an automated theorem prover for first-order logic with equality. It 
 concurrent proof-search procedure based on the method of free-variable analytics tableaux that
 allows it to perform a fair branch exploration. The prover is also able to deal with axiomatisable
 theories thanks to a module of deduction modulo theory, to deal with polymorphic types,
-and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
+and to produce machine-checkable proofs in Rocq, Lambdapi and Lisa.
 
 <details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/ijcar2022.txt"> this paper</a> if you want to cite Goéland:</summary>

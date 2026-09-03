@@ -20,6 +20,7 @@ You can find more information in my [CV](/assets/pdf/cv.pdf) (last update: Augus
 
 >
 News:
+* Registration are open for the [GT LVP 2026 days](https://groupes.renater.fr/wiki/lvp/journee_lvp_novembre2026)! Don't forget to register [here](https://framaforms.org/journee-lvp-du-23-novembre-2026-1788266271) (free, but mandatory)!
 * Our paper *Challenging Benchmarks for Diagrammatic Equivalence of Circuits in TPTP and SMT-LIB* with N. Delorme and S. Tourret has been accepted at [LPAR 26](https://easychair.org/smart-program/LPAR-26/)
 * I am part of the PC of [LPAR 26](https://easychair.org/smart-program/LPAR-26/)
 * I am part of the PC of [IWIL 26](https://www.eprover.org/EVENTS/IWIL-2026.html)

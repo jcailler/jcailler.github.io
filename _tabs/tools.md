@@ -32,7 +32,7 @@ and to produce machine-checkable proofs in Rocq, Lambdapi and Lisa.
                Laura Kov{\'{a}}cs and
                Dirk Pattinson},
   title     = {Go{\'{e}}land: {A} Concurrent Tableau-Based Theorem Prover (System Description)},
-  booktitle = {International Joint Conference on Automated Reasoning ({IJCAR})},
+  booktitle = {11th International Joint Conference on Automated Reasoning ({IJCAR 2022})},
   series    = {Lecture Notes in Computer Science},
   volume    = {13385},
   pages     = {359--368},

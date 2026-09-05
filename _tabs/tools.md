@@ -15,7 +15,7 @@ Goéland is an automated theorem prover for first-order logic with equality. It 
 concurrent proof-search procedure based on the method of free-variable analytics tableaux that
 allows it to perform a fair branch exploration. The prover is also able to deal with axiomatisable
 theories thanks to a module of deduction modulo theory, to deal with polymorphic types,
-and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
+and to produce machine-checkable proofs in Rocq, Lambdapi and Lisa.
 
 <details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/ijcar2022.txt"> this paper</a> if you want to cite Goéland:</summary>
@@ -47,22 +47,38 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 </details>
 
 
-### [TableauxRocq](https://github.com/jrosain/TableauxRocq) 🐓
+### [TableauxRocq & POULET](https://github.com/jrosain/TableauxRocq) 🐓
 
 Work done done in collaboration with [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/), who was the main contributor.  
 
 TableauxRocq is a Rocq library that provides a deep embedding of free-variable tableaux, together with a fully certified fast proof checker.  
 
-<!-- <details>
+<details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/itp2026.txt"> this paper</a> if you want to cite TableauxRocq:</summary>
 
 <div>
 <pre>
-
+@InProceedings{rosain_et_al:LIPIcs.ITP.2026.12,
+  author =	{Rosain, Johann and Cailler, Julie},
+  title =	{ {TableauxRocq: A Deep Embedding of Free-Variable Tableaux in Rocq} }, 
+  booktitle =	{17th International Conference on Interactive Theorem Proving ({ITP} 2026)},
+  pages =	{12:1--12:22},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-436-9},
+  ISSN =	{1868-8969},
+  year =	{2026},
+  volume =	{382},
+  editor =	{Komendantskaya, Ekaterina and Nipkow, Tobias},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2026.12},
+  URN =		{urn:nbn:de:0030-drops-269869},
+  doi =		{10.4230/LIPIcs.ITP.2026.12}
+}
 </pre>
 </div>
 
-</details> -->
+</details>
 
 
 
@@ -99,16 +115,38 @@ location = {Stuttgart, Germany}
 </details>
 
 
-### [GρπF](https://grhopif.pythonanywhere.com/) ↩️
+### [GρπF](https://github.com/jcailler/grhopif) ([Web version](https://grhopif.pythonanywhere.com/)) ↩️
 
 Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
 
 GρπF is a web-based interactive tool for visualizing and manipulating ρπ-calculus terms using a graph rewriting semantics. It allows you to define processes, channels, and communications, apply reduction rules, and observe the evolution of processes graphically.
 
+<details>
+  <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/rc2026.txt"> this paper</a> if you want to cite GρπF:</summary>
+
+<div>
+<pre>
+@InProceedings{10.1007/978-3-032-30839-9_14,
+author="Cailler, Julie
+and Vassor, Martin",
+editor="Aubert, Cl{\'e}ment
+and Roversi, Luca",
+title="A Graph Rewriting-Based Semantics and Implementation for {\$}{\$}{\backslash}rho {\backslash}pi {\$}{\$}",
+booktitle="Reversible Computation",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="239--257",
+isbn="978-3-032-30839-9"
+}
+</pre>
+</div>
+
+</details>
 
 ### [LastButNotLeast](https://github.com/jcailler/LastButNotLeast/) 🏆
 
-Work done in collaboration with [myself](https://jcailler.github.io/), ~~maybe threatened by [Goeff](https://www.cs.miami.edu/home/geoff/)~~ following the wise advices of [Goeff](https://www.cs.miami.edu/home/geoff/)!
+Work done in collaboration with [myself](https://jcailler.github.io/), ~~maybe under threat from [Geoff](https://www.cs.miami.edu/home/geoff/)~~ following [Geoff](https://www.cs.miami.edu/home/geoff/)'s wise advice!
 
 The fastest way to give up — now with 0 bugs! Probably the fastest prover in the competition:
 * Runs flawlessly.

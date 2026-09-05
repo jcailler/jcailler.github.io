@@ -12,37 +12,42 @@ Next Release:\\
 September 2026
 {: .prompt-tip }
 
+*Please note that this date is more of what you would call a guideline than an actual deadline.*  
+
+
 ## GT LVP
 Together with [Julien Signoles](https://julien-signoles.fr/), I am co-head of [GT LVP](https://gdr-scilog.cnrs.fr/group/lvp/) (Languages and Program Verification --- *Langages et Vérification de Programmes*) of [GDR SciLog](https://gdr-scilog.cnrs.fr//) (Software Science --- *Sciences du Logiciel*).
+
 
 ## ProoVer
 Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [ProoVer Competition](https://proover-competition.github.io/). Inspired by the [CADE ATP System Competition (CASC)](https://tptp.org/CASC/), ProoVer aims to benchmark the correctness and robustness of proof checkers within the TPTP ecosystem.  
 
 
 ## Conferences & Workshops Organization
+* GT LVP Days ([2025](https://groupes.renater.fr/wiki/lvp/journee_lvp_novembre2025), 2026) --- PC Chair
 * [GT SCALP Days 2026](https://www.irif.fr/gt-scalp/journees-2026) --- Local organizer
-* [GT LVP Days 2025](https://groupes.renater.fr/wiki/lvp/journee_lvp_novembre2025) --- PC Chair
 * [31st International Symposium on Model Checking Software](https://spin-web.github.io/SPIN2025/) --- **SPIN 2025** --- AE Chair
 * [24th Conference in Formal Methods in Computer-Aided Design](https://fmcad.forsyte.at/FMCAD24/) --- **FMCAD 2024** --- Web Chair
 * [11th Workshop on Horn Clauses for Verification and Synthesis](https://www.sci.unich.it/hcvs24/) --- **HCVS 2024** --- PC Chair
 
 
 ## PC Member
-* International Workshop on the Implementation of Logics --- **IWIL** ([2026](https://www.eprover.org/EVENTS/IWIL-2026.html))
-* [International Conference on Logic for Programming, Artificial Intelligence and Reasoning](https://en.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning) --- **LPAR** ([2026](https://easychair.org/smart-program/LPAR-26/))
-* [Certified Programs and Proofs](https://sigplan.org/Conferences/CPP/) --- **CPP** ([2027](https://popl27.sigplan.org/home/CPP-2027))
 * [EACSL Annual Conference on Computer Science Logic](https://www.eacsl.org/csl-conferences/) --- **CSL** ([2027](https://csl2027.github.io/index.html))
+* [Certified Programs and Proofs](https://sigplan.org/Conferences/CPP/) --- **CPP** ([2027](https://popl27.sigplan.org/home/CPP-2027))
+* [International Conference on Logic for Programming, Artificial Intelligence and Reasoning](https://en.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning) --- **LPAR** ([2026](https://easychair.org/smart-program/LPAR-26/))
+* International Workshop on the Implementation of Logics --- **IWIL** ([2026](https://www.eprover.org/EVENTS/IWIL-2026.html))
 * [International School and Workshop on Proof Theory](https://www.proofsociety.org/) --- **Proof Society** ([2026](https://proofsociety26.sciencesconf.org/))
-* [Congress of Software Science](https://gdr-scilog.cnrs.fr//) --- **GDR SciLog** ([2026](https://scilog2026.fr/))
+* [Congress of Software Science (Poster Session)](https://gdr-scilog.cnrs.fr//) --- **GDR SciLog** ([2026](https://scilog2026.fr/))
 * [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/) --- **JFLA** ([2026](https://jfla.inria.fr/jfla2026.html))
 * [IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science](https://www.fsttcs.org.in/) --- **FSTTCS** ([2025](https://www.fsttcs.org.in/2025/))
 * [Formal Methods in Computer-Aided Design (Student Forum)](https://fmcad.org/) --- **FMCAD Student Forum** ([2025](https://fmcad.org/FMCAD25/student_forum/), [2026](https://fmcad.org/FMCAD26/student_forum/))
 * International Symposium on Theoretical Aspects of Software Engineering --- **TASE** ([2025](https://cyprusconferences.org/tase2025/))
 
+
 ## Journal Reviewer
-* [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
-* [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
-* [Journal of Applied Logic](https://www.collegepublications.co.uk/ifcolog/)
+* [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) (2025, 2026)
+* [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (2025)
+* [Journal of Applied Logic](https://www.collegepublications.co.uk/ifcolog/) (2025)
 
 
 ## Subreviewer
@@ -64,7 +69,6 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 ## Volunteer Student
 * [The 11th International Colloquium on Graph Theory and combinatorics](https://www.lirmm.fr/icgt-2022/) --- **ICGT2022**
 * [The 20th International Conference on Software & Systems Reuse](https://icsr2022v2.wp.imt.fr/) -- **ICSR2022**
-
 
 
 ## Science Popularization & Other Events (mostly in French)

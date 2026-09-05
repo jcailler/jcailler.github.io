@@ -41,6 +41,7 @@ However, if you are really intimidated by me (I know, I am scary) or struggling 
   * "Here is some food."
   * *Look at me and smile*
   * "Germany is great, isn't it?"
+  * "Why did you named your prover Goéland...?" (beware: there is a pun, and it is only available in French)
   * "<a href="{{ site.url }}{{ site.baseurl }}/assets/img/squirrel_dealer.png">Do you like squirrels?</a>"
   * "Can you explain rigid E-unification like I'm 6?"
 

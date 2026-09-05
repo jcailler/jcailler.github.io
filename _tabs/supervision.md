@@ -34,7 +34,7 @@ With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and
 ## Internship
 
 * [Ruka Hlupic](https://www.linkedin.com/in/ruka-hlupic-74b115363/) --- 2026   
-*Automated Reasoning for Nikoli's games* | 2nd year of bachelor  
+*Automated Reasoning for Nikoli's Games* | 2nd year of bachelor  
 With [Florent Krasnopol](https://www.linkedin.com/in/florent-krasnopol-18721a207/)
 
 * [Corentin Minaroli](https://www.linkedin.com/in/corentin-minaroli-749a86154/) --- 2026   

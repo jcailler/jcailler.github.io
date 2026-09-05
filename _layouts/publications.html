@@ -154,8 +154,13 @@ layout: page
 
       <li>
         {% assign ts = post.date | date: '%s' %}
-        <p><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title
-            }}</a> {% if post.talk %} (&nbsp; <a href="{{ post.talk }}" target="_blank">Talk</a>) {% endif %}
+        <p>
+          {% if post.attachment %}
+          <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ post.attachment }}" target="_blank">{{ post.title }}</a> 
+          {% else %}
+          <a>{{ post.title }}</a>
+          {% endif %}
+          {% if post.talk %} (&nbsp; <a href="{{ post.talk }}" target="_blank">Talk</a>) {% endif %}
           <br />
           At: <i>{{ post.subtitle }}</i>.
         </p>

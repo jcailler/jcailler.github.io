@@ -23,23 +23,23 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 <div>
 <pre>
 @inproceedings{cailler2022goeland,
-  author       = {Julie Cailler and
-                  Johann Rosain and
-                  David Delahaye and
-                  Simon Robillard and
-                  Hinde Lilia Bouziane},
-  editor       = {Jasmin Blanchette and
-                  Laura Kov{\'{a}}cs and
-                  Dirk Pattinson},
-  title        = {Go{\'{e}}land: {A} Concurrent Tableau-Based Theorem Prove (System Description)},
-  booktitle    = {Automated Reasoning - 11th International Joint Conference, {IJCAR} 2022, Haifa, Israel, August 8-10, 2022, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {13385},
-  pages        = {359--368},
-  publisher    = {Springer},
-  year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-10769-6\_22},
-  doi          = {10.1007/978-3-031-10769-6\_22}
+  author    = {Julie Cailler and
+               Johann Rosain and
+               David Delahaye and
+               Simon Robillard and
+               Hinde Lilia Bouziane},
+  editor    = {Jasmin Blanchette and
+               Laura Kov{\'{a}}cs and
+               Dirk Pattinson},
+  title     = {Go{\'{e}}land: {A} Concurrent Tableau-Based Theorem Prover (System Description)},
+  booktitle = {International Joint Conference on Automated Reasoning ({IJCAR})},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13385},
+  pages     = {359--368},
+  publisher = {Springer},
+  year      = {2022}
+  url       = {https://doi.org/10.1007/978-3-031-10769-6\_22},
+  doi       = {10.1007/978-3-031-10769-6\_22}
 }
 </pre>
 </div>

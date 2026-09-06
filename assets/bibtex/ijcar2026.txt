@@ -1,0 +1,16 @@
+@InProceedings{10.1007/978-3-032-32592-1_13,
+author="Cailler, Julie
+and Delorme, No{\'e}
+and Perdrix, Simon
+and Tourret, Sophie",
+editor="Biere, Armin
+and Lutz, Carsten
+and Negri, Sara",
+title="Towards Term-Based Verification of Diagrammatic Equivalence",
+booktitle="Automated Reasoning",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="217--233",
+isbn="978-3-032-32592-1"
+}

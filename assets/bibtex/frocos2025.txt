@@ -8,7 +8,7 @@ editor="Thiemann, Ren{\'e}
 and Weidenbach, Christoph",
 title="When GNNs Met a Word Equations Solver: Learning to Rank Equations",
 booktitle="Frontiers of Combining Systems",
-year="2026",
+year="2025",
 publisher="Springer Nature Switzerland",
 address="Cham",
 pages="327--345",

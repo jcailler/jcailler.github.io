@@ -18,6 +18,12 @@
   icon: 'fab fa-orcid'
   url:  'https://orcid.org/0000-0002-6665-8089'
 
+-
+  type: help
+  icon: 'fas fa-comment-dots'
+  url: https://findahelpline.com/
+
+
 # Uncomment and complete the url below to enable more contact options
 
 # -

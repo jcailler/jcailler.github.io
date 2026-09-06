@@ -15,7 +15,7 @@ Goéland is an automated theorem prover for first-order logic with equality. It 
 concurrent proof-search procedure based on the method of free-variable analytics tableaux that
 allows it to perform a fair branch exploration. The prover is also able to deal with axiomatisable
 theories thanks to a module of deduction modulo theory, to deal with polymorphic types,
-and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
+and to produce machine-checkable proofs in Rocq, Lambdapi and Lisa.
 
 <details>
   <summary>Please refer to <a href="{{ site.url }}{{ site.baseurl }}/assets/bibtex/ijcar2022.txt"> this paper</a> if you want to cite Goéland:</summary>
@@ -23,23 +23,23 @@ and to produce machine-checkable proofs in Coq, Lambdapi and Lisa.
 <div>
 <pre>
 @inproceedings{cailler2022goeland,
-  author       = {Julie Cailler and
-                  Johann Rosain and
-                  David Delahaye and
-                  Simon Robillard and
-                  Hinde Lilia Bouziane},
-  editor       = {Jasmin Blanchette and
-                  Laura Kov{\'{a}}cs and
-                  Dirk Pattinson},
-  title        = {Go{\'{e}}land: {A} Concurrent Tableau-Based Theorem Prove (System Description)},
-  booktitle    = {Automated Reasoning - 11th International Joint Conference, {IJCAR} 2022, Haifa, Israel, August 8-10, 2022, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {13385},
-  pages        = {359--368},
-  publisher    = {Springer},
-  year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-10769-6\_22},
-  doi          = {10.1007/978-3-031-10769-6\_22}
+  author    = {Julie Cailler and
+               Johann Rosain and
+               David Delahaye and
+               Simon Robillard and
+               Hinde Lilia Bouziane},
+  editor    = {Jasmin Blanchette and
+               Laura Kov{\'{a}}cs and
+               Dirk Pattinson},
+  title     = {Go{\'{e}}land: {A} Concurrent Tableau-Based Theorem Prover (System Description)},
+  booktitle = {11th International Joint Conference on Automated Reasoning ({IJCAR 2022})},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13385},
+  pages     = {359--368},
+  publisher = {Springer},
+  year      = {2022}
+  url       = {https://doi.org/10.1007/978-3-031-10769-6\_22},
+  doi       = {10.1007/978-3-031-10769-6\_22}
 }
 </pre>
 </div>
@@ -115,7 +115,7 @@ location = {Stuttgart, Germany}
 </details>
 
 
-### [GρπF](https://grhopif.pythonanywhere.com/) ↩️
+### [GρπF](https://github.com/jcailler/grhopif) ([Web version](https://grhopif.pythonanywhere.com/)) ↩️
 
 Work done in collaboration with [Martin Vassor](https://martin.vassor.org/).
 

@@ -9,7 +9,7 @@ Feel free to try them out, have fun playing with them, and let me know if someth
 
 ### [Goéland](https://github.com/GoelandProver/Goeland) 🐦
 
-Work done in collaboration with [David Delahaye](https://www.lirmm.fr/~delahaye/), [Isaac Lluís](http://isaac-lluis.com/) and [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/). 
+Work done in collaboration with [David Delahaye](https://www.lirmm.fr/~delahaye/), [Isaac Lluís](http://isaac-lluis.com/) and [Johann Rosain](https://jrosain.gitlabpages.inria.fr/www/). 
 
 Goéland is an automated theorem prover for first-order logic with equality. It relies on a
 concurrent proof-search procedure based on the method of free-variable analytics tableaux that
@@ -49,7 +49,7 @@ and to produce machine-checkable proofs in Rocq, Lambdapi and Lisa.
 
 ### [TableauxRocq & POULET](https://github.com/jrosain/TableauxRocq) 🐓
 
-Work done done in collaboration with [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/), who was the main contributor.  
+Work done done in collaboration with [Johann Rosain](https://jrosain.gitlabpages.inria.fr/www/), who was the main contributor.  
 
 TableauxRocq is a Rocq library that provides a deep embedding of free-variable tableaux, together with a fully certified fast proof checker.  
 

@@ -22,7 +22,7 @@ With [Engel Lefaucheux](https://elefauch.github.io/)
 
 ## Bachelor's Thesis
 
-* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021-2022  
+* [Johann Rosain](https://jrosain.gitlabpages.inria.fr/www/) --- 2021-2022  
 *Deduction Modulo Theory and Polymorphism in Goéland*  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and [Simon Robillard](https://simon-robillard.net/)
 
@@ -57,7 +57,7 @@ With [Philipp Rümmer](http://www.philipp.ruemmer.org/)
 *A Dedukti Output for Goéland* | 2nd year of master  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and [Simon Robillard](https://simon-robillard.net/)
 
-* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2023  
+* [Johann Rosain](https://jrosain.gitlabpages.inria.fr/www/) --- 2023  
 *Deskolemization in First-Order Logic* | 3rd year of bachelor  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/), Olivier Hermant and [Simon Robillard](https://simon-robillard.net/)
 
@@ -77,7 +77,7 @@ With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and
 *Design of an Automated Tool for Benchmarks* | 3rd year of bachelor  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/) and Hinde Lilia Bouziane
 
-* [Johann Rosain](https://perso.ens-lyon.fr/johann.rosain/) --- 2021  
+* [Johann Rosain](https://jrosain.gitlabpages.inria.fr/www/) --- 2021  
 *Code Trees for Unification* | 2nd year of bachelor  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/) and Hinde Lilia Bouziane
 

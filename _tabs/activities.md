@@ -46,7 +46,7 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 ## Journal Reviewer
 * [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) (2025, 2026)
-* [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (2025)
+* [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (2025, 2026)
 * [Journal of Applied Logic](https://www.collegepublications.co.uk/ifcolog/) (2025)
 
 

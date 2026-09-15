@@ -28,10 +28,10 @@ order: 2
 
 ## Faculté des sciences, département informatique (University of Montpellier, France)
 * Program Verification --- 3rd year of bachelor's degree --- 2022-2023 --- [Coq guide]({{ site.url }}{{ site.baseurl }}/assets/pdf/guide_coq.pdf) (in French)
-* Network and Concurrent Programming --- 3rd year of bachelor's degree --- 2022-2023
+* Functional Programming --- 1st year of bachelor's degree --- 2022-2023
 * Data Warehouse and Big Data --- 1st year of master's degree --- 2021-2022
+* Multitask Programming --- 3rd year of bachelor's degree --- 2021-2023
 * First-Order Logic --- 3rd year of bachelor's degree --- 2021-2022
-* Functional Programming --- 1st year of bachelor's degree --- 2021-2022
 * Parallel and Distributed Programming --- 1st year of master's degree --- 2020-2021
 * Network, System and Web --- 1st year of bachelor's degree --- 2020-2021
 

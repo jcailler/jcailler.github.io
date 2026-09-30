@@ -9,7 +9,7 @@ I am the editor of the [AAR newsletter](https://aarinc.org//newletters). Please 
 
 > 
 Next Release:\\
-September 2026
+December 2026
 {: .prompt-tip }
 
 *Please note that this date is more of what you would call a guideline than an actual deadline.*  

@@ -53,7 +53,7 @@ With [Florent Krasnopol](https://www.linkedin.com/in/florent-krasnopol-18721a207
 *Implementation of a Decision Procedure for CaAL* | 1st year of master  
 With [Philipp Rümmer](http://www.philipp.ruemmer.org/)
 
-* [Dylan Bettendroffer](https://github.com/dym-dym) --- 2023  
+* [Dylan Bettendroffer](https://dylanbettendroffer.fr/) --- 2023  
 *A Dedukti Output for Goéland* | 2nd year of master  
 With [David Delahaye](https://www.lirmm.fr/~delahaye/), Hinde Lilia Bouziane and [Simon Robillard](https://simon-robillard.net/)
 

@@ -51,6 +51,8 @@ Together with [Simon Guilloud](https://simonguilloud.ch/), we organize the [Proo
 
 
 ## Subreviewer
+* [International Conference on Foundations and Formal Methods for Software and Systems](https://etaps.org/about/ifs/) --- **IFS** ([2027](https://etaps.org/2027/conferences/ifs/))
+* [The Symposium On Applied Computing](https://www.sigapp.org/sac/) --- **SAC** ([2027](https://www.sigapp.org/sac/sac2027/))
 * [International Joint Conference on Automated Reasoning](https://ijcar.org/) --- **IJCAR** ([2022](https://www.floc2022.org/), [2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), [2026](https://www.floc26.org/ijcar))
 * [International Conference on Interactive Theorem Proving](https://itp-conference.github.io/) --- **ITP** ([2025](https://icetcs.github.io/frocos-itp-tableaux25/))
 * [International Conference on Automated Deduction](https://cadeinc.org/) --- **CADE** ([2025](https://www.dhbw-stuttgart.de/cade-30/))
